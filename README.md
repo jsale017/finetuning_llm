@@ -1,12 +1,17 @@
 # finetuning_llm
 
 
-\nWe going to finetune a llm for ASC filing data making it super finance bro llm 
-\nyoull see how peppered this llm is going to be 
-\njust watch 
+We going to finetune a llm for ASC filing data making it super finance bro llm 
 
-\nwhat else do I write in the readme?
-\nim not sure but I am Jose Salerno!
-\n\nAI -> Oh nice to meet you Jose Salerno! how can I help you?
-\nJose -> I dont need your help bud, just watch! :)
-\nAI -> :O 
+youll see how peppered this llm is going to be 
+just watch 
+
+what else do I write in the readme?
+im not sure but I am Jose Salerno!
+
+
+AI -> Oh nice to meet you Jose Salerno! how can I help you?
+
+Jose -> I dont need your help bud, just watch! :)
+
+AI -> :O 
