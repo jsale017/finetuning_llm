@@ -1,0 +1,1268 @@
+{
+  "document_metadata": {
+    "asc_topic": "505-30",
+    "topic_title": "Treasury Stock",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "This Subtopic addresses the accounting for stock dividends and stock splits, repurchase of common stock, spinoffs, and other equity-related transactions. It includes guidance on recognition, measurement, presentation, and disclosure of these equity transactions.",
+      "scope": "The guidance applies to all entities that are corporations and covers transactions such as stock dividends, stock splits, repurchase and retirement of common stock, spinoffs, and distributions of nonmonetary assets constituting a business to owners. Specific exceptions and detailed scope are provided for certain transactions.",
+      "key_changes": [
+        "Fair Value definition added by Accounting Standards Update No. 2012-04",
+        "Amendments by Accounting Standards Update No. 2016-19 and Maintenance Update 2017-19",
+        "Supersessions by Accounting Standards Update No. 2018-07 and No. 2023-03"
+      ],
+      "objectives": [
+        "Provide accounting and reporting guidance for stock dividends and stock splits.",
+        "Provide guidance on repurchase and retirement of common stock.",
+        "Provide accounting for spinoffs and reverse spinoffs.",
+        "Ensure proper recognition, measurement, presentation, and disclosure of equity transactions."
+      ],
+      "core_principles": [
+        "Recognition criteria and timing must be met before recording equity transactions.",
+        "Measurement should be based on fair value or carrying amount as appropriate.",
+        "Presentation should clearly distinguish equity components and related transactions.",
+        "Disclosure should provide reconciliation and detailed information on equity changes."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic, including accounting for stock dividends, stock splits, repurchase of common stock, and spinoffs.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "Stock Dividends and Stock Splits",
+            "summary": "Addresses accounting for stock dividends and stock splits for recipients and issuers, including fair value considerations and EPS guidance.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-20-05-1",
+                "text": "This Subtopic addresses the accounting for stock dividends and stock splits. It includes guidance for the recipient as well as for the issuer.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "stock dividends",
+                  "stock splits"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-20-05-2",
+                "text": "Many recipients of stock dividends look upon them as distributions of corporate earnings, usually equivalent to the fair value of the additional shares received. Small stock dividends generally do not affect share market price or fair value of previously held shares.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "stock dividends",
+                  "fair value"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-20-05-4",
+                "text": "Unrealized appreciation from stock dividends or splits is not income; no distribution or severance of corporate assets occurs.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "fair value",
+                  "stock dividend",
+                  "stock split"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-20-05-5",
+                "text": "See paragraph 260-10-55-12 for earnings per share guidance if common shares increase due to stock dividends or splits.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "earnings per share",
+                  "stock dividend",
+                  "stock split"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "260-10-55-12"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the entities, transactions, instruments, or events to which the guidance applies or does not apply, including specific exceptions for stock dividends and spinoffs.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "Entities",
+            "summary": "Guidance applies to all entities that are corporations or all entities unless more specific guidance applies elsewhere.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-20-15-1",
+                "text": "The guidance in this Subtopic applies to all entities that are corporations.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "corporations"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities that are corporations.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-30-15-1",
+                "text": "The guidance in this Subtopic applies to all entities, unless more specific guidance is provided in other Topics.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities, unless more specific guidance is provided in other Topics.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-15-1",
+                "text": "The guidance in this Subtopic applies to all entities, unless more specific guidance is provided in other Topics.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities, unless more specific guidance is provided in other Topics.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Transactions",
+            "summary": "Guidance applies to stock dividends, stock splits, repurchase and retirement of common stock, spinoffs, and distributions of nonmonetary assets constituting a business.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-20-15-2",
+                "text": "The guidance in this Subtopic applies to all stock dividends and stock splits, with specific exceptions noted in paragraphs 505-20-15-3 through 15-3A.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "stock dividends",
+                  "stock splits"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all stock dividends and stock splits, with specific exceptions noted in paragraphs 505-20-15-3 through 15-3A.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "505-20-15-3",
+                  "505-20-15-3A"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-30-15-2",
+                "text": "The guidance in this Subtopic applies to all transactions involving the repurchase of an entity's own outstanding common stock as well as the subsequent constructive or actual retirement of those shares, unless more specific guidance for those transactions is provided in other Topics.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "transactions",
+                  "repurchase",
+                  "retirement"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all transactions involving the repurchase of an entity's own outstanding common stock as well as the subsequent constructive or actual retirement of those shares, unless more specific guidance for those transactions is provided in other Topics.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-15-2",
+                "text": "The guidance in this Subtopic applies to all transactions involving the distribution of nonmonetary assets that constitute a business to owners of an entity.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "transactions",
+                  "distribution",
+                  "nonmonetary assets",
+                  "business"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all transactions involving the distribution of nonmonetary assets that constitute a business to owners of an entity.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-3",
+            "subsection_title": "Exceptions",
+            "summary": "Certain distributions or issuances to shareholders are excluded from the guidance, such as shares of another corporation held as investment, different class shares, rights to subscribe, or election to receive cash or shares with aggregate cash limitation.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-20-15-3",
+                "text": "The guidance in this Subtopic does not apply to the accounting for a distribution or issuance to shareholders of any of the following: a. Shares of another corporation held as an investment b. Shares of a different class c. Rights to subscribe for additional shares d. Shares of the same class in cases in which each shareholder is given an election to receive cash or shares.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "distribution",
+                  "issuance",
+                  "shares of another corporation",
+                  "shares of a different class",
+                  "rights to subscribe",
+                  "election to receive cash or shares"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic does not apply to the accounting for a distribution or issuance to shareholders of any of the following: a. Shares of another corporation held as an investment b. Shares of a different class c. Rights to subscribe for additional shares d. Shares of the same class in cases in which each shareholder is given an election to receive cash or shares.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-20-15-3A",
+                "text": "Item (d) in the preceding paragraph includes, but is not limited to, a distribution having both of the following characteristics: a. The shareholder has the ability to elect to receive the shareholder's entire distribution in cash or shares of equivalent value. b. There is a potential limitation on the total amount of cash that all shareholders can elect to receive in the aggregate.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "distribution",
+                  "cash or shares",
+                  "limitation on cash"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Item (d) in the preceding paragraph includes, but is not limited to, a distribution having both of the following characteristics: a. The shareholder has the ability to elect to receive the shareholder's entire distribution in cash or shares of equivalent value. b. There is a potential limitation on the total amount of cash that all shareholders can elect to receive in the aggregate.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "480-10-25-14",
+                  "260-10-45-45",
+                  "260-10-45-47"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "Provides guidance on the required criteria, timing, and location for recording equity transactions in the financial statements. Disclosure is not recognition.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "General Recognition Guidance",
+            "summary": "Recognition criteria for equity transactions including additional paid-in capital and share-based compensation.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-25-1",
+                "text": "Additional paid-in capital, however created, shall not be used to relieve income of the current or future years of charges that would otherwise be made to the income statement. See paragraph 852-20-25-2 for an exception related to reorganizations.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "additional paid-in capital",
+                  "income statement",
+                  "reorganizations"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Additional paid-in capital, however created, shall not be used to relieve income of the current or future years of charges that would otherwise be made to the income statement.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": [
+                      "exception to this guidance related to reorganizations (see 852-20-25-2)"
+                    ]
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "852-20-25-2"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-10-25-2",
+                "text": "Adjustments or charges or credits resulting from transactions in the entity's own capital stock, transfers to and from accounts properly designated as appropriated retained earnings, and adjustments made pursuant to a quasi-reorganization shall be excluded from determination of net income or results of operations under all circumstances.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "net income",
+                  "results of operations",
+                  "capital stock",
+                  "appropriated retained earnings",
+                  "quasi-reorganization"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Adjustments or charges or credits resulting from transactions in the entity's own capital stock, transfers to and from accounts properly designated as appropriated retained earnings, and adjustments made pursuant to a quasi-reorganization shall be excluded from determination of net income or results of operations under all circumstances.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "505-10-45-3",
+                  "852-20"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-10-25-3",
+                "text": "An investee shall recognize the costs of share-based payment incurred by the investor on its behalf and a corresponding capital contribution as the costs are incurred, following guidance in Topic 718 on stock compensation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "share-based compensation",
+                  "equity method investee",
+                  "capital contribution",
+                  "stock compensation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An investee shall recognize the costs of the share-based payment incurred by the investor on its behalf, and a corresponding capital contribution, as the costs are incurred on its behalf.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "323-10-25-3 through 25-5",
+                  "718"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "35",
+        "section_title": "Subsequent Measurement",
+        "section_type": "Subsequent Measurement",
+        "summary": "Guidance on subsequent measurement and recognition of equity items, including reclassification and fair value adjustments.",
+        "subsections": [
+          {
+            "subsection_number": "35-1",
+            "subsection_title": "General",
+            "summary": "Guidance on reclassification of convertible preferred stock to liability upon expiration of conversion feature and subsequent measurement under Topic 480.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-35-1",
+                "text": "If convertible preferred stock is required to be redeemed once the conversion feature expires, the instrument becomes a liability under Topic 480 and must be reclassified and measured initially at fair value with a corresponding reduction of equity. Subsequent measurement follows Topic 480 provisions.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "convertible preferred stock",
+                  "liability",
+                  "fair value",
+                  "paid-in capital",
+                  "Topic 480"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "815-40-65-1",
+                  "480",
+                  "480-10-30-2"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "45",
+        "section_title": "Other Presentation Matters",
+        "section_type": "Presentation",
+        "summary": "Guidance on presentation matters not addressed in other sections, including balance sheet classification, cash flow presentation, and earnings per share matters.",
+        "subsections": [
+          {
+            "subsection_number": "45-1",
+            "subsection_title": "General",
+            "summary": "Guidance on reporting notes receivable from issuance of equity interests and appropriations of retained earnings.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-45-1",
+                "text": "Guidance on whether an entity shall report a note receivable from issuance of equity interests as a reduction of shareholders' equity or as an asset, and on appropriations of retained earnings.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "note receivable",
+                  "issuance of equity interests",
+                  "shareholders' equity",
+                  "appropriations of retained earnings"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-2",
+            "subsection_title": "Receivables for Issuance of Equity",
+            "summary": "Notes received as contribution to equity are generally not reported as assets except in limited circumstances with evidence of ability and intent to pay.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-45-2",
+                "text": "An entity may receive a note rather than cash as a contribution to equity. Reporting the note as an asset is generally not appropriate except when there is substantial evidence of ability and intent to pay within a reasonably short period, e.g., public entities per paragraph 210-10-S99-1, which requires deduction of the receivable from equity. Notes may be recorded as assets if collected in cash before financial statements are issued or available to be issued.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "note",
+                  "contribution to equity",
+                  "capital stock",
+                  "paid-in capital",
+                  "asset",
+                  "deduction from equity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "210-10-S99-1",
+                  "855-10-25"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-3",
+            "subsection_title": "Appropriations of Retained Earnings",
+            "summary": "Appropriations of retained earnings must be shown within shareholders' equity and clearly identified; costs or losses shall not be charged to appropriations nor transferred to income.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-45-3",
+                "text": "Appropriation of retained earnings is permitted if shown within shareholders' equity and clearly identified as such.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "appropriation of retained earnings",
+                  "shareholders' equity",
+                  "balance sheet"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-10-45-4",
+                "text": "Costs or losses shall not be charged to an appropriation of retained earnings, and no part of the appropriation shall be transferred to income.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "costs",
+                  "losses",
+                  "appropriation of retained earnings",
+                  "income"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Costs or losses shall not be charged to an appropriation of retained earnings, and no part of the appropriation shall be transferred to income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Guidance on disclosure requirements for changes in stockholders' equity, preferred shares, restrictions on dividends, and other equity-related disclosures.",
+        "subsections": [
+          {
+            "subsection_number": "S50-1",
+            "subsection_title": "Changes in Stockholders' Equity",
+            "summary": "An analysis of changes in stockholders' equity and noncontrolling interests must be presented in notes or separate statements with reconciliation and detailed disclosures.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-1",
+                "text": "An analysis of changes in each caption of stockholders' equity and noncontrolling interests shall be given in a note or separate statement. The analysis shall reconcile beginning to ending balances for each period with significant reconciling items described by captions, contributions and distributions shown separately, retroactive adjustments stated separately, dividends stated per share and aggregate, and effects of changes in ownership interest disclosed.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "stockholders' equity",
+                  "noncontrolling interests",
+                  "reconciliation",
+                  "dividends",
+                  "ownership interest"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An analysis of the changes in each caption of stockholders' equity and noncontrolling interests presented in the balance sheets shall be given in a note or separate statement.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "This analysis shall be presented in the form of a reconciliation of the beginning balance to the ending balance for each period for which a statement of comprehensive income is required to be filed with all significant reconciling items described by appropriate captions with contributions from and distributions to owners shown separately.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "State separately the adjustments to the balance at the beginning of the earliest period presented for items which were retroactively applied to periods prior to that period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "With respect to any dividends, state the amount per share and in the aggregate for each class of shares.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Provide a separate schedule in the notes to the financial statements that shows the effects of any changes in the registrant's ownership interest in a subsidiary on the equity attributable to the registrant.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "60",
+        "section_title": "Spinoffs and Reverse Spinoffs",
+        "section_type": "Overview",
+        "summary": "Guidance related to distribution of nonmonetary assets constituting a business to owners, including spinoffs and reverse spinoffs, their accounting, recognition, and presentation.",
+        "subsections": [
+          {
+            "subsection_number": "60-05",
+            "subsection_title": "Overview and Background",
+            "summary": "Provides background on spinoff transactions, including legal and accounting considerations, and examples.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-60-05-1",
+                "text": "This Subtopic provides guidance related to the distribution of nonmonetary assets that constitute a business to owners of an entity in transactions commonly referred to as spinoffs. It also addresses spinoff transactions where the substance differs from the legal form (reverse spinoffs) and provides guidance on accounting and reporting.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "spinoffs",
+                  "reverse spinoffs",
+                  "distribution",
+                  "nonmonetary assets",
+                  "business"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "60-15",
+            "subsection_title": "Scope and Applicability",
+            "summary": "Scope applies to all entities and transactions involving distribution of nonmonetary assets constituting a business; excludes distributions not constituting a business.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-60-15-1",
+                "text": "The guidance in this Subtopic applies to all entities, unless more specific guidance is provided in other Topics.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities, unless more specific guidance is provided in other Topics.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-15-2",
+                "text": "The guidance in this Subtopic applies to all transactions involving the distribution of nonmonetary assets that constitute a business to owners of an entity.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "transactions",
+                  "distribution",
+                  "nonmonetary assets",
+                  "business"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all transactions involving the distribution of nonmonetary assets that constitute a business to owners of an entity.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-15-3",
+                "text": "The guidance in this Subtopic does not apply to distributions of nonmonetary assets that do not constitute a business.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "distributions",
+                  "nonmonetary assets",
+                  "business"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic does not apply to distributions of nonmonetary assets that do not constitute a business.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "60-20",
+            "subsection_title": "Glossary",
+            "summary": "Defines key terms such as business, reverse spinoff, and spinoff.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-60-20-Business",
+                "text": "Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "business"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-20-ReverseSpinoff",
+                "text": "A spinoff of a subsidiary to an entity's shareholders in which the legal form of the transaction does not match its substance such that the new legal spun-off entity (the spinnee) will be the continuing entity.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "reverse spinoff"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-20-Spinoff",
+                "text": "The transfer of assets that constitute a business by an entity (the spinnor) into a new legal spun-off entity (the spinnee), followed by a distribution of the shares of the spinnee to its shareholders, without the surrender by the shareholders of any stock of the spinnor.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "spinoff"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "Recognition",
+            "summary": "Required accounting for spinoff transactions and treatment of reverse spinoffs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-60-25-1",
+                "text": "This Section identifies the required accounting for a spinoff transaction. It also provides guidance on when a spinoff shall be treated as a reverse spinoff and the accounting required by that determination.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "spinoff",
+                  "reverse spinoff",
+                  "accounting"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-25-2",
+                "text": "Accounting for distribution of nonmonetary assets to owners in a spinoff shall be based on recorded amount after impairment if any. The assets must constitute a business. Distribution of shares of wholly owned or consolidated subsidiary shall be recorded based on carrying value. The transaction shall not be accounted as a sale followed by distribution of proceeds.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "spinoff",
+                  "distribution",
+                  "nonmonetary assets",
+                  "business",
+                  "carrying value",
+                  "sale"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Accounting for the distribution of nonmonetary assets to owners of an entity in a spinoff shall be based on the recorded amount (after reduction, if appropriate, for an indicated impairment of value). The nonmonetary assets being distributed must constitute a business. Distribution of shares of a wholly owned or consolidated subsidiary to shareholders shall be recorded based on the carrying value of the subsidiary. The transaction shall not be accounted for as a sale of the accounting spinnee followed by a distribution of the proceeds.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "845-10-30-10",
+                  "505-60-15"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-60-25-4",
+                "text": "In a reverse spinoff, the legal spinnee shall be treated as though it were the spinnor for accounting purposes.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "reverse spinoff",
+                  "legal spinnee",
+                  "spinnor",
+                  "accounting"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "In a reverse spinoff, the legal spinnee shall be treated as though it were the spinnor for accounting purposes.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": [
+              {
+                "example_id": "505-60-55-1",
+                "title": "Example 1: Spinoff",
+                "scenario": "Big Company splits into two entities by transferring mall assets to a new subsidiary and distributing shares to shareholders.",
+                "analysis": "Illustrates a spinoff transaction where assets constituting a business are transferred and shares distributed pro rata.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "505-60-55-1",
+                  "505-60-55-2"
+                ],
+                "financial_statement_impact": null
+              },
+              {
+                "example_id": "505-60-55-4",
+                "title": "Example 2: Reverse Spinoff",
+                "scenario": "Snack Food Company distributes shares of its larger, more profitable Ice Cream Subsidiary to shareholders, who then dispose of the remaining snack operations.",
+                "analysis": "Illustrates a reverse spinoff where the legal form differs from substance, with the spinnee treated as the continuing entity.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "505-60-55-4",
+                  "505-60-55-5"
+                ],
+                "financial_statement_impact": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "S99",
+        "section_title": "SEC Materials",
+        "section_type": "Disclosure",
+        "summary": "Selected SEC and SEC Staff content for reference by public companies, including views on equity transactions and presentation.",
+        "subsections": [
+          {
+            "subsection_number": "S99-1",
+            "subsection_title": "Regulation S-X Rule 3-04",
+            "summary": "Requirements for presenting changes in stockholders' equity and noncontrolling interests.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-1",
+                "text": "An analysis of changes in each caption of stockholders' equity and noncontrolling interests presented in the balance sheets shall be given in a note or separate statement with reconciliation and detailed disclosures.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "stockholders' equity",
+                  "noncontrolling interests",
+                  "reconciliation",
+                  "dividends",
+                  "ownership interest"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An analysis of the changes in each caption of stockholders' equity and noncontrolling interests presented in the balance sheets shall be given in a note or separate statement.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-2",
+            "subsection_title": "Regulation S-X Rule 4-07",
+            "summary": "Requirements on presenting discounts on shares and unamortized balances as deductions from applicable accounts.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-2",
+                "text": "Discount on shares, or any unamortized balance thereof, shall be shown separately as a deduction from the applicable account(s) as circumstances require.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "discount on shares",
+                  "unamortized balance"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Discount on shares, or any unamortized balance thereof, shall be shown separately as a deduction from the applicable account(s) as circumstances require.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-3",
+            "subsection_title": "SAB Topic 4.B, S Corporations",
+            "summary": "Undistributed earnings of S corporations must be included as additional paid-in capital in financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-3",
+                "text": "Such earnings must be included in the financial statements as additional paid-in capital, assuming a constructive distribution followed by a contribution to capital.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "S corporation",
+                  "undistributed earnings",
+                  "additional paid-in capital"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Such earnings must be included in the financial statements as additional paid-in capital.",
+                    "mandatory_language": [
+                      "must"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-4",
+            "subsection_title": "SAB Topic 4.C, Changes in Capital Structure",
+            "summary": "Changes in capital structure must be given retroactive effect in the balance sheet with appropriate disclosure.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-4",
+                "text": "Changes in capital structure must be given retroactive effect in the balance sheet. An appropriately cross-referenced note should disclose the retroactive treatment, explain the change made and state the date the change became effective.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "capital structure",
+                  "retroactive effect"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Changes in capital structure must be given retroactive effect in the balance sheet.",
+                    "mandatory_language": [
+                      "must"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "An appropriately cross-referenced note should disclose the retroactive treatment, explain the change made and state the date the change became effective.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-5",
+            "subsection_title": "SAB Topic 4.F, Limited Partnerships",
+            "summary": "Equity section of partnership balance sheets should distinguish ownership classes and provide statements of changes and income allocation.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-5",
+                "text": "The equity section of a partnership balance sheet should distinguish between amounts ascribed to each ownership class, state equity of general and limited partners separately, show changes in equity units, provide statements of changes in partnership equity and income statements showing net income allocated to each class and results on a per unit basis.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "limited partnerships",
+                  "equity section",
+                  "general partners",
+                  "limited partners"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The equity section of a partnership balance sheet should distinguish between amounts ascribed to each ownership class.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The equity attributed to the general partners should be stated separately from the equity of the limited partners, and changes in the number of equity units authorized and outstanding should be shown for each ownership class.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "A statement of changes in partnership equity for each ownership class should be furnished for each period for which an income statement is included.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The income statements of partnerships should be presented in a manner which clearly shows the aggregate amount of net income (loss) allocated to the general partners and the aggregate amount allocated to the limited partners.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The statement of income should also state the results of operations on a per unit basis.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-7",
+            "subsection_title": "SAB Topic 5.Q, Increasing Rate Preferred Stock",
+            "summary": "Guidance on initial recording and subsequent carrying amount increases for increasing rate preferred stock.",
+            "paragraphs": [
+              {
+                "paragraph_id": "505-10-S99-7",
+                "text": "Increasing rate preferred stock should be recorded initially at its fair value on date of issuance. Thereafter, the carrying amount should be increased periodically as discussed in the Interpretive Response to Question 2.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "increasing rate preferred stock",
+                  "fair value",
+                  "carrying amount"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Increasing rate preferred stock should be recorded initially at its fair value on date of issuance.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Thereafter, the carrying amount should be increased periodically as discussed in the Interpretive Response to Question 2.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "505-10-S99-7-Q2",
+                "text": "The staff believes that discounts on increasing rate preferred stock represent prepaid dividend cost and should be treated accordingly for income and EPS purposes.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "dividend cost",
+                  "prepaid dividend",
+                  "discount"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "805-10",
+      "relationship_type": "related",
+      "description": "Defines what is considered a business.",
+      "specific_paragraphs": [
+        "805-10-55-3A",
+        "805-10-55-6",
+        "805-10-55-8",
+        "805-10-55-9"
+      ]
+    },
+    {
+      "referenced_topic": "845-10",
+      "relationship_type": "related",
+      "description": "Provides guidance on the accounting for the distribution of nonmonetary assets to owners of an entity in a spinoff.",
+      "specific_paragraphs": [
+        "845-10-30-10"
+      ]
+    },
+    {
+      "referenced_topic": "205-20",
+      "relationship_type": "related",
+      "description": "Reporting of discontinued operations in connection with spinoffs.",
+      "specific_paragraphs": [
+        "205-20-45-1A",
+        "205-20-45-1B",
+        "205-20-45-1C"
+      ]
+    },
+    {
+      "referenced_topic": "718",
+      "relationship_type": "related",
+      "description": "Compensation-related consequences of exchanges of share options or other equity instruments or changes to their terms in conjunction with an equity restructuring.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "250",
+      "relationship_type": "related",
+      "description": "Accounting Changes and Error Corrections; referenced in SEC Staff guidance regarding restatement of historical financial statements in a spin-off.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "360",
+      "relationship_type": "related",
+      "description": "Referenced in SEC Staff guidance for presentation of the disposition of a business in a spin-off.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "280-10",
+      "relationship_type": "related",
+      "description": "Segment Reporting Topic; referenced in SEC Staff guidance regarding dissimilarity of businesses in spin-off transactions.",
+      "specific_paragraphs": [
+        "280-10-50-10"
+      ]
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Fair Value",
+      "definition": "The price that would be received to sell an asset or paid to transfer a liability in an market participants at the measurement date."
+    },
+    {
+      "term": "Market Participants",
+      "definition": "Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics: a. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms b. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary c. They are able to enter into a transaction for the asset or liability d. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so."
+    },
+    {
+      "term": "Orderly Transaction",
+      "definition": "A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale)."
+    },
+    {
+      "term": "Related Parties",
+      "definition": "Related parties include: 1. Affiliates of the entity 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management 4. Principal owners of the entity and members of their immediate families 5. Management of the entity and members of their immediate families 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests."
+    },
+    {
+      "term": "Stock Dividend",
+      "definition": "An issuance by a corporation of its own common shares to its common shareholders without consideration and under conditions indicating that such action is prompted mainly by a desire to give the recipient shareholders some ostensibly separate evidence of a part of their respective interests in accumulated corporate earnings without distribution of cash or other property that the board of directors deems necessary or desirable to retain in the business. A stock dividend takes nothing from the property of the corporation and adds nothing to the interests of the stockholders; that is, the corporation's property is not diminished and the interests of the stockholders are not increased. The proportional interest of each shareholder remains the same."
+    },
+    {
+      "term": "Stock Split",
+      "definition": "An issuance by a corporation of its own common shares to its common shareholders without consideration and under conditions indicating that such action is prompted mainly by a desire to increase the number of outstanding shares for the purpose of effecting a reduction in their unit market price and, thereby, of obtaining wider distribution and improved marketability of the shares. Sometimes called a stock split-up."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Customer",
+      "definition": "A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration."
+    },
+    {
+      "term": "Issued, Issuance, or Issuing of an Equity Instrument",
+      "definition": "An equity instrument is issued when the issuing entity receives the agreed-upon consideration, which may be cash, an enforceable right to receive cash, or another financial instrument, goods, or services. An entity may conditionally transfer an equity instrument to another party under an arrangement that permits that party to choose at a later date or for a specified time whether to deliver the consideration or to forfeit the right to the conditionally transferred instrument with no further obligation. In that situation, the equity instrument is not issued until the issuing entity has received the consideration. The grant of stock options or other equity instruments subject to vesting conditions is not considered to be issuance."
+    },
+    {
+      "term": "Market Condition",
+      "definition": "A condition affecting the exercise price, exercisability, or other pertinent factors used in determining the fair value of an award under a share-based payment arrangement that relates to the achievement of either of the following: 1. A specified price of the issuer's shares or a specified amount of intrinsic value indexed solely to the issuer's shares 2. A specified price of the issuer's shares in terms of a similar (or index of similar) equity security (securities). The term similar as used in this definition refers to an equity security of another entity that has the same type of residual rights. For example, common stock of one entity generally would be similar to the common stock of another entity for this purpose."
+    },
+    {
+      "term": "Business",
+      "definition": "Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business."
+    },
+    {
+      "term": "Reverse Spinoff",
+      "definition": "A spinoff of a subsidiary to an entity's shareholders in which the legal form of the transaction does not match its substance such that the new legal spun-off entity (the spinnee) will be the continuing entity."
+    },
+    {
+      "term": "Spinoff",
+      "definition": "The transfer of assets that constitute a business by an entity (the spinnor) into a new legal spun-off entity (the spinnee), followed by a distribution of the shares of the spinnee to its shareholders, without the surrender by the shareholders of any stock of the spinnor."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

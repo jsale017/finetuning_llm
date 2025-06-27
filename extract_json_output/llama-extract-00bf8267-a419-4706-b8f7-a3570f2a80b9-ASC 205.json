@@ -1,0 +1,1822 @@
+{
+  "document_metadata": {
+    "asc_topic": "205",
+    "topic_title": "Presentation of Financial Statements",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "Other",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Presentation of Financial Statements Topic includes guidance on the presentation and disclosure of financial statements, including specific Subtopics on Overall presentation, Discontinued Operations, and Liquidation Basis of Accounting. The Overview and Background Sections provide material useful to understand typical situations addressed by the standards but do not summarize accounting and reporting requirements. The Discontinued Operations Subtopic provides guidance on presentation and disclosure requirements for discontinued operations, which may include components of an entity, groups of components, or business/nonprofit activities. The Liquidation Basis of Accounting Subtopic provides guidance on when and how to prepare financial statements using the liquidation basis and related disclosures.",
+      "scope": "The Scope and Scope Exceptions Sections outline the entities, transactions, instruments, or events to which the guidance applies or does not apply. The Presentation of Financial Statements guidance applies to business entities and not-for-profit entities. The Discontinued Operations Subtopic applies to components or groups of components disposed of or classified as held for sale, and to business or nonprofit activities classified as held for sale on acquisition, with exceptions such as oil and gas properties accounted for under SEC full-cost method. The Liquidation Basis of Accounting Subtopic applies to all entities except investment companies regulated under the Investment Company Act of 1940.",
+      "key_changes": [
+        "Business - Amended by Accounting Standards Update No. 2017-01 on 01/05/2017",
+        "Business - Added by Accounting Standards Update No. 2014-08 on 04/10/2014",
+        "Comprehensive Income - Added by Accounting Standards Update No. 2011-05 on 06/16/2011",
+        "Corporate Joint Venture - Added by Accounting Standards Update No. 2023-05 on 08/23/2023",
+        "Joint Venture - Added by Accounting Standards Update No. 2023-05 on 08/23/2023",
+        "Nonprofit Activity - Added by Accounting Standards Update No. 2014-08 on 04/10/2014",
+        "205-10-05-1 - Amended by Accounting Standards Update No. 2013-07 on 04/22/2013",
+        "205-10-05-3 - Amended by Accounting Standards Update No. 2023-05 on 08/23/2023",
+        "205-10-05-3 - Amended by Accounting Standards Update No. 2014-08 on 04/10/2014",
+        "205-10-05-3A - Added by Accounting Standards Update No. 2014-08 on 04/10/2014",
+        "205-10-05-4 - Added by Accounting Standards Update No. 2013-07 on 04/22/2013",
+        "205-10-45-1A - Added by Accounting Standards Update No. 2011-05 on 06/16/2011",
+        "205-10-45-4 - Amended by Accounting Standards Update No. 2020-10 on 10/29/2020",
+        "205-10-50-2 - Added by Accounting Standards Update No. 2020-10 on 10/29/2020"
+      ],
+      "objectives": [
+        "To provide guidance on the presentation and disclosure of financial statements, including comparative financial statements and discontinued operations.",
+        "To establish the scope and applicability of the guidance to various entities and transactions.",
+        "To provide specific guidance on the liquidation basis of accounting and related disclosures."
+      ],
+      "core_principles": [
+        "Comparative financial statements enhance the usefulness of financial reports and should be presented with prior-year figures that are comparable.",
+        "Discontinued operations should be reported when a component or group of components or a business/nonprofit activity is disposed of or classified as held for sale and meet specified criteria.",
+        "The liquidation basis of accounting should be applied when liquidation is imminent, with specific measurement, recognition, presentation, and disclosure requirements.",
+        "Financial statements should be prepared using generally accepted terminology and form, and material information should be disclosed to avoid misleading statements."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. It may contain material useful to understand typical situations addressed by the standards.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "Overall Presentation",
+            "summary": "The Presentation of Financial Statements Topic includes Overall, Discontinued Operations, and Liquidation Basis of Accounting Subtopics.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-10-05-1",
+                "text": "The Presentation of Financial Statements Topic includes the following Subtopics: a. Overall b. Discontinued Operations c. Liquidation Basis of Accounting.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Overall",
+                  "Discontinued Operations",
+                  "Liquidation Basis of Accounting"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-05-2",
+                "text": "The Overall Subtopic describes the benefits of presenting comparative financial statements instead of single-period financial statements, and addresses how the comparative information shall be presented and the required disclosures.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "comparative financial statements",
+                  "single-period financial statements",
+                  "disclosures"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-05-3",
+                "text": "The Discontinued Operations Subtopic discusses the conditions under which either of the following would be reported in an entity's financial statements as a discontinued operation: a. A component of an entity that either has been disposed of or is classified as held for sale b. A business or nonprofit activity that, on acquisition, is classified as held for sale.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "discontinued operation",
+                  "component of an entity",
+                  "held for sale",
+                  "business",
+                  "nonprofit activity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-05-3A",
+                "text": "If a component of an entity that either has been disposed of or is classified as held for sale does not meet the conditions to be reported in discontinued operations, Section 360-10-45 on other presentation matters of property, plant, and equipment provides guidance on presenting disposal gains and losses and impairment losses on assets classified as held for sale.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "component of an entity",
+                  "discontinued operations",
+                  "disposal gains and losses",
+                  "impairment losses",
+                  "assets classified as held for sale"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "360-10-45"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "Overall Scope",
+            "summary": "The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Presentation of Financial Statements Topic.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-10-15-1",
+                "text": "The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Presentation of Financial Statements Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Presentation of Financial Statements Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope",
+                  "Presentation of Financial Statements Topic"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-15-2",
+                "text": "The guidance in the Presentation of Financial Statements Topic applies to business entities and not-for-profit entities (NFPs).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "business entities",
+                  "not-for-profit entities",
+                  "NFPs"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in the Presentation of Financial Statements Topic applies to business entities and not-for-profit entities (NFPs).",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "45",
+        "section_title": "Other Presentation Matters",
+        "section_type": "Presentation",
+        "summary": "Provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections.",
+        "subsections": [
+          {
+            "subsection_number": "45-1",
+            "subsection_title": "Comparative Financial Statements",
+            "summary": "The presentation of comparative financial statements in annual and other reports enhances the usefulness of such reports and brings out more clearly the nature and trends of current changes affecting the entity.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-10-45-1",
+                "text": "The presentation of comparative financial statements in annual and other reports enhances the usefulness of such reports and brings out more clearly the nature and trends of current changes affecting the entity. Such presentation emphasizes the fact that statements for a series of periods are far more significant than those for a single period and that the accounts for one period are but an installment of what is essentially a continuous history.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "comparative financial statements",
+                  "annual reports",
+                  "trends"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-45-1A",
+                "text": "A full set of financial statements for a period shall show all of the following: a. Financial position at the end of the period b. Earnings (net income) for the period, (which may be presented as a separate statement or within a continuous statement of comprehensive income [see paragraph 220-10-45-1A]) c. Comprehensive income (total nonowner changes in equity) for the period in one statement or two separate but consecutive statements (if the reporting entity is required to report comprehensive income, see paragraph 220-10-15-3) d. Cash flows during the period e. Investments by and distributions to owners during the period.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "financial position",
+                  "earnings",
+                  "net income",
+                  "comprehensive income",
+                  "cash flows",
+                  "investments by owners",
+                  "distributions to owners"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A full set of financial statements for a period shall show all of the following: a. Financial position at the end of the period b. Earnings (net income) for the period, (which may be presented as a separate statement or within a continuous statement of comprehensive income) c. Comprehensive income (total nonowner changes in equity) for the period in one statement or two separate but consecutive statements d. Cash flows during the period e. Investments by and distributions to owners during the period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-1A",
+                  "220-10-15-3"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-45-2",
+                "text": "In any one year it is ordinarily desirable that the statement of financial position, the income statement, and the statement of changes in equity be presented for one or more preceding years, as well as for the current year.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "statement of financial position",
+                  "income statement",
+                  "statement of changes in equity",
+                  "preceding years"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-45-3",
+                "text": "Prior-year figures shown for comparative purposes shall in fact be comparable with those shown for the most recent period. Any exceptions to comparability shall be clearly brought out as described in Topic 250.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "prior-year figures",
+                  "comparability"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Prior-year figures shown for comparative purposes shall in fact be comparable with those shown for the most recent period. Any exceptions to comparability shall be clearly brought out as described in Topic 250.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "250"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-10-45-4",
+                "text": "Notes to financial statements, explanations, and accountants' reports containing qualifications that appeared on the statements for the preceding years shall be repeated, or at least referred to, in the comparative statements to the extent that they continue to be of significance. (See paragraph 205-10-50-2.)",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "notes to financial statements",
+                  "accountants' reports",
+                  "comparative statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Notes to financial statements, explanations, and accountants' reports containing qualifications that appeared on the statements for the preceding years shall be repeated, or at least referred to, in the comparative statements to the extent that they continue to be of significance.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "205-10-50-2"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides guidance regarding the disclosure in the notes to financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "Changes Affecting Comparability",
+            "summary": "If, because of reclassifications or for other reasons, changes have occurred in the manner of or basis for presenting corresponding items for two or more periods, information shall be furnished that will explain the change.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-10-50-1",
+                "text": "If, because of reclassifications or for other reasons, changes have occurred in the manner of or basis for presenting corresponding items for two or more periods, information shall be furnished that will explain the change. This procedure is in conformity with the well-recognized principle that any change in practice that affects comparability of financial statements shall be disclosed.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "reclassifications",
+                  "comparability",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If, because of reclassifications or for other reasons, changes have occurred in the manner of or basis for presenting corresponding items for two or more periods, information shall be furnished that will explain the change.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "changes have occurred in the manner of or basis for presenting corresponding items for two or more periods"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Any change in practice that affects comparability of financial statements shall be disclosed.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "change in practice that affects comparability"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "changes have occurred in the manner of or basis for presenting corresponding items for two or more periods"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-2",
+            "subsection_title": "Notes to Financial Statements, Explanations, and Accountants' Reports",
+            "summary": "Notes and reports containing qualifications that appeared on prior statements shall be repeated or referred to in comparative statements if still significant.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-10-50-2",
+                "text": "Notes to financial statements, explanations, and accountants' reports containing qualifications that appeared on the statements for the preceding years shall be repeated, or at least referred to, in the statements to the extent that they continue to be of significance. (See paragraph 205-10-45-4.)",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "notes to financial statements",
+                  "accountants' reports",
+                  "comparative statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Notes to financial statements, explanations, and accountants' reports containing qualifications that appeared on the statements for the preceding years shall be repeated, or at least referred to, in the statements to the extent that they continue to be of significance.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "205-10-45-4"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "4-01",
+        "section_title": "Form, Order and Terminology",
+        "section_type": "Presentation",
+        "summary": "Requirements for the form, order, and terminology of financial statements, including use of GAAP, presentation of money amounts, and display of negative amounts.",
+        "subsections": [
+          {
+            "subsection_number": "4-01(a)",
+            "subsection_title": "General Requirements",
+            "summary": "Financial statements should be filed in a form and order using generally accepted terminology to best indicate their significance and character, with minimum required information and additional material to avoid misleading statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-01(a)",
+                "text": "Financial statements should be filed in such form and order, and should use such generally accepted terminology, as will best indicate their significance and character in the light of the provisions applicable thereto. The information required with respect to any statement shall be furnished as a minimum requirement to which shall be added such further material information as is necessary to make the required statements, in the light of the circumstances under which they are made, not misleading.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "financial statements",
+                  "form and order",
+                  "generally accepted terminology",
+                  "minimum requirement",
+                  "material information",
+                  "not misleading"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Financial statements should be filed in such form and order, and should use such generally accepted terminology, as will best indicate their significance and character.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The information required with respect to any statement shall be furnished as a minimum requirement to which shall be added such further material information as is necessary to make the required statements, in the light of the circumstances under which they are made, not misleading.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "4-01(a)(1)",
+                "text": "Financial statements filed with the Commission which are not prepared in accordance with generally accepted accounting principles will be presumed to be misleading or inaccurate, despite footnote or other disclosures, unless the Commission has otherwise provided.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "generally accepted accounting principles",
+                  "misleading",
+                  "inaccurate"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Financial statements not prepared in accordance with generally accepted accounting principles will be presumed to be misleading or inaccurate, unless the Commission has otherwise provided.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": [
+                      "unless the Commission has otherwise provided"
+                    ]
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "4-01(a)(2)",
+                "text": "In all filings of foreign private issuers (see § 230.405 of this chapter), except as stated otherwise in the applicable form, the financial statements may be prepared according to a comprehensive set of accounting principles other than those generally accepted in the United States or International Financial Reporting Standards as issued by the International Accounting Standards Board, if a reconciliation to U.S. Generally Accepted Accounting Principles and the provisions of Regulation S-X of the type specified in Item 18 of Form 20-F (§ 249.220f of this chapter) is also filed as part of the financial statements. Alternatively, the financial statements may be prepared according to U.S. Generally Accepted Accounting Principles or International Financial Reporting Standards as issued by the International Accounting Standards Board.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "foreign private issuers",
+                  "accounting principles",
+                  "reconciliation",
+                  "U.S. GAAP",
+                  "IFRS"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Financial statements of foreign private issuers may be prepared according to a comprehensive set of accounting principles other than U.S. GAAP or IFRS, if a reconciliation to U.S. GAAP and Regulation S-X is also filed.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": [
+                      "if a reconciliation to U.S. GAAP and Regulation S-X is also filed"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Alternatively, the financial statements may be prepared according to U.S. GAAP or IFRS as issued by the IASB.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "§ 230.405",
+                  "Item 18 of Form 20-F (§ 249.220f)"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "4-01(b)",
+            "subsection_title": "Money Amounts",
+            "summary": "Money amounts in financial statements may be expressed in whole dollars or multiples thereof, with an indication if not in whole dollars.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-01(b)",
+                "text": "All money amounts required to be shown in financial statements may be expressed in whole dollars or multiples thereof, as appropriate: Provided, That, when stated in other than whole dollars, an indication to that effect is inserted immediately beneath the caption of the statement or schedule, at the top of the money columns, or at an appropriate point in narrative material.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "money amounts",
+                  "whole dollars",
+                  "indication"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "All money amounts required to be shown in financial statements may be expressed in whole dollars or multiples thereof, as appropriate.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "When stated in other than whole dollars, an indication to that effect is inserted immediately beneath the caption of the statement or schedule, at the top of the money columns, or at an appropriate point in narrative material.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "when stated in other than whole dollars"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "4-01(c)",
+            "subsection_title": "Negative Amounts",
+            "summary": "Negative amounts must be shown in a manner that clearly distinguishes the negative attribute.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-01(c)",
+                "text": "Negative amounts (red figures) shall be shown in a manner which clearly distinguishes the negative attribute. When determining methods of display, consideration should be given to the limitations of reproduction and microfilming processes.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "negative amounts",
+                  "display",
+                  "reproduction",
+                  "microfilming"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Negative amounts shall be shown in a manner which clearly distinguishes the negative attribute.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "4-02",
+        "section_title": "Items Not Material",
+        "section_type": "Presentation",
+        "summary": "Guidance on omission or combination of immaterial items in financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "4-02",
+            "subsection_title": "Materiality",
+            "summary": "If an item is not material, it need not be separately set forth. Insignificant amounts may be combined.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-02",
+                "text": "If the amount which would otherwise be required to be shown with respect to any item is not material, it need not be separately set forth. The combination of insignificant amounts is permitted.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "material",
+                  "insignificant amounts",
+                  "combination"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If the amount which would otherwise be required to be shown with respect to any item is not material, it need not be separately set forth.",
+                    "mandatory_language": null,
+                    "conditions": [
+                      "if not material"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The combination of insignificant amounts is permitted.",
+                    "mandatory_language": null,
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "4-03",
+        "section_title": "Inapplicable Captions and Omission of Unrequired or Inapplicable Financial Statements",
+        "section_type": "Presentation",
+        "summary": "Guidance on omitting inapplicable captions and unrequired or inapplicable financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "4-03(a)",
+            "subsection_title": "Captions",
+            "summary": "No caption should be shown for items and conditions not present.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-03(a)",
+                "text": "No caption should be shown in any financial statement as to which the items and conditions are not present.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "caption",
+                  "not present"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "No caption should be shown in any financial statement as to which the items and conditions are not present.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "4-03(b)",
+            "subsection_title": "Filing",
+            "summary": "Financial statements not required or inapplicable need not be filed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-03(b)",
+                "text": "Financial statements not required or inapplicable because the required matter is not present need not be filed.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "not required",
+                  "inapplicable",
+                  "need not be filed"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Financial statements not required or inapplicable because the required matter is not present need not be filed.",
+                    "mandatory_language": null,
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "4-03(c)",
+            "subsection_title": "Reasons for Omission",
+            "summary": "The reasons for omission of any required financial statements shall be indicated.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-03(c)",
+                "text": "The reasons for the omission of any required financial statements shall be indicated.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "omission",
+                  "reasons",
+                  "indicated"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The reasons for the omission of any required financial statements shall be indicated.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "4-04",
+        "section_title": "Omission of Substantially Identical Notes",
+        "section_type": "Presentation",
+        "summary": "Permits omission of duplicate notes if referenced appropriately.",
+        "subsections": [
+          {
+            "subsection_number": "4-04",
+            "subsection_title": "Substantially Identical Notes",
+            "summary": "If a note covers substantially the same subject matter for two or more financial statements, the information may be shown in a note to only one statement, with clear reference in the others.",
+            "paragraphs": [
+              {
+                "paragraph_id": "4-04",
+                "text": "If a note covering substantially the same subject matter is required with respect to two or more financial statements relating to the same or affiliated persons, for which separate sets of notes are presented, the required information may be shown in a note to only one of such statements: Provided, That a clear and specific reference thereto is made in each of the other statements with respect to which the note is required.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "substantially identical notes",
+                  "clear and specific reference"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The required information may be shown in a note to only one of such statements, provided that a clear and specific reference thereto is made in each of the other statements.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": [
+                      "clear and specific reference is made in each of the other statements"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "205-20",
+        "section_title": "Discontinued Operations",
+        "section_type": "Recognition",
+        "summary": "Guidance on presentation and disclosure requirements for discontinued operations, including criteria for classification and required disclosures.",
+        "subsections": [
+          {
+            "subsection_number": "05",
+            "subsection_title": "Overview and Background",
+            "summary": "Provides overview and background material for the guidance contained in the Subtopic on discontinued operations.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-05-1",
+                "text": "This Subtopic provides guidance on the presentation and disclosure requirements for discontinued operations. A discontinued operation may include a component of an entity or a group of components of an entity, or a business or nonprofit activity.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "discontinued operations",
+                  "component of an entity",
+                  "business",
+                  "nonprofit activity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-05-2",
+                "text": "The required disclosures about discontinued operations vary depending on the nature of the discontinued operation. For example, if a discontinued operation includes a component or group of components of an entity that is not an equity method investment, a more comprehensive set of disclosures about the discontinued operation is required. If the discontinued operation includes an equity method investment, or a business or nonprofit activity that is classified as held for sale on acquisition, a more limited set of disclosures is required (see the flowchart in paragraph 205-20-55-82 for an illustration).",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "disclosures",
+                  "discontinued operations",
+                  "equity method investment",
+                  "held for sale"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "205-20-55-82"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15",
+            "subsection_title": "Scope and Scope Exceptions",
+            "summary": "Outlines the items to which the guidance in the Subtopic applies or does not apply.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-15-1",
+                "text": "This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic; see Section 205-10-15, with specific transaction qualifications noted below.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope",
+                  "scope exceptions"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "205-10-15"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-15-2",
+                "text": "The guidance in this Subtopic applies to either of the following: a. A component of an entity or a group of components of an entity that is disposed of or is classified as held for sale b. A business or nonprofit activity that, on acquisition, is classified as held for sale.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "component of an entity",
+                  "held for sale",
+                  "business",
+                  "nonprofit activity"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to either of the following: a. A component of an entity or a group of components of an entity that is disposed of or is classified as held for sale b. A business or nonprofit activity that, on acquisition, is classified as held for sale.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-15-3",
+                "text": "The guidance in this Subtopic does not apply to oil and gas properties that are accounted for using the full-cost method of accounting as prescribed by the U.S. Securities and Exchange Commission (SEC).",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "oil and gas properties",
+                  "full-cost method",
+                  "SEC"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic does not apply to oil and gas properties that are accounted for using the full-cost method of accounting as prescribed by the U.S. Securities and Exchange Commission (SEC).",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "oil and gas properties accounted for using the full-cost method as prescribed by the SEC"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "oil and gas properties accounted for using the full-cost method as prescribed by the SEC"
+                ],
+                "cross_references": [
+                  "Regulation S-X, Rule 4-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45",
+            "subsection_title": "Other Presentation Matters",
+            "summary": "Guidance on presentation matters not addressed in other measurement sections, including criteria for reporting discontinued operations.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-45-1",
+                "text": "Paragraph superseded by Accounting Standards Update No. 2014-08.",
+                "paragraph_type": "guidance",
+                "key_terms": null,
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-45-1A",
+                "text": "A discontinued operation may include a component of an entity or a group of components of an entity, or a business or nonprofit activity.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "discontinued operation",
+                  "component of an entity",
+                  "business",
+                  "nonprofit activity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-45-1B",
+                "text": "A disposal of a component of an entity or a group of components of an entity shall be reported in discontinued operations if the disposal represents a strategic shift that has (or will have) a major effect on an entity's operations and financial results when any of the following occurs: a. The component of an entity or group of components of an entity meets the criteria in paragraph 205-20-45-1E to be classified as held for sale. b. The component of an entity or group of components of an entity is disposed of by sale. c. The component of an entity or group of components of an entity is disposed of other than by sale in accordance with paragraph 360-10-45-15 (for example, by abandonment or in a distribution to owners in a spinoff).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disposal",
+                  "component of an entity",
+                  "discontinued operations",
+                  "strategic shift"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A disposal of a component of an entity or a group of components of an entity shall be reported in discontinued operations if the disposal represents a strategic shift that has (or will have) a major effect on an entity's operations and financial results when any of the following occurs: (a) meets the criteria in paragraph 205-20-45-1E to be classified as held for sale; (b) is disposed of by sale; (c) is disposed of other than by sale in accordance with paragraph 360-10-45-15.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "disposal represents a strategic shift that has (or will have) a major effect on an entity's operations and financial results",
+                      "component meets criteria in 205-20-45-1E to be classified as held for sale",
+                      "component is disposed of by sale",
+                      "component is disposed of other than by sale in accordance with 360-10-45-15"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "disposal represents a strategic shift that has (or will have) a major effect on an entity's operations and financial results"
+                ],
+                "cross_references": [
+                  "205-20-45-1E",
+                  "360-10-45-15"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-45-1C",
+                "text": "Examples of a strategic shift that has (or will have) a major effect on an entity's operations and financial results could include a disposal of a major geographical area, a major line of business, a major equity method investment, or other major parts of an entity (see paragraphs 205-20-55-83 through 55-101 for Examples).",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "strategic shift",
+                  "major geographical area",
+                  "major line of business",
+                  "major equity method investment"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "205-20-55-83 through 55-101"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-45-1D",
+                "text": "A business or nonprofit activity that, on acquisition, meets the criteria in paragraph 205-20-45-1E to be classified as held for sale is a discontinued operation. If the one-year requirement in paragraph 205-20-45-1E(d) is met (except as permitted by paragraph 205-20-45-1G), a business or nonprofit activity shall be classified as held for sale as a discontinued operation at the acquisition date if the other criteria in paragraph 205-20-45-1E are probable of being met within a short period following the acquisition (usually within three months).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "business",
+                  "nonprofit activity",
+                  "held for sale",
+                  "discontinued operation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A business or nonprofit activity that, on acquisition, meets the criteria in paragraph 205-20-45-1E to be classified as held for sale is a discontinued operation. If the one-year requirement in paragraph 205-20-45-1E(d) is met (except as permitted by paragraph 205-20-45-1G), a business or nonprofit activity shall be classified as held for sale as a discontinued operation at the acquisition date if the other criteria in paragraph 205-20-45-1E are probable of being met within a short period following the acquisition (usually within three months).",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "on acquisition, meets the criteria in 205-20-45-1E to be classified as held for sale",
+                      "one-year requirement in 205-20-45-1E(d) is met (except as permitted by 205-20-45-1G)",
+                      "other criteria in 205-20-45-1E are probable of being met within a short period following the acquisition (usually within three months)"
+                    ],
+                    "exceptions": [
+                      "except as permitted by paragraph 205-20-45-1G"
+                    ]
+                  }
+                ],
+                "conditions": [
+                  "on acquisition, meets the criteria in 205-20-45-1E to be classified as held for sale"
+                ],
+                "cross_references": [
+                  "205-20-45-1E",
+                  "205-20-45-1E(d)",
+                  "205-20-45-1G"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-20-45-1E",
+                "text": "A component of an entity or a group of components of an entity, or a business or nonprofit activity (the entity to be sold), shall be classified as held for sale in the period in which all of the following criteria are met: a. Management, having the authority to approve the action, commits to a plan to sell the entity to be sold. b. The entity to be sold is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such entities to be sold. c. An active program to locate a buyer or buyers and other actions required to complete the plan to sell the entity to be sold have been initiated. d. The sale of the entity to be sold is probable, and transfer of the entity to be sold is expected to qualify for recognition as a completed sale, within one year, except as permitted by paragraph 205-20-45-1G. e. The entity to be sold is being actively marketed for sale at a price that is reasonable in relation to its current fair value. f. Actions required to complete the plan indicate that it is unlikely that significant changes to the plan will be made or that the plan will be withdrawn.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "held for sale",
+                  "component of an entity",
+                  "business",
+                  "nonprofit activity"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A component of an entity or a group of components of an entity, or a business or nonprofit activity (the entity to be sold), shall be classified as held for sale in the period in which all of the following criteria are met: (a) Management commits to a plan to sell; (b) available for immediate sale; (c) active program to locate a buyer; (d) sale is probable and expected to qualify for recognition as a completed sale within one year, except as permitted by 205-20-45-1G; (e) actively marketed for sale at a price reasonable in relation to fair value; (f) actions required to complete the plan indicate it is unlikely significant changes will be made or plan withdrawn.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "all criteria (a)-(f) are met"
+                    ],
+                    "exceptions": [
+                      "except as permitted by paragraph 205-20-45-1G"
+                    ]
+                  }
+                ],
+                "conditions": [
+                  "all criteria (a)-(f) are met"
+                ],
+                "cross_references": [
+                  "205-20-45-1G"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50",
+            "subsection_title": "Disclosure",
+            "summary": "Disclosure requirements for discontinued operations in notes to financial statements and financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-50-1",
+                "text": "The following shall be disclosed in the notes to financial statements that cover the period in which a discontinued operation either has been disposed of or is classified as held for sale under the requirements of paragraph 205-20-45-1E: a. A description of both of the following: 1. The facts and circumstances leading to the disposal or expected disposal 2. The expected manner and timing of that disposal. b. If not separately presented on the face of the statement where net income is reported (or statement of activities for a not-for-profit entity) as part of discontinued operations (see paragraph 205-20-45-3B), the gain or loss recognized in accordance with paragraph 205-20-45-3C. d. If applicable, the segment(s) in which the discontinued operation is reported under Topic 280 on segment reporting.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "discontinued operation",
+                  "held for sale",
+                  "notes to financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The following shall be disclosed in the notes to financial statements that cover the period in which a discontinued operation either has been disposed of or is classified as held for sale under the requirements of paragraph 205-20-45-1E: (a) description of facts and circumstances leading to the disposal or expected disposal and the expected manner and timing of that disposal; (b) if not separately presented, the gain or loss recognized; (d) if applicable, the segment(s) in which the discontinued operation is reported under Topic 280.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "discontinued operation has been disposed of or is classified as held for sale under 205-20-45-1E"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "discontinued operation has been disposed of or is classified as held for sale under 205-20-45-1E"
+                ],
+                "cross_references": [
+                  "205-20-45-1E",
+                  "205-20-45-3B",
+                  "205-20-45-3C",
+                  "Topic 280"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5",
+            "subsection_title": "Disclosures for Periods After Disposal",
+            "summary": "Disclosures required for periods after the discontinued operation was disposed of, including information about retained equity method investments.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-50-5",
+                "text": "For each period presented in the statement where net income is reported (or statement of activities for a not-for-profit entity) after the period in which the discontinued operation was disposed of, the pretax income of the investee in which the entity retains an equity method investment. The entity's ownership interest in the discontinued operation before the disposal transaction. The entity's ownership interest in the investee after the disposal transaction. The entity's share of the income or loss of the investee in the period(s) after the disposal transaction and the line item in the statement where net income is reported (or statement of activities for a not-for-profit entity) that includes the income or loss.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "discontinued operation",
+                  "equity method investment",
+                  "pretax income",
+                  "ownership interest",
+                  "income or loss"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Disclose for each period presented after the period in which the discontinued operation was disposed of: (a) the pretax income of the investee in which the entity retains an equity method investment, (b) the entity's ownership interest in the discontinued operation before the disposal transaction, (c) the entity's ownership interest in the investee after the disposal transaction, (d) the entity's share of the income or loss of the investee in the period(s) after the disposal transaction and the line item in the statement where net income is reported (or statement of activities for a not-for-profit entity) that includes the income or loss.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5B",
+            "subsection_title": "Additional Disclosures",
+            "summary": "Entities must disclose, unless presented on the face of the financial statements, the pretax profit or loss of the discontinued operation, major classes of line items, certain cash flow or noncash information, profit or loss attributable to the parent if there is a noncontrolling interest, and carrying amounts of major classes of assets and liabilities classified as held for sale.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-50-5B",
+                "text": "An entity shall disclose, to the extent not presented on the face of the financial statements as part of discontinued operations, all of the following in the notes to financial statements: The pretax profit or loss (or change in net assets for a not-for-profit entity) of the discontinued operation for the periods in which the results of operations of the discontinued operation are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity). The major classes of line items constituting the pretax profit or loss (or change in net assets for a not-for-profit entity) of the discontinued operation (for example, revenue, cost of sales, depreciation and amortization, and interest expense) for the periods in which the results of operations of the discontinued operation are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity). Either of the following: 1. The total operating and investing cash flows of the discontinued operation for the periods in which the results of operations of the discontinued operation are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity). 2. The depreciation, amortization, capital expenditures, and significant operating and investing noncash items of the discontinued operation for the periods in which the results of operations of the discontinued operation are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity). If the discontinued operation includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the periods in which the results of operations of the discontinued operation are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity). The carrying amount(s) of the major classes of assets and liabilities included as part of a discontinued operation classified as held for sale for the period in which the discontinued operation is classified as held for sale and all prior periods presented in the statement of financial position. Any loss recognized on the discontinued operation classified as held for sale in accordance with paragraphs 205-20-45-3B through 45-3C shall not be allocated to the major classes of assets and liabilities of the discontinued operation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "discontinued operation",
+                  "pretax profit or loss",
+                  "major classes of line items",
+                  "operating and investing cash flows",
+                  "depreciation",
+                  "amortization",
+                  "capital expenditures",
+                  "noncontrolling interest",
+                  "carrying amount",
+                  "assets and liabilities",
+                  "held for sale"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Disclose, unless presented on the face of the financial statements, (a) pretax profit or loss of the discontinued operation, (b) major classes of line items constituting the pretax profit or loss, (c) either total operating and investing cash flows or depreciation, amortization, capital expenditures, and significant noncash items, (d) if applicable, pretax profit or loss attributable to the parent for discontinued operations with a noncontrolling interest, (e) carrying amounts of major classes of assets and liabilities included as part of a discontinued operation classified as held for sale for the period in which classified as held for sale and all prior periods presented.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "205-20-45-3B",
+                  "205-20-45-3C"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5C",
+            "subsection_title": "Reconciliations",
+            "summary": "If an entity provides certain disclosures in the notes, it must also disclose reconciliations of amounts disclosed and total assets and liabilities of the disposal group classified as held for sale, for the initial and prior periods presented.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-50-5C",
+                "text": "If an entity provides the disclosures required by paragraph 205-20-50-5B(a), (b), and (e) in the notes to financial statements, the entity shall disclose the following: For the initial period in which the disposal group is classified as held for sale and for all prior periods presented in the statement of financial position, a reconciliation of both of the following: 1. The amounts disclosed in paragraph 205-20-50-5B(e). 2. Total assets and total liabilities of the disposal group classified as held for sale that are presented separately on the face of the statement of financial position. If the disposal group includes assets and liabilities that are not part of the discontinued operation, an entity shall present those assets and liabilities in line items in the reconciliations that are separate from the assets and liabilities of the discontinued operation (see paragraph 205-20-55-102 for an Example). For the periods in which the results of operations of the discontinued operation are reported in the statement.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosures",
+                  "reconciliation",
+                  "disposal group",
+                  "held for sale",
+                  "assets",
+                  "liabilities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If an entity provides the disclosures required by paragraph 205-20-50-5B(a), (b), and (e) in the notes, it shall disclose reconciliations of (1) the amounts disclosed in 205-20-50-5B(e) and (2) total assets and total liabilities of the disposal group classified as held for sale, for the initial and all prior periods presented.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "205-20-50-5B",
+                  "205-20-55-102"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-7",
+            "subsection_title": "Equity Method Investments",
+            "summary": "For an equity method investment that meets the criteria for discontinued operations, an entity shall disclose summarized information about the investee's assets, liabilities, and results of operations if previously disclosed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-20-50-7",
+                "text": "For an equity method investment that meets the criteria in paragraphs 205-20-45-1B through 45-1C, an entity shall disclose summarized information about the assets, liabilities, and results of operations of the investee if that information was disclosed in financial reporting periods before the disposal in accordance with paragraph 323-10-50-3(c).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "equity method investment",
+                  "summarized information",
+                  "assets",
+                  "liabilities",
+                  "results of operations"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "For an equity method investment that meets the criteria in 205-20-45-1B through 45-1C, disclose summarized information about the assets, liabilities, and results of operations of the investee if that information was disclosed in financial reporting periods before the disposal in accordance with 323-10-50-3(c).",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "205-20-45-1B",
+                  "205-20-45-1C",
+                  "323-10-50-3(c)"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "205-30",
+        "section_title": "Liquidation Basis of Accounting",
+        "section_type": "Recognition",
+        "summary": "Guidance on when and how an entity should prepare financial statements using the liquidation basis of accounting, including measurement, presentation, and disclosure requirements.",
+        "subsections": [
+          {
+            "subsection_number": "05",
+            "subsection_title": "Overview and Background",
+            "summary": "The Liquidation Basis of Accounting Subtopic provides guidance on when and how an entity should prepare its financial statements using the liquidation basis of accounting and describes the related disclosures that should be made.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-05-1",
+                "text": "The Liquidation Basis of Accounting Subtopic provides guidance on when and how an entity should prepare its financial statements using the liquidation basis of accounting and describes the related disclosures that should be made.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "liquidation basis of accounting",
+                  "financial statements",
+                  "disclosures"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15",
+            "subsection_title": "Scope and Scope Exceptions",
+            "summary": "The guidance in this Subtopic applies to all entities except investment companies regulated under the Investment Company Act of 1940.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-15-1",
+                "text": "The guidance in this Subtopic applies to all entities except for investment companies regulated under the Investment Company Act of 1940. Other entities shall not apply this scope exception by analogy.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "investment companies",
+                  "Investment Company Act of 1940",
+                  "scope exception"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities except for investment companies regulated under the Investment Company Act of 1940.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25",
+            "subsection_title": "Recognition",
+            "summary": "Requirements for preparing financial statements under the liquidation basis of accounting when liquidation is imminent.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-25-1",
+                "text": "An entity shall prepare financial statements in accordance with the requirements of this Subtopic when liquidation is imminent unless the liquidation follows a plan for liquidation that was specified in the entity's governing documents at the entity's inception.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liquidation basis of accounting",
+                  "liquidation imminent",
+                  "financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall prepare financial statements in accordance with the requirements of this Subtopic when liquidation is imminent unless the liquidation follows a plan for liquidation that was specified in the entity's governing documents at the entity's inception.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-25-2",
+                "text": "Liquidation is imminent when either of the following occurs: 1. A plan for liquidation has been approved by the person or persons with the authority to make such a plan effective, and the likelihood is remote that any of the following will occur: 1. Execution of the plan will be blocked by other parties (for example, those with shareholder rights) 2. The entity will return from liquidation. 2. A plan for liquidation is imposed by other forces (for example, involuntary bankruptcy), and the likelihood is remote that the entity will return from liquidation.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "liquidation imminent",
+                  "plan for liquidation",
+                  "approval",
+                  "remote likelihood"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-25-3",
+                "text": "An entity shall presume that its plan of liquidation does not follow a plan that was specified in the entity's governing documents at its inception if the entity is forced to dispose of its assets in exchange for consideration that is not commensurate with the fair value of those assets. Other aspects of the entity's plan of liquidation also might differ.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "plan of liquidation",
+                  "governing documents",
+                  "fair value",
+                  "forced disposal"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-25-4",
+                "text": "When using the liquidation basis of accounting, an entity shall recognize other items that it previously had not recognized (for example, trademarks) but that it expects to either sell in liquidation or use to settle liabilities. Those items may be recognized in the aggregate.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liquidation basis of accounting",
+                  "recognition",
+                  "trademarks",
+                  "settle liabilities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "When using the liquidation basis of accounting, an entity shall recognize other items that it previously had not recognized (for example, trademarks) but that it expects to either sell in liquidation or use to settle liabilities. Those items may be recognized in the aggregate.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-25-5",
+                "text": "An entity shall recognize liabilities in accordance with the recognition provisions of other Topics that otherwise would apply to those liabilities, including paragraph 405-20-40-1.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liabilities",
+                  "recognition",
+                  "other Topics"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize liabilities in accordance with the recognition provisions of other Topics that otherwise would apply to those liabilities, including paragraph 405-20-40-1.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "405-20-40-1"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-25-6",
+                "text": "An entity shall accrue estimated costs to dispose of assets or other items that it expects to sell in liquidation and present those costs in the aggregate separately from those assets or items.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accrual",
+                  "estimated costs",
+                  "dispose of assets",
+                  "liquidation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall accrue estimated costs to dispose of assets or other items that it expects to sell in liquidation and present those costs in the aggregate separately from those assets or items.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-25-7",
+                "text": "An entity shall accrue costs and income that it expects to incur or earn (for example, payroll costs or income from preexisting orders that the entity expects to fulfill during liquidation) through the end of its liquidation if and when it has a reasonable basis for estimation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accrual",
+                  "costs",
+                  "income",
+                  "liquidation",
+                  "reasonable basis for estimation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall accrue costs and income that it expects to incur or earn through the end of its liquidation if and when it has a reasonable basis for estimation.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30",
+            "subsection_title": "Initial Measurement",
+            "summary": "Measurement requirements for assets and liabilities under the liquidation basis of accounting.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-30-1",
+                "text": "An entity shall measure assets to reflect the estimated amount of cash or other consideration that it expects to collect in settling or disposing of those assets in carrying out its plan for liquidation. In some cases, fair value may approximate the amount that an entity expects to collect. However, an entity shall not presume this to be true for all assets.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "measurement",
+                  "assets",
+                  "estimated amount",
+                  "cash",
+                  "consideration",
+                  "plan for liquidation",
+                  "fair value"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall measure assets to reflect the estimated amount of cash or other consideration that it expects to collect in settling or disposing of those assets in carrying out its plan for liquidation.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-30-2",
+                "text": "An entity shall measure liabilities in accordance with the measurement provisions of other Topics that otherwise would apply to those liabilities (excluding the accrual of estimated disposal costs as described in paragraph 205-30-25-6 and expected income and expenses as described in paragraph 205-30-25-7). In applying those other Topics, an entity shall adjust its liabilities to reflect changes in assumptions that are a result of the entity's decision to liquidate (for example, timing of payments). However, an entity shall not anticipate being legally released from being the primary obligor under a liability, either judicially or by the creditor.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "measurement",
+                  "liabilities",
+                  "other Topics",
+                  "adjustments",
+                  "liquidation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall measure liabilities in accordance with the measurement provisions of other Topics that otherwise would apply to those liabilities, excluding accruals for estimated disposal costs and expected income and expenses, and adjust liabilities to reflect changes in assumptions due to liquidation, but shall not anticipate legal release from primary obligation.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-30-3",
+                "text": "An entity shall not apply discounting provisions in measuring the accruals for estimated disposal costs in accordance with paragraph 205-30-25-6 and expected income and expenses in accordance with paragraph 205-30-25-7.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "discounting",
+                  "accruals",
+                  "estimated disposal costs",
+                  "expected income and expenses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall not apply discounting provisions in measuring the accruals for estimated disposal costs and expected income and expenses.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35",
+            "subsection_title": "Subsequent Measurement",
+            "summary": "Requirements for remeasurement of assets, liabilities, and accruals at each reporting date under the liquidation basis of accounting.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-35-1",
+                "text": "At each reporting date, an entity shall remeasure its assets and other items it expects to sell that it had not previously recognized (for example, trademarks), liabilities (if required under the relevant Topic for those liabilities), and the accruals of disposal or other costs or income to reflect the actual or estimated change in carrying value since the previous reporting date in accordance with paragraphs 205-30-30-1 through 30-3.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "remeasurement",
+                  "assets",
+                  "liabilities",
+                  "accruals",
+                  "carrying value",
+                  "reporting date"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "At each reporting date, an entity shall remeasure its assets, liabilities, and accruals to reflect actual or estimated changes in carrying value since the previous reporting date in accordance with measurement provisions.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "205-30-30-1",
+                  "205-30-30-2",
+                  "205-30-30-3"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45",
+            "subsection_title": "Other Presentation Matters",
+            "summary": "Presentation requirements for financial statements under the liquidation basis of accounting.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-45-1",
+                "text": "At a minimum, an entity that applies the liquidation basis of accounting shall prepare the following: - A statement of net assets in liquidation - A statement of changes in net assets in liquidation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liquidation basis of accounting",
+                  "financial statements",
+                  "statement of net assets in liquidation",
+                  "statement of changes in net assets in liquidation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity that applies the liquidation basis of accounting shall prepare at least a statement of net assets in liquidation and a statement of changes in net assets in liquidation.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-45-2",
+                "text": "The liquidation basis of accounting shall be applied prospectively from the day that liquidation becomes imminent. The initial statement of changes in net assets in liquidation shall present only changes in net assets that occurred during the period since liquidation became imminent.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liquidation basis of accounting",
+                  "prospective application",
+                  "statement of changes in net assets in liquidation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The liquidation basis of accounting shall be applied prospectively from the day that liquidation becomes imminent. The initial statement of changes in net assets in liquidation shall present only changes in net assets that occurred during the period since liquidation became imminent.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50",
+            "subsection_title": "Disclosure",
+            "summary": "Disclosure requirements for financial statements prepared using the liquidation basis of accounting.",
+            "paragraphs": [
+              {
+                "paragraph_id": "205-30-50-1",
+                "text": "An entity shall make all disclosures required by other Topics that are relevant to understanding the entity's statement of net assets in liquidation and statement of changes in net assets in liquidation. The disclosures shall convey information about the amount of cash or other consideration that an entity expects to collect and the amount that the entity is obligated or expects to be obligated (in the case of the accruals described in paragraphs 205-30-25-6 through 25-7) to pay during the course of liquidation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosures",
+                  "statement of net assets in liquidation",
+                  "statement of changes in net assets in liquidation",
+                  "cash",
+                  "consideration",
+                  "accruals"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall make all disclosures required by other Topics that are relevant to understanding the entity's statement of net assets in liquidation and statement of changes in net assets in liquidation. The disclosures shall convey information about the amount of cash or other consideration that an entity expects to collect and the amount that the entity is obligated or expects to be obligated to pay during the course of liquidation.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "when preparing financial statements under the liquidation basis of accounting"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "when preparing financial statements under the liquidation basis of accounting"
+                ],
+                "cross_references": [
+                  "205-30-25-6",
+                  "205-30-25-7"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "205-30-50-2",
+                "text": "At a minimum, an entity shall disclose all of the following when it prepares financial statements using the liquidation basis of accounting: a. That the financial statements are prepared using the liquidation basis of accounting, including the facts and circumstances surrounding the adoption of the liquidation basis of accounting and the entity's determination that liquidation is imminent. b. A description of the entity's plan for liquidation, including a description of each of the following: 1. The manner by which it expects to dispose of its assets and other items it expects to sell that it had not previously recognized as assets (for example, trademarks) 2. The manner by which it expects to settle its liabilities 3. The expected date by which the entity expects to complete its liquidation. c. The methods and significant assumptions used to measure assets and liabilities, including any subsequent changes to those methods and assumptions. d. The type and amount of costs and income accrued in the statement of net assets in liquidation and the period over which those costs are expected to be paid or income earned.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liquidation basis of accounting",
+                  "plan for liquidation",
+                  "assets",
+                  "liabilities",
+                  "costs",
+                  "income",
+                  "assumptions"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall disclose all of the following when it prepares financial statements using the liquidation basis of accounting: (a) that the financial statements are prepared using the liquidation basis of accounting, including facts and circumstances surrounding adoption and determination that liquidation is imminent; (b) description of the plan for liquidation including manner of disposing assets and settling liabilities and expected completion date; (c) methods and significant assumptions used to measure assets and liabilities including subsequent changes; (d) type and amount of costs and income accrued and period over which costs are expected to be paid or income earned.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "when it prepares financial statements using the liquidation basis of accounting"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "when it prepares financial statements using the liquidation basis of accounting"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "805-60-65-1",
+      "relationship_type": "related",
+      "description": "Transition Guidance: 805-60-65-1",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "205-20-45-1B through 45-1C",
+      "relationship_type": "related",
+      "description": "Guidance on disposals of groups of components of an entity representing strategic shifts that have a major effect on the entity's operations and financial results and are reported in discontinued operations.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "205-20-50-4A through 50-4B",
+      "relationship_type": "related",
+      "description": "Disclosures required for significant continuing involvement after the disposal date.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "260-10-45-3",
+      "relationship_type": "related",
+      "description": "Guidance on the presentation of basic and diluted per-share amounts for entities that report discontinued operations.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "260-10-45-18",
+      "relationship_type": "related",
+      "description": "Guidance on the control number to use in determining whether potential common shares are dilutive or antidilutive for entities that report discontinued operations.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "280-10-55-7",
+      "relationship_type": "related",
+      "description": "Guidance on the reporting and financial statement disclosure requirements for a component of an entity that is reported as a discontinued operation and is a reportable segment.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "350-20-45-3",
+      "relationship_type": "related",
+      "description": "Guidance on reporting a goodwill impairment loss associated with a discontinued operation.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "715-30-55-193 through 55-197",
+      "relationship_type": "related",
+      "description": "Guidance on accounting for the effect on pension obligations of a reduction in work force associated with discontinued operations.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Asset Group",
+      "definition": "An asset group is the unit of accounting for a long-lived asset or assets to be held and used, which represents the lowest level for which identifiable cash flows are largely independent of the cash flows of other groups of assets and liabilities."
+    },
+    {
+      "term": "Business",
+      "definition": "Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business."
+    },
+    {
+      "term": "Component of an Entity",
+      "definition": "A component of an entity comprises operations and cash flows that can be clearly distinguished, operationally and for financial reporting purposes, from the rest of the entity. A component of an entity may be a reportable segment or an asset group."
+    },
+    {
+      "term": "Comprehensive Income",
+      "definition": "The change in equity (net assets) of a business entity during a period from transactions and other events and circumstances from nonowner sources. It includes all changes in equity during a period except those resulting from investments by owners and distributions to owners. Comprehensive income comprises both of the following: a. All components of net income b. All components of other comprehensive income."
+    },
+    {
+      "term": "Corporate Joint Venture",
+      "definition": "A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture."
+    },
+    {
+      "term": "Joint Venture",
+      "definition": "An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities."
+    },
+    {
+      "term": "Net Income",
+      "definition": "A measure of financial performance resulting from the aggregation of revenues, expenses, gains, and losses that are not items of other comprehensive income. A variety of other terms such as net earnings or earnings may be used to describe net income."
+    },
+    {
+      "term": "Nonprofit Activity",
+      "definition": "An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity."
+    },
+    {
+      "term": "Operating Segment",
+      "definition": "A component of a public entity. See Section 280-10-50 for additional guidance on the definition of an operating segment."
+    },
+    {
+      "term": "Other Comprehensive Income",
+      "definition": "Revenues, expenses, gains, and losses that under generally accepted accounting principles (GAAP) are included in net income."
+    },
+    {
+      "term": "Reporting Unit",
+      "definition": "The level of reporting at which goodwill is tested for impairment. A reporting unit is an operating segment or one level below an operating segment (also known as a component)."
+    },
+    {
+      "term": "Disposal Group",
+      "definition": "A disposal group for a long-lived asset or assets to be disposed of by sale or otherwise represents assets to be disposed of together as a group in a single transaction and liabilities directly associated with those assets that will be transferred in the transaction. A disposal group may include a discontinued operation along with other assets and liabilities that are not part of the discontinued operation."
+    },
+    {
+      "term": "Firm Purchase Commitment",
+      "definition": "A firm purchase commitment is an agreement with an unrelated party, binding on both parties and usually legally enforceable, that meets both of the following conditions: a. It specifies all significant terms, including the price and timing of the transaction. b. It includes a disincentive for nonperformance that is sufficiently large to make performance probable."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: a. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return b. Operating purposes other than to provide goods or services at a profit c. Absence of ownership interests like those of business entities. Entities that clearly fall outside this definition include the following: a. All investor-owned entities b. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans."
+    },
+    {
+      "term": "Probable",
+      "definition": "The future event or events are likely to occur."
+    },
+    {
+      "term": "Public Business Entity",
+      "definition": "A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity. 1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing). 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC. 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer. 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market. 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion. An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC."
+    },
+    {
+      "term": "Security",
+      "definition": "A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics: 1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer. 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment. 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations."
+    },
+    {
+      "term": "Settlement of a Pension or Postretirement Benefit Obligation",
+      "definition": "A transaction that is an irrevocable action, relieves the employer (or the plan) of primary responsibility for a pension or postretirement benefit obligation, and eliminates significant risks related to the obligation and the assets used to effect the settlement."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

@@ -1,0 +1,9 @@
+# All the .env files
+.env
+# All the Python virtual environment directories
+venv/
+# All the requirements files
+requirements.txt
+# All the Python cache files
+__pycache__/
+

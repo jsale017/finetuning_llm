@@ -1,339 +1,132 @@
 import os
+import asyncio
+import json
 from dotenv import load_dotenv
 from llama_cloud_services import LlamaExtract
-from pydantic import BaseModel, Field, validator
-from typing import List, Optional, Dict, Any, Union
-from datetime import date, datetime
-from enum import Enum
-
+from llama_agent_creation import agent
+from llama_cloud.core.api_error import ApiError
 
 # Load environment variables from .env file
 load_dotenv()
-LLAMA_CLOUD_API_KEY = os.getenv("LLAMA_CLOUD")
 
-extractor = LlamaExtract()
+async def main():
 
-class SourceAuthority(str, Enum):
-    FASB = "FASB"
-    SEC = "SEC"
-    AICPA = "AICPA"
-    OTHER = "Other"
+    pdf_files = [
+        "data/ASC 105.pdf", "data/ASC 205.pdf", "data/ASC 210.pdf",
+        "data/ASC 215.pdf", "data/ASC 220.pdf", "data/ASC 225.pdf",
+        "data/ASC 230.pdf", "data/ASC 235.pdf", "data/ASC 250.pdf",
+        "data/ASC 255.pdf", "data/ASC 260.pdf", "data/ASC 270.pdf",
+        "data/ASC 280.pdf", "data/ASC 305.pdf", "data/ASC 310.pdf",
+        "data/ASC 330.pdf", "data/ASC 340.pdf", "data/ASC 350.pdf",
+        "data/ASC 360.pdf", "data/ASC 405.pdf", "data/ASC 410.pdf",
+        "data/ASC 420.pdf", "data/ASC 440.pdf", "data/ASC 450.pdf",
+        "data/ASC 460.pdf", "data/ASC 470.pdf", "data/ASC 480.pdf",
+        "data/ASC 505.pdf", "data/ASC 606.pdf", "data/ASC 705.pdf",
+        "data/ASC 710.pdf", "data/ASC 712.pdf", "data/ASC 715.pdf",
+        "data/ASC 718.pdf", "data/ASC 730.pdf", "data/ASC 740.pdf",
+        "data/ASC 805.pdf", "data/ASC 808.pdf", "data/ASC 810.pdf",
+        "data/ASC 815.pdf", "data/ASC 820.pdf", "data/ASC 830.pdf",
+        "data/ASC 835.pdf", "data/ASC 842.pdf", "data/ASC 855.pdf",
+    ]
 
+    # we spamming free api so we need to queue the jobs in batches
+    batch_size = 5
+    delay_seconds = 30
+    max_retries = 3
+    retry_delay_on_ratelimit = 60
 
-class RelationshipType(str, Enum):
-    RELATED = "related"
-    SUPERSEDES = "supersedes"
-    AMENDED_BY = "amended_by"
-    CLARIFIED_BY = "clarified_by"
-    MODIFIED_BY = "modified_by"
+    all_jobs = []
+    print(f"Queueing {len(pdf_files)} PDF files for extraction in batches...")
 
+    i = 0
+    while i < len(pdf_files):
+        batch_files = pdf_files[i:i + batch_size]
+        print(f"Queueing batch {i//batch_size + 1}/{(len(pdf_files) + batch_size - 1) // batch_size} with {len(batch_files)} files...")
+        
+        retries = 0
+        batch_successful = False
+        while not batch_successful and retries < max_retries:
+            try:
+                jobs = await agent.queue_extraction(batch_files)
+                all_jobs.extend(jobs)
+                print("Extraction jobs for batch queued.")
+                batch_successful = True
+            except ApiError as e:
+                if e.status_code == 429:
+                    retries += 1
+                    print(f"Rate limit exceeded (429). Retrying batch in {retry_delay_on_ratelimit} seconds... (Attempt {retries}/{max_retries})")
+                    await asyncio.sleep(retry_delay_on_ratelimit)
+                else:
+                    print(f"An API error occurred: {e}")
+                    raise
+            except Exception as e:
+                print(f"An unexpected error occurred: {e}")
+                raise
 
-class SectionType(str, Enum):
-    OVERVIEW = "Overview"
-    RECOGNITION = "Recognition"
-    INITIAL_MEASUREMENT = "Initial Measurement"
-    SUBSEQUENT_MEASUREMENT = "Subsequent Measurement"
-    DERECOGNITION = "Derecognition"
-    PRESENTATION = "Presentation"
-    DISCLOSURE = "Disclosure"
-    IMPLEMENTATION_GUIDANCE = "Implementation Guidance"
-    GLOSSARY = "Glossary"
-    TRANSITION = "Transition"
-    EFFECTIVE_DATE = "Effective Date"
+        if not batch_successful:
+            print(f"Failed to queue batch {i//batch_size + 1} after {max_retries} retries due to rate limits. Please try running the script again later.")
+            break
 
+        i += batch_size
+        if i < len(pdf_files):
+            print(f"Waiting for {delay_seconds} seconds before the next batch...")
+            await asyncio.sleep(delay_seconds)
 
-class ParagraphType(str, Enum):
-    PRINCIPLE = "principle"
-    REQUIREMENT = "requirement"
-    GUIDANCE = "guidance"
-    EXCEPTION = "exception"
-    DEFINITION = "definition"
-    EXAMPLE = "example"
-    ILLUSTRATION = "illustration"
+    print(f"Total {len(all_jobs)} extraction jobs queued across all batches.")
 
-
-class MandatoryLanguage(str, Enum):
-    SHALL = "shall"
-    SHOULD = "should"
-    MUST = "must"
-    REQUIRED = "required"
-    PROHIBITED = "prohibited"
-    MAY = "may"
-    MIGHT = "might"
-
-
-class RequirementType(str, Enum):
-    RECOGNITION = "recognition"
-    MEASUREMENT = "measurement"
-    DISCLOSURE = "disclosure"
-    PRESENTATION = "presentation"
-    TRANSITION = "transition"
-    SCOPE = "scope"
-
-
-class JournalEntry(BaseModel):
-    account: str = Field(..., description="Account name")
-    debit: Optional[float] = Field(None, description="Debit amount")
-    credit: Optional[float] = Field(None, description="Credit amount")
-    description: Optional[str] = Field(None, description="Entry description")
-
-    @validator('debit', 'credit')
-    def validate_amounts(cls, v):
-        if v is not None and v < 0:
-            raise ValueError('Debit and credit amounts must be non-negative')
-        return v
-
-
-class Requirement(BaseModel):
-    requirement_text: str = Field(..., description="Specific requirement extracted from paragraph")
-    mandatory_language: List[MandatoryLanguage] = Field(
-        default_factory=list,
-        description="Language indicating requirement level"
-    )
-    conditions: List[str] = Field(
-        default_factory=list,
-        description="Conditions under which requirement applies"
-    )
-    exceptions: List[str] = Field(
-        default_factory=list,
-        description="Exceptions to the requirement"
-    )
+    print("Checking job statuses...")
+    for job in all_jobs:
+        job_status_retries = 0
+        job_status = None
+        while job_status is None and job_status_retries < max_retries:
+            try:
+                job_status = (await agent.get_extraction_job(job.id)).status
+                print(f"Job {job.id} status: {job_status}")
+            except ApiError as e:
+                if e.status_code == 429:
+                    job_status_retries += 1
+                    print(f"Rate limit exceeded (429) while fetching status for job {job.id}. Retrying in {retry_delay_on_ratelimit} seconds... (Attempt {job_status_retries}/{max_retries})")
+                    await asyncio.sleep(retry_delay_on_ratelimit)
+                else:
+                    print(f"An API error occurred fetching status for job {job.id}: {e}")
+                    break
+            except Exception as e:
+                print(f"An unexpected error occurred fetching status for job {job.id}: {e}")
+                break
 
 
-class Example(BaseModel):
-    example_id: str = Field(..., description="Example identifier")
-    title: Optional[str] = Field(None, description="Example title")
-    scenario: str = Field(..., description="Scenario description")
-    analysis: str = Field(..., description="Analysis and conclusion")
-    journal_entries: List[JournalEntry] = Field(
-        default_factory=list,
-        description="Related journal entries"
-    )
-    related_paragraphs: List[str] = Field(
-        default_factory=list,
-        description="References to related paragraph IDs"
-    )
-    financial_statement_impact: Optional[str] = Field(
-        None,
-        description="Impact on financial statements"
-    )
+    print("Fetching extraction results...")
+    final_results = []
+    for job in all_jobs:
+        result_retries = 0
+        job_result = None
+        while job_result is None and result_retries < max_retries:
+            try:
+                job_result = await agent.get_extraction_run_for_job(job.id)
+                final_results.append(job_result)
+            except ApiError as e:
+                if e.status_code == 429:
+                    result_retries += 1
+                    print(f"Rate limit exceeded (429) while fetching result for job {job.id}. Retrying in {retry_delay_on_ratelimit} seconds... (Attempt {result_retries}/{max_retries})")
+                    await asyncio.sleep(retry_delay_on_ratelimit)
+                else:
+                    print(f"An API error occurred fetching result for job {job.id}: {e}")
+                    break
+            except Exception as e:
+                print(f"An unexpected error occurred fetching result for job {job.id}: {e}")
+                break
+
+    for result in final_results:
+        print(f"Result for job {result.job_id}:")
+        print(json.dumps(result.data, indent=4))
+
+        output_dir = "extracted_json_output"
+        os.makedirs(output_dir, exist_ok=True)
+        output_filename = os.path.join(output_dir, f"output_{result.job_id}.json")
+        with open(output_filename, "w") as f:
+            json.dump(result.data, f, indent=4)
+        print(f"Saved result to {output_filename}")
 
 
-class Paragraph(BaseModel):
-    paragraph_id: str = Field(..., description="Unique paragraph identifier (e.g., '606-10-25-1')")
-    text: str = Field(..., description="Paragraph content")
-    paragraph_type: ParagraphType = Field(..., description="Type of content in the paragraph")
-    key_terms: List[str] = Field(
-        default_factory=list,
-        description="Key accounting terms defined or used"
-    )
-    requirements: List[Requirement] = Field(
-        default_factory=list,
-        description="Specific requirements extracted from paragraph"
-    )
-    conditions: List[str] = Field(
-        default_factory=list,
-        description="Conditions under which the guidance applies"
-    )
-    cross_references: List[str] = Field(
-        default_factory=list,
-        description="References to other paragraphs or topics"
-    )
-    effective_date: Optional[date] = Field(
-        None,
-        description="Specific effective date if different from topic"
-    )
-    
-    @validator('paragraph_id')
-    def validate_paragraph_id(cls, v):
-        # Basic validation for ASC paragraph ID format
-        parts = v.split('-')
-        if len(parts) < 3:
-            raise ValueError('Paragraph ID must follow ASC format (e.g., 606-10-25-1)')
-        return v
-
-
-class SubSection(BaseModel):
-    subsection_number: str = Field(..., description="Subsection number (e.g., '25-1', '25-2')")
-    subsection_title: Optional[str] = Field(None, description="Title of the subsection")
-    summary: Optional[str] = Field(None, description="Brief summary of subsection content")
-    paragraphs: List[Paragraph] = Field(
-        default_factory=list,
-        description="Paragraphs within this subsection"
-    )
-    examples: List[Example] = Field(
-        default_factory=list,
-        description="Examples illustrating the guidance"
-    )
-
-
-class Section(BaseModel):
-    section_number: str = Field(..., description="Section number (e.g., '10', '20', '25')")
-    section_title: str = Field(..., description="Title of the section")
-    section_type: SectionType = Field(..., description="Type of guidance provided in this section")
-    summary: Optional[str] = Field(None, description="Brief summary of section content")
-    subsections: List[SubSection] = Field(
-        default_factory=list,
-        description="Subsections within this section"
-    )
-    
-    @validator('section_number')
-    def validate_section_number(cls, v):
-        if not v.isdigit() or len(v) != 2:
-            raise ValueError('Section number must be a two-digit string')
-        return v
-
-
-class Overview(BaseModel):
-    general: Optional[str] = Field(None, description="General overview of the topic")
-    scope: Optional[str] = Field(None, description="Scope and applicability")
-    key_changes: List[str] = Field(
-        default_factory=list,
-        description="Key changes from previous guidance"
-    )
-    objectives: List[str] = Field(
-        default_factory=list,
-        description="Primary objectives of the standard"
-    )
-    core_principles: List[str] = Field(
-        default_factory=list,
-        description="Core principles underlying the guidance"
-    )
-
-
-class CodificationStructure(BaseModel):
-    overview: Optional[Overview] = Field(None, description="Topic overview")
-    sections: List[Section] = Field(..., description="Main sections of the codification")
-
-
-class CrossReference(BaseModel):
-    referenced_topic: str = Field(..., description="ASC topic being referenced")
-    relationship_type: RelationshipType = Field(..., description="Type of relationship")
-    description: str = Field(..., description="Description of the relationship")
-    specific_paragraphs: List[str] = Field(
-        default_factory=list,
-        description="Specific paragraphs that relate to this reference"
-    )
-
-
-class IndustryGuidance(BaseModel):
-    industry: str = Field(..., description="Specific industry (e.g., 'Banking', 'Insurance', 'Software')")
-    industry_code: Optional[str] = Field(None, description="Industry classification code")
-    specific_guidance: str = Field(..., description="Industry-specific guidance or exceptions")
-    affected_sections: List[str] = Field(
-        default_factory=list,
-        description="Sections affected by industry-specific guidance"
-    )
-
-
-class ComplianceCheckpoint(BaseModel):
-    checkpoint_id: str = Field(..., description="Unique identifier for the compliance checkpoint")
-    requirement_type: RequirementType = Field(..., description="Type of requirement")
-    requirement_text: str = Field(..., description="The specific requirement text")
-    assessment_criteria: List[str] = Field(
-        default_factory=list,
-        description="Criteria for assessing compliance"
-    )
-    common_violations: List[str] = Field(
-        default_factory=list,
-        description="Common ways this requirement is violated"
-    )
-    testing_procedures: List[str] = Field(
-        default_factory=list,
-        description="Procedures for testing compliance"
-    )
-    documentation_requirements: List[str] = Field(
-        default_factory=list,
-        description="Required documentation for compliance"
-    )
-    risk_level: Optional[str] = Field(
-        None,
-        description="Risk level (High, Medium, Low)"
-    )
-    related_paragraphs: List[str] = Field(
-        default_factory=list,
-        description="Paragraph IDs that support this checkpoint"
-    )
-
-
-class DocumentMetadata(BaseModel):
-    asc_topic: str = Field(..., description="ASC topic number (e.g., '606', '842', '326')")
-    topic_title: str = Field(..., description="Full title of the ASC topic")
-    version: str = Field(..., description="Version or revision identifier")
-    effective_date: date = Field(..., description="Effective date of the standard")
-    last_updated: datetime = Field(..., description="Last update timestamp")
-    source_authority: SourceAuthority = Field(..., description="Authoritative body that issued the standard")
-    superseded_guidance: List[str] = Field(
-        default_factory=list,
-        description="Previously superseded standards or guidance"
-    )
-    related_topics: List[str] = Field(
-        default_factory=list,
-        description="Related ASC topics"
-    )
-    transition_guidance: Optional[str] = Field(
-        None,
-        description="Transition guidance from previous standards"
-    )
-    
-    @validator('asc_topic')
-    def validate_asc_topic(cls, v):
-        if not v.isdigit() or len(v) != 3:
-            raise ValueError('ASC topic must be a three-digit string')
-        return v
-
-
-class ASCFilings(BaseModel):
-    """
-    Comprehensive Pydantic model for ASC Codification documents
-    optimized for RAG and compliance comparison with 10-K, 10-Q, and accounting policy manuals
-    """
-    
-    document_metadata: DocumentMetadata = Field(..., description="Document metadata and identification")
-    codification_structure: CodificationStructure = Field(..., description="Main codification content")
-    cross_references: List[CrossReference] = Field(
-        default_factory=list,
-        description="Cross-references to other ASC topics"
-    )
-    industry_specific: List[IndustryGuidance] = Field(
-        default_factory=list,
-        description="Industry-specific guidance and exceptions"
-    )
-    compliance_checkpoints: List[ComplianceCheckpoint] = Field(
-        default_factory=list,
-        description="Compliance checkpoints for automated assessment"
-    )
-    
-    # Additional fields for enhanced RAG capabilities
-    glossary_terms: Dict[str, str] = Field(
-        default_factory=dict,
-        description="Glossary of terms defined in this topic"
-    )
-    
-    implementation_guidance: Optional[str] = Field(
-        None,
-        description="General implementation guidance"
-    )
-    
-    frequently_asked_questions: List[Dict[str, str]] = Field(
-        default_factory=list,
-        description="FAQ items with question and answer pairs"
-    )
-    
-    # Metadata for RAG optimization
-    semantic_tags: List[str] = Field(
-        default_factory=list,
-        description="Semantic tags for improved search and retrieval"
-    )
-    
-    complexity_score: Optional[int] = Field(
-        None,
-        ge=1,
-        le=10,
-        description="Complexity score from 1-10 for the topic"
-    )
-
-agent = extractor.create_agent(name="ASC Codification Agent",
-                               data_schema=ASCFilings)
-
-result = agent.extrac
+if __name__ == "__main__":
+    asyncio.run(main())

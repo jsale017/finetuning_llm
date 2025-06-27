@@ -1,0 +1,1167 @@
+{
+  "document_metadata": {
+    "asc_topic": "340",
+    "topic_title": "Other Assets and Deferred Costs",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "Other",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "This codification provides guidance on various topics including other assets and deferred costs, insurance contracts that do not transfer insurance risk, and costs related to contracts with customers. It includes definitions, scope, recognition, measurement, presentation, disclosure, and implementation guidance.",
+      "scope": "The guidance applies to entities incurring deferred costs and other assets, insurance and reinsurance contracts that do not transfer insurance risk, and costs related to contracts with customers within the scope of Topic 606 on revenue from contracts with customers. Specific scope exceptions and applicability are outlined for each Subtopic.",
+      "key_changes": [
+        "Contract and Customer definitions added by Accounting Standards Update No. 2014-09 on 05/28/2014",
+        "Amendments and supersessions to paragraphs 340-10-05-1 and 340-10-60 series by various Accounting Standards Updates between 2013 and 2016"
+      ],
+      "objectives": [
+        "Provide accounting and reporting guidance for deferred costs and prepaid expenses.",
+        "Define and apply the deposit method for insurance and reinsurance contracts that do not transfer insurance risk.",
+        "Provide accounting guidance for incremental costs of obtaining and costs incurred in fulfilling contracts with customers under Topic 606."
+      ],
+      "core_principles": [
+        "Recognition of assets for incremental costs expected to be recovered.",
+        "Expensing design and development costs for products under long-term supply arrangements unless specific capitalization criteria are met.",
+        "Recognition of impairment losses on assets recognized from contract costs.",
+        "Disclosure of accounting policies and amounts related to pre-production and contract costs."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic, including the nature of prepaid expenses, preproduction costs related to long-term supply arrangements, and deposit method for insurance contracts that do not transfer insurance risk.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "Other Assets and Deferred Costs Subtopics",
+            "summary": "Lists the Subtopics included in Other Assets and Deferred Costs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-05-1",
+                "text": "The Other Assets and Deferred Costs Topic includes the following Subtopics: a. Overall b. Subparagraph superseded by Accounting Standards Update No. 2014-09. c. Insurance Contracts That Do Not Transfer Insurance Risk. d. Contracts with Customers",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Other Assets and Deferred Costs",
+                  "Subtopics",
+                  "Insurance Contracts That Do Not Transfer Insurance Risk",
+                  "Contracts with Customers"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-4",
+            "subsection_title": "Nature of Prepaid Expenses",
+            "summary": "Defines prepaid expenses and provides examples.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-05-4",
+                "text": "Prepaid expenses are a category of assets that are typically used up or expire within the normal operating cycle of an entity. The term derives from the fact that they are paid in advance of their use or consumption.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "prepaid expenses"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-10-05-5",
+                "text": "Prepaid expenses include items such as insurance, interest, rents, taxes, unused royalties, current paid advertising service not yet received, and operating supplies.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "insurance",
+                  "interest",
+                  "rents",
+                  "taxes",
+                  "unused royalties",
+                  "advertising service",
+                  "operating supplies"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-6",
+            "subsection_title": "Preproduction Costs Related to Long-Term Supply Arrangements",
+            "summary": "Describes preproduction costs incurred by manufacturers under long-term supply arrangements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-05-6",
+                "text": "Manufacturers often incur preproduction costs related to products they will supply to their customers under long-term supply arrangements. These costs may include design and development of products, molds, dies, and other tools. Reimbursement of these costs may be contractually guaranteed, implicitly guaranteed through pricing, or not guaranteed.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "preproduction costs",
+                  "long-term supply arrangements",
+                  "design and development costs",
+                  "molds",
+                  "dies",
+                  "tools",
+                  "reimbursement"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "340-30-05-1",
+            "subsection_title": "Insurance and Reinsurance Contracts That Do Not Transfer Insurance Risk",
+            "summary": "Guidance on applying the deposit method for insurance and reinsurance contracts that do not transfer insurance risk, which may be prospective or retroactive.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-30-05-1",
+                "text": "This Subtopic provides guidance on how to apply the deposit method of accounting when it is required for insurance and reinsurance contracts that do not transfer insurance risk. These contracts may be prospective or retroactive in nature.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "deposit method",
+                  "insurance contracts",
+                  "reinsurance contracts",
+                  "do not transfer insurance risk"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "General Overall Guidance",
+            "summary": "Establishes the pervasive scope for all Subtopics of the Other Assets and Deferred Costs Topic.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-15-1",
+                "text": "The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Other Assets and Deferred Costs Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Deferred Costs and Other Assets Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope",
+                  "Other Assets and Deferred Costs"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Entities",
+            "summary": "States that the guidance applies to all entities.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-15-2",
+                "text": "The guidance in the Other Assets and Deferred Costs Topic applies to all entities.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in the Other Assets and Deferred Costs Topic applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "340-30-15-4",
+            "subsection_title": "Scope Exceptions for Insurance Contracts",
+            "summary": "Excludes certain long-duration life and health insurance contracts from this Subtopic's guidance.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-30-15-4",
+                "text": "Long-duration life and health insurance contracts that do not indemnify against mortality or morbidity risk shall be accounted for as investment contracts under Topic 944 and are not covered by this Subtopic.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "long-duration life and health insurance contracts",
+                  "mortality risk",
+                  "morbidity risk",
+                  "investment contracts"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Long-duration life and health insurance contracts that do not indemnify against mortality or morbidity risk shall be accounted for as investment contracts under Topic 944.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "944"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Glossary",
+        "section_type": "Glossary",
+        "summary": "Contains glossary terms for the Subtopic.",
+        "subsections": [
+          {
+            "subsection_number": "20-1",
+            "subsection_title": "Key Definitions",
+            "summary": "Defines key terms such as Contract and Customer.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-20-1",
+                "text": "Contract: An agreement between two or more parties that creates enforceable rights and obligations.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "Contract"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-10-20-2",
+                "text": "Customer: A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "Customer"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "Provides guidance on the required criteria, timing, and location for recording a particular item in the financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "Preproduction Costs Related to Long-Term Supply Arrangements",
+            "summary": "Recognition guidance for design and development costs for products to be sold under long-term supply arrangements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-25-1",
+                "text": "Design and development costs for products to be sold under long-term supply arrangements shall be expensed as incurred. Design and development costs for molds, dies, and other tools that a supplier will own and that will be used in producing the products under a long-term supply arrangement shall be capitalized as part of the molds, dies, and other tools (subject to an impairment assessment under the Impairment or Disposal of Long-Lived Assets Subsections of Subtopic 360-10) unless the design and development is for molds, dies, and other tools involving new technology, in which case, the costs shall be expensed as incurred in accordance with Subtopic 730-10.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "design and development costs",
+                  "long-term supply arrangements",
+                  "capitalized",
+                  "expensed as incurred",
+                  "impairment assessment"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Design and development costs for products to be sold under long-term supply arrangements shall be expensed as incurred.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "for products to be sold under long-term supply arrangements"
+                    ],
+                    "exceptions": [
+                      "Design and development costs for molds, dies, and other tools that a supplier will own and that will be used in producing the products under a long-term supply arrangement shall be capitalized as part of the molds, dies, and other tools (subject to an impairment assessment under the Impairment or Disposal of Long-Lived Assets Subsections of Subtopic 360-10) unless the design and development is for molds, dies, and other tools involving new technology, in which case, the costs shall be expensed as incurred in accordance with Subtopic 730-10."
+                    ]
+                  }
+                ],
+                "conditions": [
+                  "products to be sold under long-term supply arrangements"
+                ],
+                "cross_references": [
+                  "360-10",
+                  "730-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-2",
+            "subsection_title": "Design and Development Costs for Molds, Dies, and Other Tools Not Owned by Supplier",
+            "summary": "Capitalization criteria for design and development costs for molds, dies, and other tools that a supplier will not own but will use under a long-term supply arrangement.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-25-2",
+                "text": "Design and development costs for molds, dies, and other tools that a supplier will not own and that will be used in producing the products under the long-term supply arrangement shall be capitalized if the supply arrangement provides the supplier the noncancelable right to use the molds, dies, and other tools during the supply arrangement. Otherwise, those costs shall be expensed as incurred, including costs incurred prior to receiving the noncancelable right.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "design and development costs",
+                  "molds",
+                  "dies",
+                  "tools",
+                  "capitalized",
+                  "expensed as incurred",
+                  "noncancelable right"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Design and development costs for molds, dies, and other tools that a supplier will not own and that will be used in producing the products under the long-term supply arrangement shall be capitalized if the supply arrangement provides the supplier the noncancelable right to use the molds, dies, and other tools during the supply arrangement.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "supplier will not own molds, dies, and other tools",
+                      "used in producing the products under the long-term supply arrangement",
+                      "supply arrangement provides the supplier the noncancelable right to use the molds, dies, and other tools during the supply arrangement"
+                    ],
+                    "exceptions": [
+                      "Otherwise, those design and development costs shall be expensed as incurred, including costs incurred prior to the supplier's receiving the noncancelable right to use the molds, dies, and other tools during the supply arrangement."
+                    ]
+                  }
+                ],
+                "conditions": [
+                  "supplier will not own molds, dies, and other tools",
+                  "used in producing the products under the long-term supply arrangement"
+                ],
+                "cross_references": [
+                  "360-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-3",
+            "subsection_title": "Contractual Guarantee for Reimbursement",
+            "summary": "Recognition of design and development costs as an asset when a contractual guarantee for reimbursement exists.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-10-25-3",
+                "text": "If a contractual guarantee for reimbursement exists for design and development costs that otherwise would be expensed, those costs shall be recognized as an asset as incurred. Contractual guarantee means a legally enforceable agreement with objectively measurable and verifiable reimbursement amount.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "contractual guarantee",
+                  "reimbursement",
+                  "recognized as an asset"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If a contractual guarantee for reimbursement exists for design and development costs that otherwise would be expensed based on the guidance in this Section, those costs shall be recognized as an asset as incurred.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "contractual guarantee for reimbursement exists",
+                      "design and development costs would otherwise be expensed"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "contractual guarantee for reimbursement exists",
+                  "design and development costs would otherwise be expensed"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "Guidance on recognition of costs to obtain and fulfill contracts with customers within the scope of Topic 606.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "Incremental Costs of Obtaining a Contract",
+            "summary": "An entity shall recognize as an asset the incremental costs of obtaining a contract with a customer if the entity expects to recover those costs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-1",
+                "text": "An entity shall recognize as an asset the incremental costs of obtaining a contract with a customer if the entity expects to recover those costs.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "incremental costs",
+                  "contract with a customer",
+                  "recognized as an asset"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize as an asset the incremental costs of obtaining a contract with a customer if the entity expects to recover those costs.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-3",
+            "subsection_title": "Costs to Obtain a Contract That Would Have Been Incurred Regardless",
+            "summary": "Costs to obtain a contract that would have been incurred regardless of obtaining the contract shall be expensed when incurred unless explicitly chargeable to the customer.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-3",
+                "text": "Costs to obtain a contract that would have been incurred regardless of whether the contract was obtained shall be recognized as an expense when incurred, unless those costs are explicitly chargeable to the customer regardless of whether the contract is obtained.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "costs to obtain a contract",
+                  "expense when incurred"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Costs to obtain a contract that would have been incurred regardless of whether the contract was obtained shall be recognized as an expense when incurred, unless those costs are explicitly chargeable to the customer regardless of whether the contract is obtained.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-4",
+            "subsection_title": "Practical Expedient for Incremental Costs",
+            "summary": "An entity may expense incremental costs of obtaining a contract if the amortization period is one year or less.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-4",
+                "text": "As a practical expedient, an entity may recognize the incremental costs of obtaining a contract as an expense when incurred if the amortization period of the asset that the entity otherwise would have recognized is one year or less.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "practical expedient",
+                  "incremental costs",
+                  "expense when incurred"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity may recognize the incremental costs of obtaining a contract as an expense when incurred if the amortization period of the asset that the entity otherwise would have recognized is one year or less.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-5",
+            "subsection_title": "Recognition of Costs to Fulfill a Contract",
+            "summary": "An entity shall recognize an asset from costs incurred to fulfill a contract only if the costs relate directly to a contract, generate or enhance resources used to satisfy performance obligations, and are expected to be recovered.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-5",
+                "text": "An entity shall recognize an asset from the costs incurred to fulfill a contract only if those costs meet all of the following criteria: a. The costs relate directly to a contract or to an anticipated contract that the entity can specifically identify. b. The costs generate or enhance resources of the entity that will be used in satisfying (or in continuing to satisfy) performance obligations in the future. c. The costs are expected to be recovered.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "costs to fulfill a contract",
+                  "recognized as an asset"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize an asset from the costs incurred to fulfill a contract only if those costs meet all of the following criteria: a. The costs relate directly to a contract or to an anticipated contract that the entity can specifically identify. b. The costs generate or enhance resources of the entity that will be used in satisfying (or in continuing to satisfy) performance obligations in the future. c. The costs are expected to be recovered.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-6",
+            "subsection_title": "Costs Within the Scope of Other Topics",
+            "summary": "Costs incurred in fulfilling a contract that are within the scope of other Topics shall be accounted for in accordance with those Topics.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-6",
+                "text": "For costs incurred in fulfilling a contract with a customer that are within the scope of another Topic (e.g., Topic 330 on inventory; paragraphs 340-10-25-1 through 25-4 on preproduction costs related to long-term supply arrangements; Subtopic 350-40 on internal-use software; Topic 360 on property, plant, and equipment; or Subtopic 985-20 on costs of software to be sold, leased, or otherwise marketed), an entity shall account for those costs in accordance with those other Topics or Subtopics.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "costs to fulfill a contract",
+                  "other Topics"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall account for costs incurred in fulfilling a contract with a customer that are within the scope of another Topic in accordance with those other Topics or Subtopics.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-7",
+            "subsection_title": "Costs to be Expensed When Incurred",
+            "summary": "Lists costs that shall be recognized as expenses when incurred, including direct labor, materials, allocations, explicitly chargeable costs, and other costs incurred due to entering into the contract.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-7",
+                "text": "An entity shall recognize the following costs as expenses when incurred: direct labor, direct materials, allocations of costs that relate directly to the contract or contract activities, costs explicitly chargeable to the customer, and other costs incurred only because an entity entered into the contract.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "costs to be expensed",
+                  "direct labor",
+                  "direct materials",
+                  "allocations",
+                  "explicitly chargeable costs"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize the following costs as expenses when incurred: direct labor, direct materials, allocations of costs that relate directly to the contract or contract activities, costs explicitly chargeable to the customer, and other costs incurred only because an entity entered into the contract.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-8",
+            "subsection_title": "Additional Costs to be Expensed When Incurred",
+            "summary": "Lists additional costs to be recognized as expenses when incurred, including general and administrative costs (unless explicitly chargeable), costs of wasted materials, costs related to satisfied performance obligations, and costs that cannot be distinguished between satisfied and unsatisfied obligations.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-25-8",
+                "text": "An entity shall recognize the following costs as expenses when incurred: general and administrative costs (unless explicitly chargeable to the customer), costs of wasted materials, labor, or other resources not reflected in the contract price, costs relating to satisfied or partially satisfied performance obligations, and costs for which it cannot be determined whether they relate to unsatisfied or satisfied performance obligations.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "general and administrative costs",
+                  "wasted materials",
+                  "satisfied performance obligations"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize the following costs as expenses when incurred: general and administrative costs (unless explicitly chargeable to the customer), costs of wasted materials, labor, or other resources not reflected in the contract price, costs relating to satisfied or partially satisfied performance obligations, and costs for which it cannot be determined whether they relate to unsatisfied or satisfied performance obligations.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": [
+                      "unless those costs are explicitly chargeable to the customer under the contract, in which case an entity shall evaluate those costs in accordance with paragraph 340-40-25-7"
+                    ]
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "35",
+        "section_title": "Subsequent Measurement",
+        "section_type": "Subsequent Measurement",
+        "summary": "Provides guidance on subsequent measurement and recognition, including amortization and impairment of assets recognized from contract costs.",
+        "subsections": [
+          {
+            "subsection_number": "35-1",
+            "subsection_title": "Amortization and Impairment",
+            "summary": "Assets recognized from contract costs shall be amortized systematically consistent with transfer of goods or services and updated for significant changes in expected timing. Impairment losses shall be recognized if carrying amount exceeds expected consideration less costs. No reversal of impairment losses is allowed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-35-1",
+                "text": "An asset recognized in accordance with paragraph 340-40-25-1 or 340-40-25-5 shall be amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the asset relates.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "amortization",
+                  "asset recognized from contract costs"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An asset recognized in accordance with paragraph 340-40-25-1 or 340-40-25-5 shall be amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the asset relates.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-40-35-2",
+                "text": "An entity shall update the amortization to reflect a significant change in the entity's expected timing of transfer to the customer of the goods or services to which the asset relates. Such a change shall be accounted for as a change in accounting estimate in accordance with Subtopic 250-10 on accounting changes and error corrections.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "amortization update",
+                  "change in accounting estimate"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall update the amortization to reflect a significant change in the entity's expected timing of transfer to the customer of the goods or services to which the asset relates. Such a change shall be accounted for as a change in accounting estimate in accordance with Subtopic 250-10.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "250-10"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-40-35-3",
+                "text": "An entity shall recognize an impairment loss in profit or loss to the extent that the carrying amount of an asset recognized in accordance with paragraph 340-40-25-1 or 340-40-25-5 exceeds the amount of consideration expected to be received in the future and received but not recognized as revenue, less the costs that relate directly to providing those goods or services and that have not been recognized as expenses.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "impairment loss",
+                  "asset carrying amount"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize an impairment loss in profit or loss to the extent that the carrying amount of an asset recognized in accordance with paragraph 340-40-25-1 or 340-40-25-5 exceeds the amount of consideration expected to be received in the future and received but not recognized as revenue, less the costs that relate directly to providing those goods or services and that have not been recognized as expenses.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-40-35-4",
+                "text": "For determining the consideration for impairment testing, an entity shall use the principles for determining the transaction price (except for constraining estimates of variable consideration) and adjust for customer's credit risk. Expected contract renewals and extensions shall also be considered.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "transaction price",
+                  "customer credit risk",
+                  "contract renewals"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall use the principles for determining the transaction price (except for the guidance in paragraphs 606-10-32-11 through 32-13) and adjust that amount to reflect the effects of the customer's credit risk. An entity also shall consider expected contract renewals and extensions.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": [
+                      "except for the guidance in paragraphs 606-10-32-11 through 32-13 on constraining estimates of variable consideration"
+                    ]
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "606-10-32-11",
+                  "606-10-32-12",
+                  "606-10-32-13"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-40-35-5",
+                "text": "Before recognizing an impairment loss for an asset recognized from contract costs, an entity shall recognize impairment losses for related assets recognized under other Topics (except Topics 340, 350, and 360). After impairment testing, the carrying amount shall be included in the asset group or reporting unit for Topics 360 and 350 guidance.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "impairment loss",
+                  "related assets",
+                  "carrying amount",
+                  "asset group",
+                  "reporting unit"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Before an entity recognizes an impairment loss for an asset recognized in accordance with paragraph 340-40-25-1 or 340-40-25-5, the entity shall recognize any impairment loss for assets related to the contract that are recognized in accordance with another Topic other than Topic 340, Topic 350, or Topic 360. After applying the impairment test in paragraph 340-40-35-3, an entity shall include the resulting carrying amount of the asset in the carrying amount of the asset group or reporting unit for the purpose of applying the guidance in Topics 360 and 350.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "340-40-25-1",
+                  "340-40-25-5",
+                  "360",
+                  "350"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "340-40-35-6",
+                "text": "An entity shall not recognize a reversal of an impairment loss previously recognized.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "impairment loss reversal"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall not recognize a reversal of an impairment loss previously recognized.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides guidance regarding disclosure in the notes to financial statements related to assets recognized from costs to obtain or fulfill contracts with customers.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "Disclosure of Assets Recognized from Contract Costs",
+            "summary": "Entities shall disclose assets recognized from costs to obtain or fulfill contracts with customers in accordance with paragraphs 340-40-25-1 or 340-40-25-5.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-50-1",
+                "text": "Consistent with the overall disclosure objective in paragraph 606-10-50-1 and the guidance in paragraphs 606-10-50-2 through 50-3, an entity shall provide the following disclosures of assets recognized from the costs to obtain or fulfill a contract with a customer in accordance with paragraphs 340-40-25-1 or 340-40-25-5.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "assets recognized",
+                  "costs to obtain or fulfill contract"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall provide the following disclosures of assets recognized from the costs to obtain or fulfill a contract with a customer in accordance with paragraphs 340-40-25-1 or 340-40-25-5.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "606-10-50-1",
+                  "606-10-50-2",
+                  "606-10-50-3"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-2",
+            "subsection_title": "Judgments and Amortization Method",
+            "summary": "Entities shall describe judgments made in determining costs incurred and the amortization method used.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-50-2",
+                "text": "An entity shall describe both of the following: a. The judgments made in determining the amount of the costs incurred to obtain or fulfill a contract with a customer. b. The method it uses to determine the amortization for each reporting period.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "judgments",
+                  "amortization method"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall describe the judgments made in determining the amount of the costs incurred to obtain or fulfill a contract with a customer and the method it uses to determine the amortization for each reporting period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-3",
+            "subsection_title": "Disclosure of Balances, Amortization, and Impairment",
+            "summary": "Entities shall disclose closing balances of assets recognized from contract costs by main category and the amount of amortization and impairment losses recognized.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-50-3",
+                "text": "An entity shall disclose all of the following: a. The closing balances of assets recognized from the costs incurred to obtain or fulfill a contract with a customer, by main category of asset. b. The amount of amortization and any impairment losses recognized in the reporting period.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "closing balances",
+                  "amortization",
+                  "impairment losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall disclose the closing balances of assets recognized from the costs incurred to obtain or fulfill a contract with a customer, by main category of asset, and the amount of amortization and any impairment losses recognized in the reporting period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-4",
+            "subsection_title": "Disclosure Exceptions for Certain Entities",
+            "summary": "Certain entities may elect not to provide some disclosures related to contract costs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-50-4",
+                "text": "An entity, except for a public business entity, a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the Securities and Exchange Commission, may elect not to provide the disclosures in paragraphs 340-40-50-2 through 50-3.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "disclosure exceptions",
+                  "certain entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity, except for a public business entity, a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the Securities and Exchange Commission, may elect not to provide the disclosures in paragraphs 340-40-50-2 through 50-3.",
+                    "mandatory_language": null,
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5",
+            "subsection_title": "Disclosure of Practical Expedient Election",
+            "summary": "Entities electing the practical expedient for incremental costs must disclose that fact.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-50-5",
+                "text": "If an entity elects to use the practical expedient in paragraph 340-40-25-4 on the incremental costs of obtaining a contract, the entity shall disclose that fact.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "practical expedient"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If an entity elects to use the practical expedient in paragraph 340-40-25-4 on the incremental costs of obtaining a contract, the entity shall disclose that fact.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "If an entity elects to use the practical expedient in paragraph 340-40-25-4"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "If an entity elects to use the practical expedient in paragraph 340-40-25-4"
+                ],
+                "cross_references": [
+                  "340-40-25-4"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-6",
+            "subsection_title": "Disclosure Exceptions for Certain Entities",
+            "summary": "Certain entities may elect not to provide the disclosure of practical expedient election.",
+            "paragraphs": [
+              {
+                "paragraph_id": "340-40-50-6",
+                "text": "An entity, except for a public business entity, a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the Securities and Exchange Commission, may elect not to provide the disclosure in paragraph 340-40-50-5.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "disclosure exceptions",
+                  "certain entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity, except for a public business entity, a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the Securities and Exchange Commission, may elect not to provide the disclosure in paragraph 340-40-50-5.",
+                    "mandatory_language": null,
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "55",
+        "section_title": "Implementation Guidance and Illustrations",
+        "section_type": "Implementation Guidance",
+        "summary": "Contains implementation guidance and illustrations that are an integral part of the Subtopic.",
+        "subsections": [
+          {
+            "subsection_number": "55-1",
+            "subsection_title": "Contract Costs",
+            "summary": "Examples illustrating guidance on incremental costs of obtaining a contract, costs to fulfill a contract, and amortization and impairment of contract costs.",
+            "paragraphs": null,
+            "examples": [
+              {
+                "example_id": "Example 1",
+                "title": "Incremental Costs of Obtaining a Contract",
+                "scenario": "An entity, a provider of consulting services, wins a competitive bid to provide consulting services to a new customer. The entity incurred external legal fees for due diligence, travel costs to deliver proposal, and commissions to sales employees.",
+                "analysis": "The entity recognizes an asset for the $10,000 incremental costs of obtaining the contract arising from the commissions to sales employees because the entity expects to recover those costs through future fees for the consulting services. The entity does not recognize an asset for the bonuses paid to sales supervisors because the bonuses are not incremental to obtaining a contract. The external legal fees and travel costs are recognized as expenses when incurred.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "340-40-25-1",
+                  "340-40-25-3"
+                ],
+                "financial_statement_impact": null
+              },
+              {
+                "example_id": "Example 2",
+                "title": "Costs That Give Rise to an Asset",
+                "scenario": "An entity enters into a service contract to manage a customer's IT data center for five years, renewable for one-year periods. The entity pays a sales commission and incurs setup costs to build a technology platform.",
+                "analysis": "The entity recognizes an asset for the $10,000 incremental costs of obtaining the contract for the sales commission because the entity expects to recover those costs through future fees. The asset is amortized over seven years. Setup costs relate primarily to fulfilling the contract but do not transfer goods or services and are accounted for under other Topics. Costs for employees providing the service are expensed when incurred.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "340-40-25-1",
+                  "340-40-25-5",
+                  "340-40-35-1",
+                  "340-40-25-8"
+                ],
+                "financial_statement_impact": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "606",
+      "relationship_type": "related",
+      "description": "For guidance on revenue from contracts with customers, see Topic 606.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "944-30",
+      "relationship_type": "related",
+      "description": "For guidance regarding direct response advertising costs, see Subtopic 944-30.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "350",
+      "relationship_type": "related",
+      "description": "For guidance on goodwill and other intangible assets.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "360",
+      "relationship_type": "related",
+      "description": "For guidance on property, plant, and equipment.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "330",
+      "relationship_type": "related",
+      "description": "For guidance on inventory.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "985-20",
+      "relationship_type": "related",
+      "description": "For guidance on costs of software to be sold, leased, or otherwise marketed.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "350-40",
+      "relationship_type": "related",
+      "description": "For guidance on internal-use software.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "250-10",
+      "relationship_type": "related",
+      "description": "For guidance on accounting changes and error corrections.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Customer",
+      "definition": "A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration."
+    },
+    {
+      "term": "Assuming Entity",
+      "definition": "The party that receives a reinsurance premium in a reinsurance transaction. The assuming entity (or reinsurer) accepts an obligation to reimburse a ceding entity under the terms of the reinsurance contract."
+    },
+    {
+      "term": "Ceding Entity",
+      "definition": "The party that pays a reinsurance premium in a reinsurance transaction. The ceding entity receives the right to reimbursement from the assuming entity under the terms of the reinsurance contract."
+    },
+    {
+      "term": "Experience Adjustment",
+      "definition": "A provision in an insurance or reinsurance contract that modifies the premium, coverage, commission, or a combination of the three, in whole or in part, based on experience under the contract."
+    },
+    {
+      "term": "Insurance Risk",
+      "definition": "The risk arising from uncertainties about both timing risk. Actual or imputed investment returns are not an element of insurance risk. Insurance risk is fortuitous; the possibility of adverse events occurring is outside the control of the insured."
+    },
+    {
+      "term": "Reinsurance",
+      "definition": "A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder."
+    },
+    {
+      "term": "Timing Risk",
+      "definition": "The risk arising from uncertainties about the timing of the receipt and payments of the net cash flows from premiums, commissions, claims, and claim settlement expenses paid under a contract."
+    },
+    {
+      "term": "Underwriting Risk",
+      "definition": "The risk arising from uncertainties about the ultimate amount of net cash flows from premiums, commissions, claims, and claim settlement expenses paid under a contract."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return; Operating purposes other than to provide goods or services at a profit; Absence of ownership interests like those of business entities."
+    },
+    {
+      "term": "Performance Obligation",
+      "definition": "A promise in a customer to transfer to the customer either: 1. A good or service (or a bundle of goods or services) that is distinct 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer."
+    },
+    {
+      "term": "Public Business Entity",
+      "definition": "A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity. 1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing). 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC. 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer. 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market. 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion. An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC."
+    },
+    {
+      "term": "Revenue",
+      "definition": "Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations."
+    },
+    {
+      "term": "Security",
+      "definition": "A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics: 1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer."
+    },
+    {
+      "term": "Transaction Price",
+      "definition": "The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

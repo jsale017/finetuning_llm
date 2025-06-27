@@ -1,0 +1,138 @@
+{
+  "document_metadata": {
+    "asc_topic": "215",
+    "topic_title": "Statement of Shareholder Equity",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": [
+      "505"
+    ],
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Statement of Shareholder Equity Topic contains only the Overall Subtopic. This Subtopic only provides a link to guidance on shareholders' equity.",
+      "scope": null,
+      "key_changes": [
+        
+      ],
+      "objectives": [
+        
+      ],
+      "core_principles": [
+        
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. Does not summarize the accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": null,
+            "summary": "The Statement of Shareholder Equity Topic contains only the Overall Subtopic. This Subtopic only provides a link to guidance on shareholders' equity.",
+            "paragraphs": [
+              {
+                "paragraph_id": "215-10-05-1",
+                "text": "The Statement of Shareholder Equity Topic contains only the Overall Subtopic. This Subtopic only provides a link to guidance on shareholders' equity.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Statement of Shareholder Equity",
+                  "Overall Subtopic",
+                  "shareholders' equity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": null,
+            "summary": "For disclosure guidance on items that comprise shareholders' equity, see Topic 505.",
+            "paragraphs": [
+              {
+                "paragraph_id": "215-10-50-1",
+                "text": "For disclosure guidance on items that comprise shareholders' equity, see Topic 505.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "disclosure",
+                  "shareholders' equity",
+                  "Topic 505"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "505"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "505",
+      "relationship_type": "related",
+      "description": "Topic 215 refers users to Topic 505 for disclosure guidance on items that comprise shareholders' equity.",
+      "specific_paragraphs": [
+        "215-10-50-1"
+      ]
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": [
+    {
+      "checkpoint_id": "215-10-50-1",
+      "requirement_type": "disclosure",
+      "requirement_text": "For disclosure guidance on items that comprise shareholders' equity, see Topic 505.",
+      "assessment_criteria": [
+        "Verify that disclosures related to shareholders' equity reference or comply with Topic 505."
+      ],
+      "common_violations": [
+        "Omitting required disclosures for shareholders' equity as outlined in Topic 505."
+      ],
+      "testing_procedures": [
+        "Review financial statement notes for appropriate reference to or inclusion of disclosures per Topic 505."
+      ],
+      "documentation_requirements": [
+        "Documentation of compliance with Topic 505 disclosure requirements for shareholders' equity."
+      ],
+      "risk_level": "Low",
+      "related_paragraphs": [
+        "215-10-50-1"
+      ]
+    }
+  ],
+  "glossary_terms": null,
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": [
+    "shareholders' equity",
+    "disclosure",
+    "cross-reference",
+    "financial statements"
+  ],
+  "complexity_score": 1
+}

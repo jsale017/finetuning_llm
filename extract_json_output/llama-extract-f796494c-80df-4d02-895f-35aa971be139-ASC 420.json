@@ -1,0 +1,1475 @@
+{
+  "document_metadata": {
+    "asc_topic": "420",
+    "topic_title": "Exit or Disposal Cost Obligations",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "Other",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Exit or Disposal Cost Obligations Topic addresses financial accounting and reporting for costs associated with exit or disposal activities, including but not limited to restructuring.",
+      "scope": "The guidance applies to all entities and covers transactions such as one-time employee termination benefits, costs to terminate contracts that are not leases, costs to consolidate facilities or relocate employees, costs associated with disposal activities covered by Subtopic 205-20, and exit activities including those related to newly acquired entities or acquisitions by not-for-profit entities. It excludes costs related to retirement of long-lived assets and impairment of unrecognized assets while in use.",
+      "key_changes": [
+        "Acquirer: Amended by Accounting Standards Update No. 2025-03 on 05/12/2025",
+        "Acquisition by a Not-for-Profit Entity: Added by Accounting Standards Update No. 2010-07 on 01/28/2010",
+        "Business: Amended by Accounting Standards Update No. 2017-01 on 01/05/2017",
+        "Cease-Use Date: Amended by Maintenance Update 2020-18 on 11/25/2020",
+        "Contract: Added by Accounting Standards Update No. 2016-02 on 02/25/2016",
+        "Lease: Added by Accounting Standards Update No. 2016-02 on 02/25/2016",
+        "Variable Interest Entity: Superseded by Accounting Standards Update No. 2025-03 on 05/12/2025",
+        "420-10-05-2: Amended by Accounting Standards Update No. 2016-02 on 02/25/2016",
+        "420-10-15-3: Amended by Maintenance Update 2021-09 on 08/20/2021",
+        "420-10-15-3: Amended by Accounting Standards Update No. 2016-02 on 02/25/2016",
+        "420-10-15-3: Amended by Accounting Standards Update No. 2010-07 on 01/28/2010",
+        "420-10-25-2: Amended by Accounting Standards Update No. 2024-02 on 03/29/2024",
+        "420-10-25-11: Amended by Accounting Standards Update No. 2016-02 on 02/25/2016",
+        "420-10-25-13: Amended by Maintenance Update 2018-12 on 09/10/2018",
+        "420-10-30-8: Superseded by Accounting Standards Update No. 2016-02",
+        "420-10-30-9: Amended by Maintenance Update 2018-12 on 09/10/2018",
+        "420-10-45-3: Amended by Accounting Standards Update No. 2015-01 on 01/09/2015",
+        "420-10-50-1: Amended by Accounting Standards Update No. 2024-03 on 11/04/2024",
+        "420-10-55-11 through 55-15: Superseded by Accounting Standards Update No. 2016-02"
+      ],
+      "objectives": [
+        "The objective is to improve financial reporting by requiring recognition and initial measurement at fair value of liabilities for costs associated with exit or disposal activities only when the liability is incurred."
+      ],
+      "core_principles": [
+        "A liability for exit or disposal costs is recognized only when incurred, not merely upon commitment to a plan.",
+        "Liabilities are initially measured at fair value when incurred.",
+        "Subsequent measurement uses the credit-adjusted risk-free rate.",
+        "Changes in estimates are recognized in the period of change.",
+        "Costs related to exit or disposal activities are presented in income from continuing operations unless related to discontinued operations.",
+        "Disclosure requirements include detailed information about the exit or disposal activity and associated costs."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic, including typical situations addressed by the standards.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-05-1",
+                "text": "The Exit or Disposal Cost Obligations Topic addresses financial accounting and reporting for costs associated with exit or disposal activities. An exit activity includes but is not limited to a restructuring.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "exit activity",
+                  "disposal activity",
+                  "restructuring"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-2",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-05-2",
+                "text": "Those costs include, but are not limited to, the following: a. Involuntary employee termination benefits pursuant to a one-time benefit arrangement that, in substance, is not an ongoing benefit arrangement or an individual deferred compensation contract b. Costs to terminate a contract that is not a lease c. Other associated costs, including costs to consolidate or close facilities and relocate employees.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "involuntary employee termination benefits",
+                  "one-time benefit arrangement",
+                  "contract termination",
+                  "consolidate facilities",
+                  "relocate employees"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-3",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-05-3",
+                "text": "This Topic addresses when to recognize a liability for a cost associated with an exit or disposal activity. An entity's commitment to an exit or disposal plan, by itself, does not create a present obligation to others that meets the definition of a liability.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "liability recognition",
+                  "exit or disposal plan"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-4",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-05-4",
+                "text": "Certain postemployment benefit costs that may be associated with exit or disposal activities are covered by other Topics. The accounting for employee termination benefits will differ depending on whether the benefits are provided under a one-time benefit arrangement covered by this Topic or an ongoing benefit arrangement referred to in the following list. As indicated in paragraph 420-10-15-6, this Topic does not change the accounting for termination benefits covered by the following Topics and Subtopics: a. Postemployment benefits provided through a pension or postretirement benefit plan (Subtopics 715-30 and 715-60 specify the accounting for those costs.) b. Other nonretirement postemployment benefits covered by Topic 712 c. Special or contractual termination benefits covered by paragraphs 715-30-25-10 and 715-60-25-4 through 25-6 d. Individual deferred compensation arrangements that are addressed by paragraph 710-10-15-4(c) e. Stock compensation plans addressed by Topic 718.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "postemployment benefit costs",
+                  "employee termination benefits",
+                  "one-time benefit arrangement",
+                  "ongoing benefit arrangement"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "420-10-15-6",
+                  "715-30",
+                  "715-60",
+                  "712",
+                  "715-30-25-10",
+                  "715-60-25-4",
+                  "715-60-25-5",
+                  "715-60-25-6",
+                  "710-10-15-4(c)",
+                  "718"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "10",
+        "section_title": "Objectives",
+        "section_type": "Overview",
+        "summary": "Provides the high-level objectives that the Subtopic is intended to accomplish or attain.",
+        "subsections": [
+          {
+            "subsection_number": "10-1",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-10-1",
+                "text": "The objective of the Exit or Disposal Cost Obligations Topic is to improve financial reporting by requiring that a liability for a cost associated with an exit or disposal activity be recognized and measured initially at fair value only when the liability is incurred.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "liability",
+                  "fair value",
+                  "incurred"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items to which the guidance applies or does not apply.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-15-1",
+                "text": "The Scope Section of the Overall Subtopic establishes the pervasive scope for the Exit or Disposal Cost Obligations Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Entities",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-15-2",
+                "text": "The guidance in the Exit or Disposal Cost Obligations Topic applies to all entities.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-3",
+            "subsection_title": "Transactions",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-15-3",
+                "text": "The guidance applies to termination benefits for involuntarily terminated employees under one-time benefit arrangements, costs to terminate non-lease contracts, costs to consolidate facilities or relocate employees, costs associated with disposal activities under Subtopic 205-20, and exit activities including those related to newly acquired entities or not-for-profit acquisitions.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "termination benefits",
+                  "one-time employee termination benefits",
+                  "contract termination",
+                  "consolidate facilities",
+                  "relocate employees",
+                  "disposal activity",
+                  "exit activity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "420-10-25-11",
+                  "420-10-25-12",
+                  "420-10-25-13",
+                  "842-20-40-1",
+                  "205-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-4",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-15-4",
+                "text": "An exit activity includes but is not limited to restructuring such as sale or termination of a line of business, closure or relocation of business activities, changes in management structure, and fundamental reorganization affecting operations.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "exit activity",
+                  "restructuring",
+                  "sale or termination of a line of business",
+                  "closure of business activities",
+                  "relocation of business activities",
+                  "changes in management structure",
+                  "fundamental reorganization"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-5",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-15-5",
+                "text": "The guidance does not apply to costs associated with retirement of long-lived assets covered by Subtopic 410-20 or impairment of unrecognized assets while being used.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "retirement of a long-lived asset",
+                  "impairment of an unrecognized asset"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "410-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-6",
+            "subsection_title": "Other Considerations",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-15-6",
+                "text": "Certain postemployment benefits are covered by other Topics. This Topic does not change accounting for termination benefits covered by Subtopics 715-30, 715-60, Topic 712, and others as specified.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "postemployment benefits",
+                  "termination benefits",
+                  "one-time termination benefits",
+                  "ongoing benefit arrangement",
+                  "special or contractual termination benefits"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "715-30",
+                  "715-60",
+                  "712",
+                  "712-10-15-3"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "Guidance on criteria, timing, and location for recording liabilities related to exit or disposal costs.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "Determining When to Recognize a Liability",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-25-1",
+                "text": "A liability for a cost associated with an exit or disposal activity shall be recognized in the period in which the liability is incurred, except as indicated in paragraphs 420-10-25-6 and 420-10-25-9 for one-time employee termination benefits incurred over time. If fair value cannot be reasonably estimated, recognition is deferred until fair value can be reasonably estimated.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liability",
+                  "exit or disposal activity",
+                  "fair value",
+                  "one-time employee termination benefits"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A liability for a cost associated with an exit or disposal activity shall be recognized in the period in which the liability is incurred, except as indicated in paragraphs 420-10-25-6 and 420-10-25-9.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "liability is incurred"
+                    ],
+                    "exceptions": [
+                      "as indicated in paragraphs 420-10-25-6 and 420-10-25-9"
+                    ]
+                  },
+                  {
+                    "requirement_text": "If fair value cannot be reasonably estimated, the liability shall be recognized initially in the period in which fair value can be reasonably estimated.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "fair value cannot be reasonably estimated"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "liability is incurred",
+                  "fair value cannot be reasonably estimated"
+                ],
+                "cross_references": [
+                  "420-10-25-6",
+                  "420-10-25-9",
+                  "420-10-30-1",
+                  "420-10-30-2",
+                  "420-10-30-3"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-2",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-25-2",
+                "text": "A liability is incurred when the definition of a liability in FASB Concepts Statement No. 6 is met, meaning a present obligation exists due to a transaction or event leaving little or no discretion to avoid settlement. A commitment to an exit or disposal plan alone does not create a present obligation.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "liability",
+                  "present obligation",
+                  "exit or disposal plan"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "definition of a liability is met"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-3",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-25-3",
+                "text": "Future operating losses expected in connection with an exit or disposal activity are recognized in the periods incurred but do not meet the definition of a liability themselves.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "future operating losses",
+                  "exit or disposal activity"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Future operating losses expected to be incurred in connection with an exit or disposal activity be recognized in the period(s) in which they are incurred.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "future operating losses are incurred"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "future operating losses are incurred"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-4",
+            "subsection_title": "One-Time Employee Termination Benefits",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-25-4",
+                "text": "An arrangement for one-time employee termination benefits exists at the communication date when the plan meets all criteria: management commits to the plan, the plan identifies employees and details benefits, and actions indicate the plan is unlikely to change or be withdrawn.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "one-time employee termination benefits",
+                  "plan of termination",
+                  "communication date"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An arrangement for one-time employee termination benefits exists at the date the plan of termination meets all criteria and has been communicated to employees.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "plan of termination meets all criteria",
+                      "plan has been communicated to employees"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "plan of termination meets all criteria",
+                  "plan has been communicated to employees"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "30",
+        "section_title": "Initial Measurement",
+        "section_type": "Initial Measurement",
+        "summary": null,
+        "subsections": [
+          {
+            "subsection_number": "30-7",
+            "subsection_title": null,
+            "summary": "Liabilities for contract termination costs are measured at fair value when the contract is terminated in accordance with its terms.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-30-7",
+                "text": "A liability for costs to terminate a contract before the end of its term shall be measured at its fair value when the entity terminates the contract in accordance with the contract terms.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liability",
+                  "contract termination",
+                  "fair value"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A liability for costs to terminate a contract before the end of its term shall be measured at its fair value when the entity terminates the contract in accordance with the contract terms.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "entity terminates the contract in accordance with the contract terms"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "entity terminates the contract in accordance with the contract terms"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-8",
+            "subsection_title": null,
+            "summary": "Paragraph superseded by Accounting Standards Update No. 2016-02.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-30-8",
+                "text": "Paragraph superseded by Accounting Standards Update No. 2016-02",
+                "paragraph_type": "guidance",
+                "key_terms": null,
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-9",
+            "subsection_title": null,
+            "summary": "Liabilities for costs continuing under a contract without economic benefit are measured at fair value at the cease-use date.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-30-9",
+                "text": "A liability for costs that will continue to be incurred under a contract for its remaining term without economic benefit to the entity shall be measured at its fair value at the cease-use date.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liability",
+                  "contract",
+                  "fair value",
+                  "cease-use date"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A liability for costs that will continue to be incurred under a contract for its remaining term without economic benefit to the entity shall be measured at its fair value at the cease-use date.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "costs will continue to be incurred under a contract for its remaining term without economic benefit to the entity"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "costs will continue to be incurred under a contract for its remaining term without economic benefit to the entity"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-10",
+            "subsection_title": null,
+            "summary": "Other costs associated with exit or disposal activities are measured at fair value when the liability is incurred.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-30-10",
+                "text": "A liability for other costs associated with an exit or disposal activity shall be measured at its fair value in the period in which the liability is incurred.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liability",
+                  "exit or disposal activity",
+                  "fair value"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A liability for other costs associated with an exit or disposal activity shall be measured at its fair value in the period in which the liability is incurred.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "liability is incurred"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "liability is incurred"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "35",
+        "section_title": "Subsequent Measurement",
+        "section_type": "Subsequent Measurement",
+        "summary": "Guidance on subsequent measurement and recognition of liabilities.",
+        "subsections": [
+          {
+            "subsection_number": "35-1",
+            "subsection_title": "General",
+            "summary": "Subsequent changes to liabilities are measured using the credit-adjusted risk-free rate used initially.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-35-1",
+                "text": "In periods subsequent to initial measurement, changes to the liability, including revisions to timing or amount of estimated cash flows, shall be measured using the credit-adjusted risk-free rate used initially.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "liability",
+                  "credit-adjusted risk-free rate",
+                  "estimated cash flows"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Changes to the liability shall be measured using the credit-adjusted risk-free rate that was used to measure the liability initially.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "periods subsequent to initial measurement",
+                      "change resulting from a revision to either the timing or the amount of estimated cash flows over the future service period"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "periods subsequent to initial measurement",
+                  "change resulting from a revision to either the timing or the amount of estimated cash flows over the future service period"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-2",
+            "subsection_title": null,
+            "summary": "Cumulative effects of changes in estimated cash flows are recognized as adjustments to the liability in the period of change.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-35-2",
+                "text": "The cumulative effect of a change resulting from a revision to either the timing or the amount of estimated cash flows shall be recognized as an adjustment to the liability in the period of the change.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "cumulative effect",
+                  "estimated cash flows",
+                  "adjustment to the liability"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The cumulative effect of a change resulting from a revision to either the timing or the amount of estimated cash flows shall be recognized as an adjustment to the liability in the period of the change.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "change resulting from a revision to either the timing or the amount of estimated cash flows"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "change resulting from a revision to either the timing or the amount of estimated cash flows"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-3",
+            "subsection_title": null,
+            "summary": "If a termination plan changes and employees expected to be terminated are retained beyond the minimum retention period, the liability is adjusted accordingly.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-35-3",
+                "text": "If a plan of termination changes and employees expected to be terminated within the minimum retention period are retained to render service beyond that period, a previously recognized liability shall be adjusted to the amount that would have been recognized if paragraph 420-10-25-9 had been applied in all periods subsequent to the communication date.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "plan of termination",
+                  "liability",
+                  "communication date"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A liability previously recognized at the communication date shall be adjusted to the amount that would have been recognized if the provisions of paragraph 420-10-25-9 had been applied in all periods subsequent to the communication date.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "plan of termination changes",
+                      "employees that were expected to be terminated within the minimum retention period are retained to render service beyond that period"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "plan of termination changes",
+                  "employees that were expected to be terminated within the minimum retention period are retained to render service beyond that period"
+                ],
+                "cross_references": [
+                  "420-10-25-9"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-4",
+            "subsection_title": null,
+            "summary": "Changes due to passage of time are recognized as accretion expense and increase the liability; accretion expense is not interest cost.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-35-4",
+                "text": "Changes due to the passage of time shall be recognized as an increase in the carrying amount of the liability and as an expense (accretion expense). Accretion expense shall not be considered interest cost for purposes of applying Subtopic 835-20.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "passage of time",
+                  "accretion expense",
+                  "interest cost"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Changes due to the passage of time shall be recognized as an increase in the carrying amount of the liability and as an expense.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "changes due to passage of time"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "changes due to passage of time"
+                ],
+                "cross_references": [
+                  "835-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "40",
+        "section_title": "Derecognition",
+        "section_type": "Derecognition",
+        "summary": "Guidance on derecognition of liabilities related to exit or disposal costs.",
+        "subsections": [
+          {
+            "subsection_number": "40-1",
+            "subsection_title": "Reversal of Liability",
+            "summary": "If an event discharges or removes responsibility to settle a liability recognized in a prior period, the liability shall be reversed through the same income statement line item.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-40-1",
+                "text": "If an event or circumstance occurs that discharges or removes an entity's responsibility to settle a liability for a cost associated with an exit or disposal activity recognized in a prior period, the liability shall be reversed. The related costs shall be reversed through the same line item(s) in the income statement (statement of activities) used when those costs were recognized initially.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "derecognition",
+                  "liability",
+                  "exit or disposal activity"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The liability shall be reversed if an event or circumstance occurs that discharges or removes an entity's responsibility to settle a liability for a cost associated with an exit or disposal activity recognized in a prior period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "event or circumstance occurs that discharges or removes an entity's responsibility to settle a liability for a cost associated with an exit or disposal activity recognized in a prior period"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "event or circumstance occurs that discharges or removes an entity's responsibility to settle a liability for a cost associated with an exit or disposal activity recognized in a prior period"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "45",
+        "section_title": "Other Presentation Matters",
+        "section_type": "Presentation",
+        "summary": "Guidance on presentation matters including income statement classification and discontinued operations.",
+        "subsections": [
+          {
+            "subsection_number": "45-1",
+            "subsection_title": "Changes in Estimates",
+            "summary": "Cumulative effects of changes in estimated cash flows are reported in the same income statement line item as the related costs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-45-1",
+                "text": "The cumulative effect of a change resulting from a revision to either the timing or the amount of estimated cash flows shall be reported in the same line item(s) in the income statement (statement of activities) used when the related costs were recognized initially in the period of change.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "cumulative effect",
+                  "estimated cash flows",
+                  "income statement"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The cumulative effect of a change resulting from a revision to either the timing or the amount of estimated cash flows shall be reported in the same line item(s) in the income statement (statement of activities) used when the related costs were recognized initially in the period of change.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "change resulting from a revision to either the timing or the amount of estimated cash flows"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "change resulting from a revision to either the timing or the amount of estimated cash flows"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-2",
+            "subsection_title": "Exit or Disposal Activity Involving a Discontinued Operation",
+            "summary": "Costs related to exit or disposal activities involving discontinued operations are included within discontinued operations results.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-45-2",
+                "text": "Costs associated with an exit or disposal activity involving a discontinued operation shall be included within the results of discontinued operations in accordance with Section 205-20-45.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "exit or disposal activity",
+                  "discontinued operation",
+                  "discontinued operations"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Costs associated with an exit or disposal activity involving a discontinued operation shall be included within the results of discontinued operations in accordance with Section 205-20-45.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "exit or disposal activity involving a discontinued operation"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "exit or disposal activity involving a discontinued operation"
+                ],
+                "cross_references": [
+                  "205-20-45"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-3",
+            "subsection_title": "Income from Continuing Operations",
+            "summary": "Costs related to exit or disposal activities not involving discontinued operations are included in income from continuing operations before income taxes.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-45-3",
+                "text": "Costs associated with an exit or disposal activity that does not involve a discontinued operation shall be included in income from continuing operations before income taxes in the income statement of a business entity and in income from continuing operations in the statement of activities of a not-for-profit entity (NFP). Separate presentation of exit and disposal costs in the income statement is not prohibited. If a subtotal such as income from operations is presented, it shall include the amounts of those costs.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "exit or disposal activity",
+                  "continuing operations",
+                  "income statement"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Costs associated with an exit or disposal activity that does not involve a discontinued operation shall be included in income from continuing operations before income taxes in the income statement of a business entity and in income from continuing operations in the statement of activities of a not-for-profit entity (NFP).",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "exit or disposal activity that does not involve a discontinued operation"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "exit or disposal activity that does not involve a discontinued operation"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-5",
+            "subsection_title": null,
+            "summary": "Accretion expense is not considered interest cost for income statement classification.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-45-5",
+                "text": "Accretion expense shall not be considered interest cost for purposes of classification in the income statement (statement of activities).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accretion expense",
+                  "interest cost",
+                  "income statement"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Accretion expense shall not be considered interest cost for purposes of classification in the income statement (statement of activities).",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Disclosure requirements for exit or disposal activities in notes to financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "General",
+            "summary": "Disclosures required in notes for periods including and following initiation of exit or disposal activities until completion.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-50-1",
+                "text": "All of the following information shall be disclosed in notes to financial statements that include the period in which an exit or disposal activity is initiated and any subsequent period until the activity is completed: a. A description of the exit or disposal activity, including the facts and circumstances leading to the expected activity and the expected completion date b. For each major type of cost associated with the activity (for example, one-time employee termination benefits, contract termination costs, and other associated costs), both of the following shall be disclosed: 1. The total amount expected to be incurred in connection with the activity, the amount incurred in the period, and the cumulative amount incurred to date 2. A reconciliation of the beginning and ending liability balances showing separately the changes during the period attributable to costs incurred and charged to expense, costs paid or otherwise settled, and any adjustments to the liability with an explanation of the reason(s) why. c. The line item(s) in the income statement or the statement of activities in which the costs in (b) are aggregated d. For each reportable segment, as defined in Subtopic 280-10, the total amount of costs expected to be incurred in connection with the activity, the amount incurred in the period, and the cumulative amount incurred to date, net of any adjustments to the liability with an explanation of the reason(s) why e. If a liability for a cost associated with the activity is not recognized because fair value cannot be reasonably estimated, that fact and the reasons why.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "exit or disposal activity",
+                  "liability balances",
+                  "income statement"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "All of the following information shall be disclosed in notes to financial statements that include the period in which an exit or disposal activity is initiated and any subsequent period until the activity is completed: a. Description of the activity, b. For each major cost type: total expected, incurred in period, cumulative incurred, reconciliation of liability changes with explanations, c. Income statement line items where costs are aggregated, d. For each reportable segment: total expected, incurred, cumulative incurred with explanations, e. If liability not recognized due to inability to estimate fair value, that fact and reasons.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "period in which an exit or disposal activity is initiated and any subsequent period until the activity is completed"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "period in which an exit or disposal activity is initiated and any subsequent period until the activity is completed"
+                ],
+                "cross_references": [
+                  "280-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "S45",
+        "section_title": "Other Presentation Matters",
+        "section_type": "Presentation",
+        "summary": "Guidance on other presentation matters including SEC Staff views on restructuring charges and classification of inventory markdowns.",
+        "subsections": [
+          {
+            "subsection_number": "S45-1",
+            "subsection_title": "Income Statement Presentation of Restructuring Charges",
+            "summary": "References SEC Staff views on income statement presentation of restructuring charges.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S45-1",
+                "text": "See paragraph 420-10-S99-1, SAB Topic 5.P.3, for SEC Staff views on income statement presentation of restructuring charges.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "restructuring charges",
+                  "income statement presentation"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "420-10-S99-1"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S45-2",
+            "subsection_title": null,
+            "summary": "References SEC Staff views on classification of inventory markdowns associated with restructuring.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S45-2",
+                "text": "See paragraph 420-10-S99-3, SEC Observer Comment: Classification of Inventory Markdowns and Other Costs Associated with Restructuring, for SEC Staff views on the classification of inventory markdowns associated with restructuring activities.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "inventory markdowns",
+                  "restructuring"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "420-10-S99-3"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "S50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "References SEC Staff views on disclosures pertaining to restructuring charges.",
+        "subsections": [
+          {
+            "subsection_number": "S50-1",
+            "subsection_title": "Disclosures Related to Restructuring Charges",
+            "summary": "References SEC Staff views on disclosures pertaining to restructuring charges.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S50-1",
+                "text": "See paragraph 420-10-S99-2, SAB Topic 5.P.4, for SEC Staff views on disclosures pertaining to restructuring charges.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "disclosure",
+                  "restructuring charges"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "420-10-S99-2"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "S99",
+        "section_title": "SEC Materials",
+        "section_type": "Disclosure",
+        "summary": "Includes selected SEC and SEC Staff content for reference by public companies.",
+        "subsections": [
+          {
+            "subsection_number": "S99-1",
+            "subsection_title": "SAB Topic 5.P.3, Income Statement Presentation of Restructuring Charges",
+            "summary": "Provides SEC Staff interpretive responses on presentation of restructuring charges in the income statement.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S99-1",
+                "text": "Restructuring charges often do not relate to a separate component of the entity and are not unusual and infrequent; therefore, they should not be presented as losses on disposal of discontinued operations or as extraordinary items.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "restructuring charges",
+                  "discontinued operation",
+                  "extraordinary items"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Restructuring charges should not be presented as losses on the disposal of a discontinued operation or as extraordinary items.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": [
+                      "charges do not relate to a separate component of the entity",
+                      "charges are not both unusual and infrequent"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "not a separate component",
+                  "not both unusual and infrequent"
+                ],
+                "cross_references": [
+                  "225-20-45-2"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-1-IR1",
+            "subsection_title": null,
+            "summary": "Further SEC Staff guidance on presentation of restructuring charges as components of income from continuing operations, separately disclosed if material, and not preceded by a subtotal for income before restructuring charges.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S99-1-IR1",
+                "text": "Restructuring charges should be presented as a component of income from continuing operations, separately disclosed if material. A separately presented restructuring charge should not be preceded by a subtotal representing 'income from continuing operations before restructuring charge'.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "income from continuing operations",
+                  "restructuring charges",
+                  "extraordinary item"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Restructuring charges should be presented as a component of income from continuing operations, separately disclosed if material.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": [
+                      "if material"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "A separately presented restructuring charge should not be preceded by a sub-total representing 'income from continuing operations before restructuring charge'.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "if material"
+                ],
+                "cross_references": [
+                  "220-20-45-1",
+                  "225-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-1-IR2",
+            "subsection_title": null,
+            "summary": "SEC Staff guidance on classification of restructuring charges based on nature of charge and related assets and operations.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S99-1-IR2",
+                "text": "Charges related to activities historically included in operating income should generally be classified as operating expenses, separately disclosed if material. Charges related to 'other income and expenses' should be similarly classified and disclosed if material.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "operating expense",
+                  "restructuring charge",
+                  "classification"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Charges which relate to activities for which the revenues and expenses have historically been included in operating income should generally be classified as an operating expense, separately disclosed if material.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": [
+                      "if material"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "if material"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-2",
+            "subsection_title": "SAB Topic 5.P.4, Disclosures",
+            "summary": "SEC Staff interpretive responses on disclosures required for restructuring charges.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S99-2",
+                "text": "Beginning with the period in which the exit plan is initiated, disclosure is required in all periods, including interim periods, until the exit plan is completed, covering description of the activity, costs expected and incurred, reconciliation of liabilities, income statement line items, reportable segments, and reasons if liabilities are not recognized due to inability to estimate fair value.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "exit plan",
+                  "liability balances",
+                  "reportable segment"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Disclosure is required in all periods, including interim periods, until the exit plan is completed, of: (1) description of the exit or disposal activity, (2) for each major type of cost, the total amount expected, amount incurred in the period, cumulative amount incurred, (3) reconciliation of beginning and ending liability balances, (4) line items in the income statement where costs are aggregated, (5) for each reportable segment, the total amount of costs expected, incurred, and cumulative, (6) if a liability is not recognized because fair value cannot be reasonably estimated, that fact and reasons.",
+                    "mandatory_language": [
+                      "must"
+                    ],
+                    "conditions": [
+                      "until the exit plan is completed"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "until the exit plan is completed"
+                ],
+                "cross_references": [
+                  "420"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "S99-3",
+            "subsection_title": "SEC Observer Comment: Classification of Inventory Markdowns and Other Costs Associated with Restructuring",
+            "summary": "SEC Staff comments on classification of inventory markdowns related to restructuring.",
+            "paragraphs": [
+              {
+                "paragraph_id": "420-10-S99-3",
+                "text": "Costs associated with exit or disposal activities not involving discontinued operations should be included in income from continuing operations before taxes. If a subtotal such as 'income from operations' is presented, it should include exit or disposal costs. Inventory markdowns attributable to exit or restructuring decisions are difficult to distinguish from those due to external market factors. Inventory markdowns are generally classified as cost of goods sold.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "inventory markdowns",
+                  "exit or disposal activities",
+                  "continuing operations"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Costs associated with exit or disposal activities that do not involve a discontinued operation should be included in income from continuing operations before taxes.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": [
+                      "do not involve a discontinued operation"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "If a subtotal such as 'income from operations' is presented, that subtotal should include the amounts of exit or disposal costs.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": [
+                      "if a subtotal such as 'income from operations' is presented"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "do not involve a discontinued operation"
+                ],
+                "cross_references": [
+                  "420-10"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "420-10-S99-3-IR1",
+                "text": "The timing, method, and pricing of inventory dispositions are normal recurring activities. Inventory markdowns should be classified as a component of cost of goods sold.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "inventory markdowns",
+                  "cost of goods sold"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Inventory markdowns should be classified in the income statement as a component of cost of goods sold.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "825",
+      "relationship_type": "related",
+      "description": "For guidance on matters related broadly to all financial instruments, including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements.",
+      "specific_paragraphs": [
+        "825-10-15"
+      ]
+    },
+    {
+      "referenced_topic": "842",
+      "relationship_type": "related",
+      "description": "For terminations of a lease, see paragraph 842-20-40-1.",
+      "specific_paragraphs": [
+        "842-20-40-1"
+      ]
+    },
+    {
+      "referenced_topic": "205-20",
+      "relationship_type": "related",
+      "description": "Costs associated with a disposal activity covered by Subtopic 205-20.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "410-20",
+      "relationship_type": "related",
+      "description": "Costs associated with the retirement of a long-lived asset covered by Subtopic 410-20.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "715-30",
+      "relationship_type": "related",
+      "description": "Postemployment benefits provided through a pension or postretirement benefit plan.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "715-60",
+      "relationship_type": "related",
+      "description": "Postemployment benefits provided through a pension or postretirement benefit plan.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "712",
+      "relationship_type": "related",
+      "description": "Other nonretirement postemployment benefits covered by Topic 712.",
+      "specific_paragraphs": [
+        "712-10-15-3"
+      ]
+    },
+    {
+      "referenced_topic": "718",
+      "relationship_type": "related",
+      "description": "Stock compensation plans addressed by Topic 718.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Acquiree",
+      "definition": "The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity."
+    },
+    {
+      "term": "Acquirer",
+      "definition": "The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer."
+    },
+    {
+      "term": "Acquisition by a Not-for-Profit Entity",
+      "definition": "A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities."
+    },
+    {
+      "term": "Business",
+      "definition": "Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business."
+    },
+    {
+      "term": "Business Combination",
+      "definition": "A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity."
+    },
+    {
+      "term": "Cease-Use Date",
+      "definition": "The date the entity ceases using the right conveyed by the contract, for example, to receive future goods or services."
+    },
+    {
+      "term": "Communication Date",
+      "definition": "The date the plan of termination for one-time employee termination benefits meets all of the criteria in paragraph 420-10-25-4 and has been communicated to employees."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Legal Entity",
+      "definition": "Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts."
+    },
+    {
+      "term": "Legal Notification Period",
+      "definition": "The notification period that an entity is required to provide to employees in advance of a specified termination event as a result of an existing law, statute, or contract."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: a. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return b. Operating purposes other than to provide goods or services at a profit c. Absence of ownership interests like those of business entities. Entities that clearly fall outside this definition include the following: a. All investor-owned entities b. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans."
+    },
+    {
+      "term": "One-Time Employee Termination Benefits",
+      "definition": "Benefits provided to current employees that are involuntarily terminated under the terms of a one-time benefit arrangement."
+    },
+    {
+      "term": "Restructuring",
+      "definition": "A program that is planned and controlled by management, and materially changes either the scope of a business undertaken by an entity, or the manner in which that business is conducted, as defined by the International Accounting Standard No. 37 in 2002."
+    },
+    {
+      "term": "Variable Interest Entity",
+      "definition": "A legal entity subject to consolidation according to the provisions of the Variable Interest Entities."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

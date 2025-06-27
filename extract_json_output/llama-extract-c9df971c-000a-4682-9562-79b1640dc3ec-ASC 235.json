@@ -1,0 +1,488 @@
+{
+  "document_metadata": {
+    "asc_topic": "235",
+    "topic_title": "Notes to Financial Statements",
+    "version": "2024-02",
+    "effective_date": "P December 16, 2024; N December 16, 2025",
+    "last_updated": "03/29/2024",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": [
+      "825",
+      "250",
+      "850"
+    ],
+    "transition_guidance": "Transition Date: P December 16, 2024; N December 16, 2025 - Transition Guidance : 105-10-65-9"
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Notes to Financial Statements Topic addresses the content and usefulness of disclosure by an entity of the accounting policies judged by management to be most appropriate to fairly present the entity's financial statements.",
+      "scope": "The guidance in the Notes to Financial Statements Topic applies to all entities.",
+      "key_changes": [
+        "Amendments to definitions and disclosure requirements by Accounting Standards Update No. 2024-02.",
+        "Amendments to specific paragraphs (e.g., 235-10-50-4, 235-10-50-6) by various Accounting Standards Updates and Maintenance Updates."
+      ],
+      "objectives": [
+        "To ensure users of financial statements understand the accounting policies followed by the entity.",
+        "To require disclosure of significant accounting policies as an integral part of the financial statements."
+      ],
+      "core_principles": [
+        "Disclosure of accounting policies is essential for fair presentation and user understanding.",
+        "Significant accounting policies must be identified and described.",
+        "Disclosure should avoid duplication of details presented elsewhere in the financial statements."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic, focusing on the content and usefulness of disclosure of accounting policies.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": null,
+            "summary": "Addresses the content and usefulness of disclosure by an entity of the accounting policies judged by management to be most appropriate.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-05-1",
+                "text": "The Notes to Financial Statements Topic addresses the content and usefulness of disclosure by an entity of the accounting policies judged by management to be most appropriate to fairly present the entity's financial statements.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "accounting policies",
+                  "disclosure",
+                  "financial statements"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "235-10-05-2",
+                "text": "Disclosure of accounting policies related to specific financial statement line items are addressed in the related Topics.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "accounting policies",
+                  "disclosure",
+                  "financial statement line items"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "Related Topics"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-3",
+            "subsection_title": "Importance of Accounting Policies Disclosure",
+            "summary": "Defines accounting policies and their significance for fair presentation and user understanding.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-05-3",
+                "text": "The accounting policies of an entity are the specific accounting principles and the methods of applying those principles that are judged by the management of the entity to be the most appropriate in the circumstances to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles (GAAP) and that, accordingly, have been adopted for preparing the financial statements.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "accounting policies",
+                  "accounting principles",
+                  "GAAP"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "235-10-05-4",
+                "text": "The accounting policies adopted by an entity can affect significantly the presentation of its financial position, cash flows, and results of operations. Accordingly, the usefulness of financial statements for purposes of making economic decisions about the entity depends significantly upon the user's understanding of the accounting policies followed by the entity.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "accounting policies",
+                  "user understanding",
+                  "financial statements"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "Overall Guidance",
+            "summary": "Establishes the pervasive scope for the Notes to Financial Statements Topic.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-15-1",
+                "text": "The Scope Section of the Overall Subtopic establishes the pervasive scope for the Notes to Financial Statements Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Entities",
+            "summary": "Specifies that the guidance applies to all entities.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-15-2",
+                "text": "The guidance in the Notes to Financial Statements Topic applies to all entities.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in the Notes to Financial Statements Topic applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Glossary",
+        "section_type": "Glossary",
+        "summary": "Contains definitions of key terms used in the Subtopic.",
+        "subsections": null
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides guidance regarding the disclosure in the notes to financial statements.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "Accounting Policies Disclosure",
+            "summary": "Requires disclosure of all significant accounting policies as an integral part of the financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-50-1",
+                "text": "Information about the accounting policies adopted by an entity is essential for financial statement users. When financial statements that are issued or are available to be issued (as discussed in Section 855-10-25) purport to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles (GAAP), a description of all significant accounting policies of the entity shall be included as an integral part of the financial statements. In circumstances where it may be appropriate to issue one or more of the basic financial statements without the others, purporting to present fairly the information given in accordance with GAAP, statements so presented also shall include disclosure of the pertinent accounting policies.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accounting policies",
+                  "disclosure",
+                  "financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A description of all significant accounting policies of the entity shall be included as an integral part of the financial statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "When financial statements purport to present fairly financial position, cash flows, and results of operations in accordance with GAAP."
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "When financial statements purport to present fairly financial position, cash flows, and results of operations in accordance with GAAP."
+                ],
+                "cross_references": [
+                  "855-10-25"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-2",
+            "subsection_title": "Accounting Policies Disclosure in Interim Periods",
+            "summary": "Specifies that the disclosure requirements do not apply to unaudited interim financial statements if accounting policies have not changed since the prior year.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-50-2",
+                "text": "The provisions of paragraph 235-10-50-1 are not intended to apply to unaudited financial statements issued as of a date between annual reporting dates (for example, each quarter) if the reporting entity has not changed its accounting policies since the end of its preceding fiscal year.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "unaudited financial statements",
+                  "interim periods"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "If the reporting entity has not changed its accounting policies since the end of its preceding fiscal year."
+                ],
+                "cross_references": [
+                  "235-10-50-1"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-3",
+            "subsection_title": "What to Disclose",
+            "summary": "Describes the content of required accounting policy disclosures.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-50-3",
+                "text": "Disclosure of accounting policies shall identify and describe the accounting principles followed by the entity and the methods of applying those principles that materially affect the determination of financial position, cash flows, or results of operations. In general, the disclosure shall encompass important judgments as to appropriateness of principles relating to recognition of revenue and allocation of asset costs to current and future periods; in particular, it shall encompass those accounting principles and methods that involve any of the following: a. A selection from existing acceptable alternatives b. Principles and methods peculiar to the industry in which the entity operates, even if such principles and methods are predominantly followed in that industry c. Unusual or innovative applications of GAAP.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accounting policies",
+                  "disclosure",
+                  "accounting principles"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Disclosure of accounting policies shall identify and describe the accounting principles followed by the entity and the methods of applying those principles that materially affect the determination of financial position, cash flows, or results of operations.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-4",
+            "subsection_title": "Examples of Disclosures",
+            "summary": "Provides examples of commonly required disclosures regarding accounting policies.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-50-4",
+                "text": "Examples of disclosures by an entity commonly required with respect to accounting policies would include, among others, those relating to the following: a. Basis of consolidation b. Depreciation methods c. Amortization of intangibles d. Inventory pricing e. Recognition of revenue from contracts with customers f. Recognition of revenue from leasing operations.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "basis of consolidation",
+                  "depreciation methods",
+                  "amortization of intangibles",
+                  "inventory pricing",
+                  "revenue recognition"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5",
+            "subsection_title": "Avoid Duplicate Details of Disclosures",
+            "summary": "Prohibits duplication of details in accounting policy disclosures that are presented elsewhere in the financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-50-5",
+                "text": "Financial statement disclosure of accounting policies shall not duplicate details (for example, composition of inventories or of plant assets) presented elsewhere as part of the financial statements. In some cases, the disclosure of accounting policies shall refer to related details presented elsewhere as part of the financial statements; for example, changes in accounting policies during the period shall be described with cross-reference to the disclosure required by Topic 250.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "duplicate details",
+                  "cross-reference",
+                  "Topic 250"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Financial statement disclosure of accounting policies shall not duplicate details presented elsewhere as part of the financial statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "Topic 250"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-6",
+            "subsection_title": "Format",
+            "summary": "Allows flexibility in the format and location of accounting policy disclosures, with a preference for a separate summary of significant accounting policies.",
+            "paragraphs": [
+              {
+                "paragraph_id": "235-10-50-6",
+                "text": "This Subtopic recognizes the need for flexibility in matters of format (including the location) of disclosure of accounting policies provided that the entity identifies and describes its significant accounting policies as an integral part of its financial statements in accordance with the provisions of this Subtopic. Disclosure is preferred in a separate summary of significant accounting policies preceding the notes to financial statements (notes), or as the initial note, under the same or a similar title.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "format",
+                  "summary of significant accounting policies"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "825",
+      "relationship_type": "related",
+      "description": "For guidance on matters related broadly to all financial instruments, including fair value option and broad financial instrument disclosure requirements.",
+      "specific_paragraphs": [
+        "825-10-15"
+      ]
+    },
+    {
+      "referenced_topic": "250",
+      "relationship_type": "related",
+      "description": "For disclosure of changes in accounting policies during the period.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "850",
+      "relationship_type": "related",
+      "description": "For related party disclosures that may affect the terms under which material revenues or expenses are recorded.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": [
+    {
+      "checkpoint_id": "235-10-50-1",
+      "requirement_type": "disclosure",
+      "requirement_text": "A description of all significant accounting policies of the entity shall be included as an integral part of the financial statements.",
+      "assessment_criteria": [
+        "Are all significant accounting policies disclosed as an integral part of the financial statements?",
+        "Are disclosures included when financial statements purport to present fairly in accordance with GAAP?"
+      ],
+      "common_violations": [
+        "Omitting disclosure of significant accounting policies.",
+        "Failing to include disclosures as an integral part of the financial statements."
+      ],
+      "testing_procedures": [
+        "Review the notes to financial statements for inclusion of significant accounting policies.",
+        "Verify that disclosures are present in all financial statements purporting to present fairly in accordance with GAAP."
+      ],
+      "documentation_requirements": [
+        "Copy of the notes to financial statements showing accounting policy disclosures."
+      ],
+      "risk_level": "High",
+      "related_paragraphs": [
+        "235-10-50-1"
+      ]
+    },
+    {
+      "checkpoint_id": "235-10-50-3",
+      "requirement_type": "disclosure",
+      "requirement_text": "Disclosure of accounting policies shall identify and describe the accounting principles followed by the entity and the methods of applying those principles that materially affect the determination of financial position, cash flows, or results of operations.",
+      "assessment_criteria": [
+        "Do disclosures identify and describe the accounting principles and methods that materially affect financial position, cash flows, or results of operations?",
+        "Are important judgments and industry-specific methods disclosed?"
+      ],
+      "common_violations": [
+        "Disclosures are too generic or omit important judgments.",
+        "Failure to disclose industry-specific or unusual applications of GAAP."
+      ],
+      "testing_procedures": [
+        "Review disclosures for completeness and specificity.",
+        "Check for inclusion of industry-specific or unusual accounting methods."
+      ],
+      "documentation_requirements": [
+        "Summary of significant accounting policies from the notes."
+      ],
+      "risk_level": "Medium",
+      "related_paragraphs": [
+        "235-10-50-3"
+      ]
+    },
+    {
+      "checkpoint_id": "235-10-50-5",
+      "requirement_type": "disclosure",
+      "requirement_text": "Financial statement disclosure of accounting policies shall not duplicate details presented elsewhere as part of the financial statements.",
+      "assessment_criteria": [
+        "Are disclosures of accounting policies free from duplication of details presented elsewhere?",
+        "Are cross-references used appropriately for details disclosed elsewhere?"
+      ],
+      "common_violations": [
+        "Duplicating details in both accounting policy disclosures and other notes.",
+        "Omitting cross-references to related disclosures."
+      ],
+      "testing_procedures": [
+        "Compare accounting policy disclosures with other notes for duplication.",
+        "Check for appropriate cross-references."
+      ],
+      "documentation_requirements": [
+        "Notes to financial statements with cross-references."
+      ],
+      "risk_level": "Low",
+      "related_paragraphs": [
+        "235-10-50-5"
+      ]
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Customer",
+      "definition": "A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration."
+    },
+    {
+      "term": "Financial Instrument",
+      "definition": "Cash, evidence of an ownership interest in an entity, or a contract that both: 1. Imposes on one entity a contractual obligation either: (a) To deliver cash or another financial instrument to a second entity, or (b) To exchange other financial instruments on potentially unfavorable terms with the second entity; and 2. Conveys to that second entity a contractual right either: (a) To receive cash or another financial instrument from the first entity, or (b) To exchange other financial instruments on potentially favorable terms with the first entity."
+    },
+    {
+      "term": "Revenue",
+      "definition": "Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": [
+    "disclosure",
+    "accounting policies",
+    "financial statements",
+    "GAAP",
+    "notes to financial statements"
+  ],
+  "complexity_score": 3
+}

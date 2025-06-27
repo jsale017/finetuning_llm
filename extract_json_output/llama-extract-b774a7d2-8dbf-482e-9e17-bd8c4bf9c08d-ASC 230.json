@@ -1,0 +1,291 @@
+{
+  "document_metadata": {
+    "asc_topic": "230",
+    "topic_title": "Statement of Cash Flows",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": [
+      "Update No. 2017-06",
+      "Update No. 2016-18",
+      "Update No. 2016-19",
+      "Update No. 2016-15",
+      "Update No. 2016-02",
+      "Update No. 2014-10",
+      "Update No. 2015-07",
+      "Update No. 2013-08",
+      "Update No. 2012-04",
+      "Update No. 2016-01",
+      "Update No. 2016-14",
+      "Update No. 2016-09",
+      "Update No. 2016-10",
+      "Update No. 2016-13",
+      "Update No. 2023-08",
+      "Update No. 2012-05"
+    ],
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Statement of Cash Flows Topic presents standards for reporting cash flows in general-purpose financial statements. Specific guidance is provided on classifying cash receipts and payments as operating, investing, or financing activities; applying the direct and indirect methods; presenting information about noncash investing and financing activities and other events; and classifying cash flows related to hedging activities. Industry-specific Subtopics provide incremental guidance.",
+      "scope": "The guidance applies to all entities, including business and not-for-profit entities, with specific exceptions such as defined benefit pension plans and certain investment companies. Entities that provide financial statements reporting both financial position and results of operations shall also provide a statement of cash flows for each period presented.",
+      "key_changes": [
+        
+      ],
+      "objectives": [
+        "Provide relevant information about cash receipts and payments during a period.",
+        "Help users assess the entity's ability to generate positive future net cash flows.",
+        "Help assess the entity's ability to meet obligations, pay dividends, and need for external financing.",
+        "Help assess reasons for differences between net income and cash flows.",
+        "Help assess effects on financial position of cash and noncash investing and financing transactions."
+      ],
+      "core_principles": [
+        
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "230-10-05-1",
+                "text": "The Statement of Cash Flows Topic presents standards for reporting cash flows in general-purpose financial statements.",
+                "paragraph_type": "principle",
+                "key_terms": null,
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "230-10-05-2",
+                "text": "Specific guidance is provided on classifying cash receipts and payments as operating, investing, or financing activities; applying the direct and indirect methods; presenting information about noncash investing and financing activities and other events; and classifying cash flows related to hedging activities.",
+                "paragraph_type": "guidance",
+                "key_terms": null,
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "230-10-05-3",
+                "text": "Other Topics, including industry-specific Topics, may have Statement of Cash Flows Subtopics that address Topic-specific requirements incrementally to this Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": null,
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "830-230",
+                  "926-230",
+                  "942-230",
+                  "946-230",
+                  "958-230",
+                  "970-230",
+                  "978-230"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "320",
+      "relationship_type": "related",
+      "description": "Guidance on classification and reporting in the statement of cash flows of cash flows from available-for-sale, held-to-maturity, and trading debt securities.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "321",
+      "relationship_type": "related",
+      "description": "Guidance on classification and reporting in the statement of cash flows of cash flows from equity securities.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "325-30-45",
+      "relationship_type": "related",
+      "description": "Guidance on classification in the statement of cash flows of cash receipts and cash payments related to life settlement contracts.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "830",
+      "relationship_type": "related",
+      "description": "Reporting and implementation guidance for presenting a statement of cash flows of an entity with foreign currency transactions or foreign currency operations.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Board-Designated Endowment Fund",
+      "definition": "An endowment fund created by a not-for-profit entity's (NFP's) governing board by designating a portion of its funds functioning as endowment or quasi-endowment funds). In rare circumstances, a board-designated endowment fund also can include a portion of net assets with donor restrictions. For example, if an NFP is unable to spend donor-restricted contributions in the near term, then the board sometimes considers the long-term investment of these funds. See Endowment Fund."
+    },
+    {
+      "term": "Cash",
+      "definition": "Consistent with common usage, cash includes not only currency on hand but demand deposits with banks or other financial institutions. Cash also includes other kinds of accounts that have the general characteristics of demand deposits in that the customer may deposit additional funds at any time and also effectively may withdraw funds at any time without prior notice or penalty. All charges and credits to those accounts are cash receipts or payments to both the entity owning the account and the bank holding it. For example, a bank's granting of a loan by crediting the proceeds to a customer's demand deposit account is a cash payment by the bank and a cash receipt of the customer when the entry is made."
+    },
+    {
+      "term": "Cash Equivalents",
+      "definition": "Cash equivalents are short-term, highly liquid investments that have both of the following characteristics: a. Readily convertible to known amounts of cash b. So near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Generally, only investments with original maturities of three months or less qualify under that definition. Original maturity means original maturity to the entity holding the investment. For example, both a three-month U.S. Treasury bill and a three-year U.S. Treasury note purchased three months from maturity qualify as cash equivalents. However, a Treasury note purchased three years ago does not become a cash equivalent when its remaining maturity is three months. Examples of items commonly considered to be cash equivalents are Treasury bills, commercial paper, money market funds, and federal funds sold (for an entity with banking operations)."
+    },
+    {
+      "term": "Conditional Contribution",
+      "definition": "A contribution that contains a donor-imposed condition."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Contribution",
+      "definition": "An unconditional transfer of cash or other assets, as well as unconditional promises to give, to an entity or a reduction, settlement, or cancellation of its liabilities in a voluntary nonreciprocal transfer by another entity acting other than as an owner. Those characteristics distinguish contributions from: a. Exchange transactions, which are reciprocal transfers in which each party receives and sacrifices approximately commensurate value b. Investments by owners and distributions to owners, which are nonreciprocal transfers between an entity and its owners c. Other nonreciprocal transfers, such as impositions of taxes or legal judgments, fines, and thefts, which are not voluntary transfers. In a contribution transaction, the resource provider often receives value indirectly by providing a societal benefit although that benefit is not considered to be of commensurate value. In an exchange transaction, the potential public benefits are secondary to the potential direct benefits to the resource provider. The term contribution revenue is used to apply to transactions that are part of the entity's ongoing major or central activities (revenues), or are peripheral or incidental to the entity (gains). See also Conditional Contribution."
+    },
+    {
+      "term": "Donor-Imposed Condition",
+      "definition": "A donor stipulation (donors include other types of contributors, including makers of certain grants) that represents a barrier that must be overcome before the recipient is entitled to the assets transferred or promised. Failure to overcome the barrier gives the contributor a right of return of the assets it has transferred or gives the promisor a right of release from its obligation to transfer its assets."
+    },
+    {
+      "term": "Donor-Imposed Restriction",
+      "definition": "A donor stipulation (donors include other types of contributors, including makers of certain grants) that specifies a use for a contributed asset that is more specific than broad limits resulting from the following: a. The nature of the not-for-profit entity (NFP) b. The environment in which it operates c. The purposes specified in its articles of incorporation or bylaws or comparable documents for an unincorporated association. Some donors impose restrictions that are temporary in nature, for example, stipulating that resources be used after a specified date, for particular programs or services, or to acquire buildings or equipment. Other donors impose restrictions that are perpetual in nature, for example, stipulating that resources be maintained in perpetuity. Laws may extend those limits to investment returns from those resources and to other enhancements (diminishments) of those resources. Thus, those laws extend donor-imposed restrictions."
+    },
+    {
+      "term": "Donor-Restricted Endowment Fund",
+      "definition": "An endowment fund that is created by a donor stipulation (donors include other types of contributors, including makers of certain grants) requiring investment of the gift in perpetuity or for a specified term. Some donors or laws may require that a portion of income, gains, or both be added to the gift and invested subject to similar restrictions. The term does not include a Board-Designated Endowment Fund. See Endowment Fund."
+    },
+    {
+      "term": "Effective Interest Rate",
+      "definition": "The rate of return implicit in the financial asset, that is, the contractual interest rate adjusted for any net deferred fees or costs, premium, or discount existing at the origination or acquisition of the financial asset. For purchased financial assets with credit deterioration, however, to decouple interest income from credit loss recognition, the premium or discount at acquisition excludes the discount embedded in the purchase price that is attributable to the acquirer's assessment of credit losses at the date of acquisition."
+    },
+    {
+      "term": "Endowment Fund",
+      "definition": "An established fund of cash, securities, or other assets to provide income for the maintenance of a not-for-profit entity (NFP). The use of the assets of the fund may be with or without donor-imposed restrictions. Endowment funds generally are established by donor-restricted gifts and bequests to provide a source of income in perpetuity or for a specified period. See Donor-Restricted Endowment Fund. Alternatively, an NFP's governing board may earmark a portion of its Funds Functioning as Endowment."
+    },
+    {
+      "term": "Fair Value",
+      "definition": "The price that would be received to sell an asset or paid to transfer a liability in an market participants at the measurement date."
+    },
+    {
+      "term": "Financial Asset",
+      "definition": "Cash, evidence of an ownership interest in an entity, or a contract that conveys to one entity a right to do either of the following:"
+    },
+    {
+      "term": "Financing Activities",
+      "definition": "Financing activities include obtaining resources from owners and providing them with a return on, and a return of, their investment; receiving restricted resources that by donor stipulation must be used for long-term purposes; borrowing money and repaying amounts borrowed, or otherwise settling the obligation; and obtaining and paying for other resources obtained from creditors on long-term credit."
+    },
+    {
+      "term": "Funds Functioning as Endowment",
+      "definition": "Net assets without donor restrictions (donors include other types of contributors, including makers of certain grants) designated by an entity's governing board to be invested to provide income for generally a long but not necessarily specified period. A board-designated endowment, which results from an internal designation, is generally not donor-restricted and is classified as net assets without donor restrictions. The governing board has the right to decide at any time to expend such funds. In rare circumstances, funds functioning as endowment also can include a portion of board-designated endowment funds."
+    },
+    {
+      "term": "Inherent Contribution",
+      "definition": "A contribution that results if an entity voluntarily transfers assets (or net assets) or performs services for another entity in exchange for either no assets or for assets of substantially lower value and unstated rights or privileges of a commensurate value are not involved."
+    },
+    {
+      "term": "Investing Activities",
+      "definition": "Investing activities include making and collecting loans and acquiring and disposing of debt or equity instruments and property, plant, and equipment and other productive assets, that is, assets held for or used in the production of goods or services by the entity (other than materials that are part of the entity's inventory). Investing activities exclude acquiring and disposing of certain loans or other debt or equity instruments that are acquired specifically for resale, as discussed in paragraphs 230-10-45-12 and 230-10-45-21."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lease Liability",
+      "definition": "A lease, measured on a discounted basis."
+    },
+    {
+      "term": "Lease Payments",
+      "definition": "See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessor."
+    },
+    {
+      "term": "Lease Term",
+      "definition": "The noncancellable period for which a underlying asset, together with all of the following: a. Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option b. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option c. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor."
+    },
+    {
+      "term": "Lessee",
+      "definition": "An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessor",
+      "definition": "An entity that enters into a underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Market Participants",
+      "definition": "Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following: 1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms. 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary. 3. They are able to enter into a transaction for the asset or liability. 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so."
+    },
+    {
+      "term": "Net Assets",
+      "definition": "The excess or deficiency of assets over liabilities of a not-for-profit entity, which is divided into two mutually exclusive classes according to the existence or absence of donor-imposed restrictions. See Net Assets without Donor Restrictions."
+    },
+    {
+      "term": "Net Assets with Donor Restrictions",
+      "definition": "The part of net assets of a not-for-profit entity that is subject to donor-imposed restrictions (donors include other types of contributors, including makers of certain grants)."
+    },
+    {
+      "term": "Net Assets without Donor Restrictions",
+      "definition": "The part of net assets of a not-for-profit entity that is not subject to donor-imposed restrictions (donors include other types of contributors, including makers of certain grants)."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: 1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return. 2. Operating purposes other than to provide goods or services at a profit. 3. Absence of ownership interests like those of business entities. Entities that clearly fall outside this definition include the following: 1. All investor-owned entities. 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans."
+    },
+    {
+      "term": "Operating Activities",
+      "definition": "Operating activities include all transactions and other events that are not defined as investing or financing activities (see paragraphs 230-10-45-12 through 45-15). Operating activities generally involve producing and delivering goods and providing services. Cash flows from operating activities are generally the cash effects of transactions and other events that enter into the determination of net income."
+    },
+    {
+      "term": "Orderly Transaction",
+      "definition": "A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale)."
+    },
+    {
+      "term": "Promise to Give",
+      "definition": "A written or oral agreement to contribute cash or other assets to another entity. A promise carries rights and obligations - the recipient of a promise to give has a right to expect that the promised assets will be transferred in the future, and the maker has a social and moral obligation, and generally a legal obligation, to make the promised transfer. A promise to give may be either conditional or unconditional."
+    },
+    {
+      "term": "Public Business Entity",
+      "definition": "A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity. 1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing). 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC. 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer. 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market. 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion. An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC."
+    },
+    {
+      "term": "Purchased Financial Assets with Credit Deterioration",
+      "definition": "Acquired individual financial assets (or acquired groups of financial assets with similar risk characteristics) that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by an acquirer's assessment. See paragraph 326-20-55-5 for more information on the meaning of similar risk characteristics for assets measured on an amortized cost basis."
+    },
+    {
+      "term": "Related Parties",
+      "definition": "Related parties include: 1. Affiliates of the entity 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management 4. Principal owners of the entity and members of their immediate families 5. Management of the entity and members of their immediate families 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests."
+    },
+    {
+      "term": "Right-of-Use Asset",
+      "definition": "An asset that represents a underlying asset for the lease term."
+    },
+    {
+      "term": "Security",
+      "definition": "A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics: 1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer. 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment."
+    },
+    {
+      "term": "Unconditional Promise to Give",
+      "definition": "A promise to give that depends only on passage of time or demand by the promisee for performance."
+    },
+    {
+      "term": "Underlying Asset",
+      "definition": "An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

@@ -1,0 +1,593 @@
+{
+  "document_metadata": {
+    "asc_topic": "606",
+    "topic_title": "Revenue from Contracts with Customers",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": "The transition provisions in ASC Topic 606 require that a public business entity and certain other specified entities adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2017, including interim reporting periods within that reporting period. All other entities are required to adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2018, and interim reporting periods within annual reporting periods beginning after December 15, 2019."
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "This Topic specifies the accounting for revenue from contracts with customers. It establishes principles for reporting useful information to users of financial statements about the nature, amount, timing, and uncertainty of revenue and cash flows arising from the entity's contracts with customers. The core principle is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.",
+      "scope": "The guidance in this Subtopic applies to all entities. An entity shall apply the guidance in this Topic to all contracts with customers, except for certain contracts such as lease contracts within the scope of Topic 842, insurance contracts within the scope of Topic 944, certain financial instruments, guarantees (other than product or service warranties), and nonmonetary exchanges between entities in the same line of business to facilitate sales to customers or potential customers.",
+      "key_changes": [
+        
+      ],
+      "objectives": [
+        "Establish the principles that an entity shall apply to report useful information to users of financial statements about the nature, amount, timing, and uncertainty of revenue and cash flows arising from a contract with a customer."
+      ],
+      "core_principles": [
+        "An entity shall recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "606-10-05-1",
+                "text": "This Topic specifies the accounting for revenue from contracts with customers.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "revenue",
+                  "contracts",
+                  "customers"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "This Topic specifies the accounting for revenue from contracts with customers.",
+                    "mandatory_language": null,
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-05-2",
+                "text": "This Topic establishes principles for reporting useful information to users of financial statements about the nature, amount, timing, and uncertainty of revenue and cash flows arising from the entity's contracts with customers.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "revenue",
+                  "contracts",
+                  "customers",
+                  "financial statements"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-05-3",
+                "text": "The core principle of this Topic is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "core principle",
+                  "revenue",
+                  "goods or services",
+                  "consideration"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-05-4",
+                "text": "An entity recognizes revenue in accordance with that core principle by applying the following steps: 1. Identify the contract(s) with a customer. 2. Identify the performance obligations in the contract. 3. Determine the transaction price. 4. Allocate the transaction price to the performance obligations in the contract. 5. Recognize revenue when (or as) the entity satisfies a performance obligation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "revenue recognition",
+                  "contract",
+                  "performance obligations",
+                  "transaction price"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity recognizes revenue in accordance with that core principle by applying the following steps: 1. Identify the contract(s) with a customer. 2. Identify the performance obligations in the contract. 3. Determine the transaction price. 4. Allocate the transaction price to the performance obligations in the contract. 5. Recognize revenue when (or as) the entity satisfies a performance obligation.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "606-10-25-1 through 25-13",
+                  "606-10-25-14 through 25-22",
+                  "606-10-32-2 through 32-27",
+                  "606-10-32-28 through 32-41",
+                  "606-10-25-23 through 25-30"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-05-5",
+                "text": "This Topic also includes a cohesive set of disclosure requirements that would result in an entity providing users of financial statements with comprehensive information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from the entity's contracts with customers. Specifically, Section 606-10-50 requires an entity to provide information about: a. Revenue recognized from contracts with customers, including the disaggregation of revenue into appropriate categories. b. Contract balances, including the opening and closing balances of receivables, contract assets, and contract liabilities. c. Performance obligations, including when the entity typically satisfies its performance obligations and the transaction price that is allocated to the remaining performance obligations in a contract. d. Significant judgments, and changes in judgments, made in applying the requirements to those contracts. Additionally, Section 340-40-50 requires an entity to provide quantitative and/or qualitative information about assets recognized from the costs to obtain or fulfill a contract with a customer.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure requirements",
+                  "revenue",
+                  "contract balances",
+                  "performance obligations",
+                  "significant judgments"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Section 606-10-50 requires an entity to provide information about: a. Revenue recognized from contracts with customers, including the disaggregation of revenue into appropriate categories. b. Contract balances, including the opening and closing balances of receivables, contract assets, and contract liabilities. c. Performance obligations, including when the entity typically satisfies its performance obligations and the transaction price that is allocated to the remaining performance obligations in a contract. d. Significant judgments, and changes in judgments, made in applying the requirements to those contracts.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "606-10-50",
+                  "340-40-50"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-05-6",
+                "text": "Paragraphs presented in bold type in this Topic state the main principles. All paragraphs have equal authority.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "main principles",
+                  "authority"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "10",
+        "section_title": "Objectives",
+        "section_type": "Overview",
+        "summary": "Provides the high-level objectives that the Subtopic is intended to accomplish or attain.",
+        "subsections": [
+          {
+            "subsection_number": "10-1",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "606-10-10-1",
+                "text": "The objective of the guidance in this Topic is to establish the principles that an entity shall apply to report useful information to users of financial statements about the nature, amount, timing, and uncertainty of revenue and cash flows arising from a contract with a customer.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "objective",
+                  "principles",
+                  "revenue",
+                  "cash flows"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Establish the principles that an entity shall apply to report useful information to users of financial statements about the nature, amount, timing, and uncertainty of revenue and cash flows arising from a contract with a customer.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "10-2",
+            "subsection_title": "Meeting the Objective",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "606-10-10-2",
+                "text": "To meet the objective in paragraph 606-10-10-1, the core principle of the guidance in this Topic is that an entity shall recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "core principle",
+                  "revenue",
+                  "goods or services",
+                  "consideration"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "606-10-10-1"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-10-3",
+                "text": "An entity shall consider the terms of the contract and all relevant facts and circumstances when applying this guidance. An entity shall apply this guidance, including the use of any practical expedients, consistently to contracts with similar characteristics and in similar circumstances.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "contract",
+                  "practical expedients"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall consider the terms of the contract and all relevant facts and circumstances when applying this guidance. An entity shall apply this guidance, including the use of any practical expedients, consistently to contracts with similar characteristics and in similar circumstances.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-10-4",
+                "text": "This guidance specifies the accounting for an individual contract with a customer. However, as a practical expedient, an entity may apply this guidance to a portfolio of contracts (or performance obligations) with similar characteristics if the entity reasonably expects that the effects on the financial statements of applying this guidance to the portfolio would not differ materially from applying this guidance to the individual contracts (or performance obligations) within that portfolio. When accounting for a portfolio, an entity shall use estimates and assumptions that reflect the size and composition of the portfolio.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "portfolio",
+                  "practical expedient",
+                  "estimates",
+                  "assumptions"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity may apply this guidance to a portfolio of contracts (or performance obligations) with similar characteristics if the entity reasonably expects that the effects on the financial statements of applying this guidance to the portfolio would not differ materially from applying this guidance to the individual contracts (or performance obligations) within that portfolio.",
+                    "mandatory_language": [
+                      "may",
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "Entities",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "606-10-15-1",
+                "text": "The guidance in this Subtopic applies to all entities.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Transactions",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "606-10-15-2",
+                "text": "An entity shall apply the guidance in this Topic to all contracts with customers, except the following: a. Lease contracts within the scope of Topic 842, Leases. b. Contracts within the scope of Topic 944, Financial Services-Insurance. c. Financial instruments and other contractual rights or obligations within the scope of the following Topics: 310, 320, 321, 323, 325, 405, 470, 815, 825, 860. d. Guarantees (other than product or service warranties) within the scope of Topic 460, Guarantees. e. Nonmonetary exchanges between entities in the same line of business to facilitate sales to customers or potential customers.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "contracts",
+                  "customers",
+                  "scope exceptions"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall apply the guidance in this Topic to all contracts with customers, except the following: a. Lease contracts within the scope of Topic 842, Leases. b. Contracts within the scope of Topic 944, Financial Services-Insurance. c. Financial instruments and other contractual rights or obligations within the scope of the following Topics: 310, 320, 321, 323, 325, 405, 470, 815, 825, 860. d. Guarantees (other than product or service warranties) within the scope of Topic 460, Guarantees. e. Nonmonetary exchanges between entities in the same line of business to facilitate sales to customers or potential customers.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": [
+                      "Lease contracts within the scope of Topic 842",
+                      "Contracts within the scope of Topic 944",
+                      "Financial instruments and other contractual rights or obligations within the scope of Topics 310, 320, 321, 323, 325, 405, 470, 815, 825, 860",
+                      "Guarantees (other than product or service warranties) within the scope of Topic 460",
+                      "Nonmonetary exchanges between entities in the same line of business to facilitate sales to customers or potential customers"
+                    ]
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "842",
+                  "944",
+                  "310",
+                  "320",
+                  "321",
+                  "323",
+                  "325",
+                  "405",
+                  "470",
+                  "815",
+                  "825",
+                  "860",
+                  "460",
+                  "845"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "Identifying the Contract",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "606-10-25-1",
+                "text": "An entity shall account for a contract with a customer that is within the scope of this Topic only when all of the following criteria are met:\n\n1. The parties to the contract have approved the contract (in writing, orally, or in accordance with other customary business practices) and are committed to perform their respective obligations.\n2. The entity can identify each party's rights regarding the goods or services to be transferred.\n3. The entity can identify the payment terms for the goods or services to be transferred.\n4. The contract has commercial substance (that is, the risk, timing, or amount of the entity's future cash flows is expected to change as a result of the contract).\n5. It is probable that the entity will collect substantially all of the consideration to which it will be entitled in exchange for the goods or services that will be transferred to the customer (see paragraphs 606-10-55-3A through 55-3C). In evaluating whether collectibility of an amount of consideration is probable, an entity shall consider only the customer's ability and intention to pay that amount of consideration when it is due. The amount of consideration to which the entity will be entitled may be less than the price stated in the contract if the consideration is variable because the entity may offer the customer a price concession (see paragraph 606-10-32-7).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "contract",
+                  "customer",
+                  "probable",
+                  "commercial substance",
+                  "payment terms",
+                  "collectibility"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall account for a contract with a customer that is within the scope of this Topic only when all of the following criteria are met: (1) The parties to the contract have approved the contract and are committed to perform their respective obligations. (2) The entity can identify each party's rights regarding the goods or services to be transferred. (3) The entity can identify the payment terms for the goods or services to be transferred. (4) The contract has commercial substance. (5) It is probable that the entity will collect substantially all of the consideration to which it will be entitled in exchange for the goods or services that will be transferred to the customer.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "all of the following criteria are met"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "all of the following criteria are met"
+                ],
+                "cross_references": [
+                  "606-10-55-3A",
+                  "606-10-55-3C",
+                  "606-10-32-7"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-25-2",
+                "text": "A contract is an agreement between two or more parties that creates enforceable rights and obligations. Enforceability of the rights and obligations in a contract is a matter of law. Contracts can be written, oral, or implied by an entity's customary business practices. The practices and processes for establishing contracts with customers vary across legal jurisdictions, industries, and entities. In addition, they may vary within an entity (for example, they may depend on the class of customer or the nature of the promised goods or services). An entity shall consider those practices and processes in determining whether and when an agreement with a customer creates enforceable rights and obligations.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "contract",
+                  "enforceable rights and obligations",
+                  "customary business practices"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall consider those practices and processes in determining whether and when an agreement with a customer creates enforceable rights and obligations.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "606-10-25-3",
+                "text": "Some contracts with customers may have no fixed duration and can be terminated or modified by either party at any time. Other contracts may automatically renew on a periodic basis that is specified in the contract. An entity shall apply the guidance in this Topic to the duration of the contract (that is, the contractual period) in which the parties to the contract have present enforceable rights and obligations. In evaluating the criterion in paragraph 606-10-25-1(e), an entity shall assess the collectibility of the consideration promised in a contract for the goods or services that will be transferred to the customer rather than assessing the collectibility of the consideration promised in the contract for all of the promised goods or services (see paragraphs 606-10-55-3A through 55-3C). However, if an entity determines that all",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "contract duration",
+                  "enforceable rights and obligations",
+                  "collectibility"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall apply the guidance in this Topic to the duration of the contract in which the parties to the contract have present enforceable rights and obligations. In evaluating the criterion in paragraph 606-10-25-1(e), an entity shall assess the collectibility of the consideration promised in a contract for the goods or services that will be transferred to the customer.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "606-10-25-1(e)",
+                  "606-10-55-3A",
+                  "606-10-55-3C"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "842",
+      "relationship_type": "related",
+      "description": "ASC Topic 842, Leases, is referenced in the context of transition provisions and effective dates alongside ASC Topic 606.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": [
+    {
+      "industry": "Pharmaceuticals / Vaccine Manufacturers",
+      "industry_code": null,
+      "specific_guidance": "Guidance is provided for revenue recognition for vaccine manufacturers selling enumerated vaccines to Federal Government stockpile programs under ASC Topic 606. The interpretative guidance is not applicable to transactions other than the sales of enumerated vaccines by vaccine manufacturers.",
+      "affected_sections": null
+    }
+  ],
+  "compliance_checkpoints": [
+    {
+      "checkpoint_id": "CCP-606-01",
+      "requirement_type": "recognition",
+      "requirement_text": "Vaccine manufacturers should recognize revenue and provide the disclosures required under ASC Topic 606 when vaccines are placed into Federal Governmental stockpile programs because control of the enumerated vaccines will have been transferred to the customer and the criteria to recognize revenue in a bill-and-hold arrangement are met.",
+      "assessment_criteria": [
+        "Vaccines are enumerated (childhood disease vaccines, influenza vaccines, other vaccines and countermeasures sold to the Federal Government for placement in the Strategic National Stockpile)",
+        "Control of the vaccines has been transferred to the customer",
+        "Criteria for bill-and-hold arrangement under ASC Topic 606 are met"
+      ],
+      "common_violations": null,
+      "testing_procedures": null,
+      "documentation_requirements": null,
+      "risk_level": null,
+      "related_paragraphs": null
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Award",
+      "definition": "The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Contract Asset",
+      "definition": "An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance)."
+    },
+    {
+      "term": "Contract Liability",
+      "definition": "An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer."
+    },
+    {
+      "term": "Customer",
+      "definition": "A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration."
+    },
+    {
+      "term": "Grant Date",
+      "definition": "The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return; Operating purposes other than to provide goods or services at a profit; Absence of ownership interests like those of business entities. Entities that clearly fall outside this definition include the following: All investor-owned entities; Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans."
+    },
+    {
+      "term": "Performance Condition",
+      "definition": "A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to both of the following: Rendering service or delivering goods for a specified (either explicitly or implicitly) period of time; Achieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities)."
+    },
+    {
+      "term": "Performance Obligation",
+      "definition": "A promise in a contract with a customer to transfer to the customer either: (a) A good or service (or a bundle of goods or services) that is distinct; or (b) A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer."
+    },
+    {
+      "term": "Probable",
+      "definition": "The future event or events are likely to occur."
+    },
+    {
+      "term": "Public Business Entity",
+      "definition": "A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity. (1) It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing). (2) It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC. (3) It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer. (4) It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market. (5) It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion. An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC."
+    },
+    {
+      "term": "Revenue",
+      "definition": "Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations."
+    },
+    {
+      "term": "Security",
+      "definition": "A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics: (1) It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer. (2) It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment. (3) It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations."
+    },
+    {
+      "term": "Service Condition",
+      "definition": "A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that depends solely on an employee rendering service to the employer for the requisite service period or a nonemployee delivering goods or rendering services to the grantor over a vesting period. A condition that results in the acceleration of vesting in the event of a grantee's death, disability, or termination without cause is a service condition."
+    },
+    {
+      "term": "Service Inception Date",
+      "definition": "The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award)."
+    },
+    {
+      "term": "Share-Based Payment Arrangements",
+      "definition": "An arrangement under which either of the following conditions is met: (1) One or more suppliers of goods or services (including employees) receive awards of equity shares, equity share options, or other equity instruments. (2) The entity incurs liabilities to suppliers that meet either of the following conditions: (a) The amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (b) The awards require or may require settlement by issuance of the entity's shares. The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity. Also called share-based compensation arrangements."
+    },
+    {
+      "term": "Standalone Selling Price",
+      "definition": "The price at which an entity would sell a promised good or service separately to a customer."
+    },
+    {
+      "term": "Transaction Price",
+      "definition": "The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties."
+    }
+  ],
+  "implementation_guidance": "The Commission has issued an interpretation stating that upon the registrant's adoption of ASC Topic 606, the registrant should no longer rely on the guidance in Securities Exchange Act Release No. 23507, Accounting and Auditing Enforcement Release No. 108 (AAER 108), or related guidance in Staff Accounting Bulletin Topic 13, Revenue Recognition.",
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": 8
+}

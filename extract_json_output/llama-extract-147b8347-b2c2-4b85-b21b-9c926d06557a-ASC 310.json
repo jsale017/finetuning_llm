@@ -1,0 +1,1845 @@
+{
+  "document_metadata": {
+    "asc_topic": "310",
+    "topic_title": "Receivables",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Receivables Topic provides guidance on accounting for receivables including loans, trade receivables, factoring arrangements, standby commitments, and acquisition, development, and construction arrangements. It includes recognition, measurement, derecognition, presentation, disclosure, and implementation guidance.",
+      "scope": "The guidance applies to all entities and covers a variety of instruments and transactions such as trade accounts receivable, loans, loan syndications, factoring arrangements, standby letters of credit, and financing receivables. Certain transactions like mortgage banking activities, derivative instruments, and some commitments to purchase loans are excluded.",
+      "key_changes": [
+        "Supersession of certain paragraphs by Accounting Standards Updates No. 2016-13 and 2022-02.",
+        "Inclusion of guidance on acquisition, development, and construction arrangements.",
+        "Clarification on recognition and measurement of standby commitments and factoring arrangements.",
+        "Updated disclosure requirements for loans and trade receivables, including troubled debt restructurings."
+      ],
+      "objectives": [
+        "Provide general guidance for receivables including loans and trade receivables.",
+        "Establish recognition and measurement criteria for various types of receivables.",
+        "Provide guidance on derecognition and presentation of receivables.",
+        "Specify disclosure requirements to enhance financial statement transparency.",
+        "Offer implementation guidance and illustrative examples to aid application."
+      ],
+      "core_principles": [
+        "Recognition of receivables when criteria are met.",
+        "Measurement at amortized cost or fair value depending on classification.",
+        "Accounting for standby commitments as options or normal loan production.",
+        "Classification of acquisition, development, and construction arrangements based on lender's participation in residual profit.",
+        "Disclosure of credit quality, modifications, and financial difficulties of debtors."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides background and general guidance on receivables, including types of receivables, factoring arrangements, standby commitments, rebates, and acquisition, development, and construction arrangements.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "General",
+            "summary": "Lists the Subtopics included in the Receivables Topic and general guidance on receivables.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-05-1",
+                "text": "The Receivables Topic includes the following Subtopics: Overall, Nonrefundable Fees and Other Costs, and others superseded by ASUs 2016-13 and 2022-02.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Receivables Topic",
+                  "Subtopics"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "310-10-05-2",
+                "text": "The Overall Subtopic establishes general guidance for receivables presented in General and Acquisition, Development, and Construction Arrangements Subsections.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Overall Subtopic",
+                  "general guidance",
+                  "receivables"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the applicability and exclusions of the guidance to entities, transactions, and instruments.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "Entities",
+            "summary": "Guidance applies to all entities.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-15-1",
+                "text": "The guidance in the General Subsections applies to all entities.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "guidance",
+                  "General Subsections",
+                  "all entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in the General Subsections applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Transactions",
+            "summary": "Guidance applies to various instruments and transactions including trade accounts receivable, loans, loan syndications, factoring arrangements, standby letters of credit, and financing receivables.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-15-2",
+                "text": "The guidance in the General Subsections applies to a variety of instruments and transactions including trade accounts receivable, loans, loan syndications, factoring arrangements, standby letters of credit, and financing receivables.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "guidance",
+                  "General Subsections",
+                  "instruments",
+                  "transactions"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-3",
+            "subsection_title": "Exclusions",
+            "summary": "Guidance does not apply to mortgage banking activities, derivative instruments under Subtopic 815-10, and certain commitments to purchase or sell mortgage loans.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-15-3",
+                "text": "The guidance does not apply to mortgage banking activities, contracts accounted for as derivatives under Subtopic 815-10, and certain commitments to purchase or sell mortgage loans.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "mortgage banking activities",
+                  "derivative instrument",
+                  "Subtopic 815-10"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic does not apply to the listed transactions.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "860-20-35-2",
+                  "815-10",
+                  "310-10-30-7"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "Provides recognition guidance for various types of receivables, interest income, fees, and acquisition, development, and construction arrangements.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "General",
+            "summary": "Recognition of certain types of receivables and related interest and fees.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-1",
+                "text": "The General Subsections provide recognition guidance organized as recognition of certain types of receivables and recognition of interest and fees for certain types of receivables.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "recognition",
+                  "receivables",
+                  "interest",
+                  "fees"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-2",
+            "subsection_title": "Receivables Types",
+            "summary": "Addresses recognition issues related to factoring arrangements, loan syndications, standby commitments, credit card portfolios, and secured loans.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-2",
+                "text": "Guidance addresses recognition of factoring arrangements, loan syndications and participations, standby commitments, credit card portfolios purchased, and secured loans.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "factoring arrangements",
+                  "loan syndications",
+                  "standby commitments",
+                  "credit card portfolio",
+                  "secured loans"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-3",
+            "subsection_title": "Factoring Arrangements",
+            "summary": "Transfers of receivables under factoring arrangements meeting sale criteria are accounted for as purchases by the factor; factoring commissions are recognized over the loan contract period.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-3",
+                "text": "Transfers of receivables under factoring arrangements meeting sale criteria shall be accounted for by the factor as purchases of receivables. Factoring commissions shall be recognized over the period of the loan contract.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "factoring arrangements",
+                  "purchases of receivables",
+                  "factoring commissions"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Transfers of receivables under factoring arrangements meeting sale criteria shall be accounted for by the factor as purchases of receivables.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Factoring commissions shall be recognized over the period of the loan contract.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "310-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-4",
+            "subsection_title": "Loan Syndications",
+            "summary": "Each lender accounts for amounts owed by the borrower; lead lender acting as servicer does not recognize aggregate loan as asset.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-4",
+                "text": "Each lender in a syndication shall account for the amounts it is owed by the borrower. The lead lender acting as servicer shall not recognize the aggregate loan as an asset.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "loan syndication",
+                  "lead lender",
+                  "servicer"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Each lender in a syndication shall account for the amounts it is owed by the borrower.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The lead lender acting as servicer shall not recognize the aggregate loan as an asset.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-6",
+            "subsection_title": "Standby Commitments",
+            "summary": "Commitments to purchase or sell mortgage loans at a future date must be evaluated as derivatives under Subtopic 815-10; standby commitments within scope are accounted as normal loan production or as written put options.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-6",
+                "text": "Commitments to purchase or sell mortgage loans at a future date must be evaluated under the definition of a derivative instrument to determine whether Subtopic 815-10 applies. Standby commitments within scope are accounted for as part of normal loan production if settlement is within a reasonable period and entity intends to accept delivery; otherwise, accounted as written put options.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "standby commitment",
+                  "derivative instrument",
+                  "Subtopic 815-10"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Commitments to purchase or sell mortgage loans at a future date must be evaluated under the definition of a derivative instrument to determine whether Subtopic 815-10 applies.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "815-10-15-70"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-7",
+            "subsection_title": "Credit Card Portfolio Purchase",
+            "summary": "Premium paid over credit card receivables balances is allocated between cardholder relationships (intangible asset) and loans acquired.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-7",
+                "text": "When purchasing a credit card portfolio at an amount exceeding the sum of credit card receivables, the premium shall be allocated between cardholder relationships (an identifiable intangible asset) and loans acquired.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "credit card portfolio",
+                  "premium",
+                  "intangible asset"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Premium paid over credit card receivables balances shall be allocated between cardholder relationships and loans acquired.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "Topic 350"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-8",
+            "subsection_title": "Transfers Not Meeting Sale Criteria",
+            "summary": "Transfers not meeting sale criteria are accounted for as secured loans collateralized by customer accounts or receivables.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-8",
+                "text": "Transfers not meeting sale criteria shall be accounted for as secured loans collateralized by customer accounts or receivables.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "secured loans",
+                  "collateralized"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Transfers not meeting sale criteria shall be accounted for as secured loans.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "860-30-25-5"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-9",
+            "subsection_title": "Interest and Fees Recognition",
+            "summary": "Guidance on recognition of interest income, rebates, prepayment fees, and delinquency fees for various receivables.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-9",
+                "text": "Guidance addresses recognition of interest income, impact of rebates, prepayment fees, and delinquency fees for various receivables.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "interest income",
+                  "rebates",
+                  "prepayment fees",
+                  "delinquency fees"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-11",
+            "subsection_title": "Interest Income and Rebates",
+            "summary": "Accrual of interest income on installment loans or trade receivables is not affected by rebate calculation methods except as noted; differences adjust original estimates and recognized upon prepayment or renewal.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-11",
+                "text": "Accrual of interest income on installment loans or trade receivables shall not be affected by rebate calculation methods except as noted; differences adjust original estimates and recognized in income upon prepayment or renewal.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "interest income",
+                  "rebates",
+                  "installment loans",
+                  "trade receivables"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Accrual of interest income shall not be affected by rebate calculation methods except as noted.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "310-20-35-18(a)"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-12",
+            "subsection_title": "Prepayment Penalties",
+            "summary": "Prepayment penalties shall not be recognized in income until loans or trade receivables are prepaid, except as noted.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-12",
+                "text": "Prepayment penalties shall not be recognized in income until loans or trade receivables are prepaid, except as noted.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "prepayment penalties",
+                  "income recognition"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Prepayment penalties shall not be recognized in income until loans or trade receivables are prepaid.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "310-20-35-18(a)"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-13",
+            "subsection_title": "Delinquency Fees",
+            "summary": "Delinquency fees shall be recognized in income when chargeable, assuming collectibility is reasonably assured.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-13",
+                "text": "Delinquency fees shall be recognized in income when chargeable, assuming collectibility is reasonably assured.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "delinquency fees",
+                  "income recognition"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Delinquency fees shall be recognized in income when chargeable, assuming collectibility is reasonably assured.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-14",
+            "subsection_title": "Acquisition, Development, and Construction Arrangements",
+            "summary": "Recognition guidance for acquisition, development, and construction arrangements including expected residual profit, characteristics implying investment or loans, and accounting treatment.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-14",
+                "text": "Recognition guidance for acquisition, development, and construction arrangements includes expected residual profit, characteristics implying investment in real estate or joint ventures, characteristics implying loans, accounting for arrangement as loan or investment, and participations.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "acquisition, development, and construction arrangements",
+                  "expected residual profit",
+                  "investment in real estate",
+                  "joint ventures",
+                  "loans"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-15",
+            "subsection_title": "Participation in Residual Profit",
+            "summary": "Extent of participation in expected residual profit varies; examples include sharing profit on sale of units at fair market rates.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-15",
+                "text": "Participation in expected residual profit varies; example includes contractual interest and fees at fair market rates with lender sharing a proportion of profit on sale of units.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "expected residual profit",
+                  "profit participation"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-16",
+            "subsection_title": "Alternative Arrangements",
+            "summary": "Different arrangements may produce similar results with varying interest rates, fees, and profit sharing proportions.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-16",
+                "text": "Different arrangements may produce similar results with higher interest rates and smaller profit sharing proportions.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "expected residual profit",
+                  "interest rate",
+                  "fees"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-17",
+            "subsection_title": "Arrangements Without Profit Sharing",
+            "summary": "Arrangements with sufficiently high interest rates and no profit sharing or sharing in gross rents or net cash flow may produce similar results.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-17",
+                "text": "Arrangements with high interest rates and no profit sharing or sharing in gross rents or net cash flow may produce similar results.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "interest rate",
+                  "fees",
+                  "profit participation",
+                  "gross rents",
+                  "net cash flow"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-18",
+            "subsection_title": "Profit Participation Agreement",
+            "summary": "Profit participation agreement may or may not be part of the mortgage loan agreement.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-18",
+                "text": "The profit participation agreement may or may not be part of the mortgage loan agreement.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "profit participation agreement",
+                  "mortgage loan agreement"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-19",
+            "subsection_title": "Characteristics Suggesting Investment Risks",
+            "summary": "Characteristics suggesting risks and rewards similar to investment in real estate or joint venture include lender providing most funds, borrower having little equity, lender funding fees and interest, lender's only security being the project, and structured to avoid foreclosure during development.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-19",
+                "text": "Characteristics suggesting risks and rewards similar to investment in real estate or joint venture include lender providing most funds, borrower having little equity, lender funding fees and interest, lender's only security being the project, and structured to avoid foreclosure during development.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "acquisition, development, and construction arrangement",
+                  "investment in real estate",
+                  "joint venture",
+                  "lender participation"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-20",
+            "subsection_title": "Characteristics Suggesting Loan Risks",
+            "summary": "Characteristics suggesting risks and rewards similar to a loan include lender participating in less than majority of residual profit, borrower having substantial equity, lender having recourse to other assets or take-out commitments, and noncancelable sales or lease commitments.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-20",
+                "text": "Characteristics suggesting loan risks include lender participating in less than majority of residual profit, borrower having substantial equity, lender having recourse to other assets or take-out commitments, and noncancelable sales or lease commitments.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "acquisition, development, and construction arrangement",
+                  "loan",
+                  "lender participation",
+                  "equity investment",
+                  "recourse",
+                  "take-out commitment"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-21",
+            "subsection_title": "Personal Guarantees",
+            "summary": "Personal guarantees alone rarely justify accounting as a loan; substantial guarantees supported by assets may justify loan accounting.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-21",
+                "text": "Personal guarantees alone rarely justify accounting as a loan; substantial guarantees supported by assets may justify loan accounting.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "personal guarantee",
+                  "acquisition, development, and construction arrangement",
+                  "loan"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-22",
+            "subsection_title": "Substance of Personal Guarantees",
+            "summary": "Substance depends on guarantor's ability to perform, enforceability, and intent to enforce.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-22",
+                "text": "Substance of personal guarantees depends on guarantor's ability to perform, enforceability, and intent to enforce.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "personal guarantee",
+                  "guarantor",
+                  "enforcement"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-23",
+            "subsection_title": "Examples of Personal Guarantees",
+            "summary": "Examples include guarantees supported by liquid assets in escrow, pledged marketable securities, or irrevocable letters of credit.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-23",
+                "text": "Examples of personal guarantees include those supported by liquid assets in escrow, pledged marketable securities, or irrevocable letters of credit.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "personal guarantee",
+                  "escrow",
+                  "marketable securities",
+                  "letter of credit"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-24",
+            "subsection_title": "Considerations for Guarantor's Financial Statements",
+            "summary": "Emphasis on liquidity, net worth, and other guarantees provided by the guarantor.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-25-24",
+                "text": "Consider liquidity, net worth, and other guarantees provided by the guarantor when evaluating personal guarantees.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "guarantor",
+                  "liquidity",
+                  "net worth",
+                  "contingent liabilities"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "30",
+        "section_title": "Initial Measurement",
+        "section_type": "Initial Measurement",
+        "summary": "Guidance on initial measurement of notes receivable including use of established exchange price, fair value, and imputed interest rates.",
+        "subsections": [
+          {
+            "subsection_number": "30-4",
+            "subsection_title": "Use of Established Exchange Price or Market Rate",
+            "summary": "Established exchange price of property, goods, or services may be used to establish present value of notes if determinable; market rate and quoted prices preferred if notes traded in open market.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-30-4",
+                "text": "If determinable, the established exchange price of property, goods, or services acquired or sold in consideration for a note may be used to establish the present value of the note. Market rate and quoted prices are preferable if notes are traded in an open market.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "established exchange price",
+                  "present value",
+                  "market rate of interest",
+                  "quoted prices"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Established exchange price may be used to establish present value if determinable.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": [
+                      "established exchange price is determinable"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "established exchange price is determinable"
+                ],
+                "cross_references": [
+                  "835-30-25-2"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-5",
+            "subsection_title": "Unstated or Unreasonable Interest or Material Difference in Face Amount",
+            "summary": "Notes with no stated interest, unreasonable interest, or materially different face amount shall be recorded at fair value of property, goods, or services or fair value of note, whichever is more clearly determinable.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-30-5",
+                "text": "Notes with no stated interest, unreasonable interest, or materially different face amount shall be recorded at fair value of property, goods, or services or fair value of note, whichever is more clearly determinable.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "interest not stated",
+                  "unreasonable interest",
+                  "face amount",
+                  "fair value"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Notes shall be recorded at fair value of property, goods, or services or fair value of note if interest is not stated, unreasonable, or face amount materially different.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "interest is not stated",
+                      "stated amount is unreasonable",
+                      "stated face amount materially different"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "interest is not stated",
+                  "stated amount is unreasonable",
+                  "stated face amount materially different"
+                ],
+                "cross_references": [
+                  "835-30-25-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-6",
+            "subsection_title": "Imputed Interest Rate for Notes with No or Unreasonable Interest",
+            "summary": "Present value of notes with no or unreasonable interest shall be determined by discounting future payments using imputed interest rate as described in Subtopic 835-30; determination made at acquisition ignoring subsequent interest rate changes.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-30-6",
+                "text": "Present value of notes with no or unreasonable interest shall be determined by discounting future payments using imputed interest rate as described in Subtopic 835-30; determination made at acquisition ignoring subsequent interest rate changes.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "imputed rate of interest",
+                  "present value",
+                  "no interest",
+                  "unreasonable interest"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Present value of notes with no or unreasonable interest shall be determined using imputed interest rate at acquisition; subsequent interest rate changes ignored.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "no interest",
+                      "rate of interest is clearly unreasonable"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "no interest",
+                  "rate of interest is clearly unreasonable"
+                ],
+                "cross_references": [
+                  "835-30-25-11",
+                  "Subtopic 835-30",
+                  "835-30-25-2"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-7",
+            "subsection_title": "Accounting for Standby Commitments to Purchase Loans",
+            "summary": "Loans purchased under standby commitments accounted at cost net of standby commitment fee if part of normal loan production; option premium recorded as liability if accounted as written option.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-30-7",
+                "text": "Loans purchased under standby commitments accounted at cost net of standby commitment fee if part of normal loan production; option premium recorded as liability if accounted as written option.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "standby commitment",
+                  "purchase loans",
+                  "option premium",
+                  "liability"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Loans purchased under standby commitment shall be recorded at cost net of standby commitment fee if part of normal loan production.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "standby commitment is part of normal loan production"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Option premium received shall be recorded as liability if standby commitment is accounted as written option.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "standby commitment is accounted as written option"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "standby commitment is part of normal loan production",
+                  "standby commitment is accounted as written option"
+                ],
+                "cross_references": [
+                  "310-10-25-6",
+                  "Subtopic 310-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "35",
+        "section_title": "Subsequent Measurement",
+        "section_type": "Subsequent Measurement",
+        "summary": "Guidance on subsequent measurement of financial assets including prepayment, standby commitments, and classification of loans and receivables.",
+        "subsections": [
+          {
+            "subsection_number": "35-45",
+            "subsection_title": "Financial Assets Subject to Prepayment",
+            "summary": "Financial assets that can be prepaid or settled so holder would not recover substantially all recorded investment shall be measured like available-for-sale or trading debt securities under Topic 320, except instruments within scope of Subtopic 815-10.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-35-45",
+                "text": "Financial assets that can be prepaid or settled so holder would not recover substantially all recorded investment shall be measured like available-for-sale or trading debt securities under Topic 320, except instruments within scope of Subtopic 815-10.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "prepayment",
+                  "subsequent measurement",
+                  "available for sale",
+                  "trading",
+                  "debt securities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Financial assets that can be prepaid or settled so holder would not recover substantially all recorded investment shall be measured like available-for-sale or trading debt securities under Topic 320.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "except for instruments within scope of Subtopic 815-10"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "except for instruments within scope of Subtopic 815-10"
+                ],
+                "cross_references": [
+                  "860-20-35-2",
+                  "815-10",
+                  "320"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-46",
+            "subsection_title": "Standby Commitments to Purchase Loans",
+            "summary": "Liability recorded at option premium for standby commitments accounted as written put options shall be accounted at greater of initial fee or fair value; unrealized gains or losses recognized in current operations; see Subtopic 815-10 for exceptions.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-35-46",
+                "text": "Liability recorded at option premium for standby commitments accounted as written put options shall be accounted at greater of initial fee or fair value; unrealized gains or losses recognized in current operations; see Subtopic 815-10 for exceptions.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "standby commitments",
+                  "option premium",
+                  "written put option",
+                  "unrealized gains",
+                  "unrealized losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Liability recorded at option premium for standby commitments accounted as written put options shall be accounted at greater of initial fee or fair value.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if a standby commitment is recorded at the amount of the option"
+                    ],
+                    "exceptions": [
+                      "see Subtopic 815-10 for written put options within its scope"
+                    ]
+                  },
+                  {
+                    "requirement_text": "Unrealized gains or losses shall be credited or charged to current operations.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "if a standby commitment is recorded at the amount of the option"
+                ],
+                "cross_references": [
+                  "310-10-25-6",
+                  "815-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-47",
+            "subsection_title": "Nonmortgage Loans and Trade Receivables Not Held for Sale",
+            "summary": "Trade receivables and nonmortgage loans held for the foreseeable future or until maturity shall be reported at amortized cost basis; see Subtopic 326-20 for credit loss guidance; Topic 948 for mortgage loans held for long-term investment.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-35-47",
+                "text": "Trade receivables held for foreseeable future or until maturity shall be reported at amortized cost basis; see Subtopic 326-20 for credit loss guidance.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "trade receivables",
+                  "amortized cost basis",
+                  "credit losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Trade receivables held for foreseeable future or until maturity shall be reported at amortized cost basis.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "management has intent and ability to hold"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "management has intent and ability to hold"
+                ],
+                "cross_references": [
+                  "326-20"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "310-10-35-47A",
+                "text": "Nonmortgage loans held for foreseeable future or until maturity shall be reported at amortized cost basis; see Subtopic 326-20 for credit loss guidance; Topic 948 for mortgage loans held for long-term investment.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "nonmortgage loans",
+                  "amortized cost basis",
+                  "credit losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Nonmortgage loans held for foreseeable future or until maturity shall be reported at amortized cost basis.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "management has intent and ability to hold"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "management has intent and ability to hold"
+                ],
+                "cross_references": [
+                  "326-20",
+                  "948"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-48",
+            "subsection_title": "Nonmortgage Loans Held for Sale",
+            "summary": "Nonmortgage loans held for sale shall be reported at lower of amortized cost basis or fair value; valuation allowance recognized for excess; changes included in net income; see Topic 948 for mortgage loans held for sale.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-35-48",
+                "text": "Nonmortgage loans held for sale shall be reported at lower of amortized cost basis or fair value; valuation allowance recognized for excess; changes included in net income; see Topic 948 for mortgage loans held for sale.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "nonmortgage loans held for sale",
+                  "amortized cost basis",
+                  "fair value",
+                  "valuation allowance"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Nonmortgage loans held for sale shall be reported at lower of amortized cost basis or fair value.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Valuation allowance recognized for excess of amortized cost basis over fair value.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Changes in valuation allowance included in net income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "948"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-48A",
+            "subsection_title": "Transfers of Nonmortgage Loans between Classifications",
+            "summary": "Transfers into held-for-sale classification require reversal of allowance for credit losses, reclassification at amortized cost basis excluding allowance, and determination of valuation allowance.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-35-48A",
+                "text": "Transfers into held-for-sale classification require reversal of allowance for credit losses, reclassification at amortized cost basis excluding allowance, and determination of valuation allowance.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "transfer",
+                  "held-for-sale",
+                  "allowance for credit losses",
+                  "valuation allowance"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Reverse allowance for credit losses on transfer into held-for-sale classification.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "transfer from not-held-for-sale to held-for-sale"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Reclassify nonmortgage loan at amortized cost basis excluding allowance for credit losses.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Determine if valuation allowance is necessary following Subtopic 310-10 guidance.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "transfer from not-held-for-sale to held-for-sale"
+                ],
+                "cross_references": [
+                  "310-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "35-48B",
+            "subsection_title": "Transfers of Nonmortgage Loans from Held-for-Sale to Not-Held-for-Sale",
+            "summary": "Transfers into not-held-for-sale classification require reversal of valuation allowance, reclassification at amortized cost basis excluding valuation allowance, and determination of allowance for credit losses.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-35-48B",
+                "text": "Transfers into not-held-for-sale classification require reversal of valuation allowance, reclassification at amortized cost basis excluding valuation allowance, and determination of allowance for credit losses.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "transfer",
+                  "not-held-for-sale",
+                  "valuation allowance",
+                  "allowance for credit losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Reverse valuation allowance on transfer into not-held-for-sale classification.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "transfer from held-for-sale to not-held-for-sale"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Reclassify nonmortgage loan at amortized cost basis excluding valuation allowance.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Determine if allowance for credit losses is necessary following Subtopic 326-20 guidance.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "transfer from held-for-sale to not-held-for-sale"
+                ],
+                "cross_references": [
+                  "326-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Disclosure requirements for loans and trade receivables including accounting policies, categories, allowances, modifications, and financial difficulties.",
+        "subsections": [
+          {
+            "subsection_number": "50-1A",
+            "subsection_title": "Scope",
+            "summary": "Guidance applies only to loans and trade receivables.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-1A",
+                "text": "Guidance in paragraphs 310-10-50-2 through 50-4A applies only to loans and trade receivables.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "loans",
+                  "trade receivables"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-2",
+            "subsection_title": "Summary of Significant Accounting Policies",
+            "summary": "Summary must include basis for accounting, method for determining lower of amortized cost or fair value, classification and accounting for interest-only strips and securitizations, and method for recognizing interest income and related fees and costs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-2",
+                "text": "Summary of significant accounting policies shall include basis for accounting for loans and trade receivables, method for determining lower of amortized cost or fair value of nonmortgage loans held for sale, classification and accounting for interest-only strips and securitizations, and method for recognizing interest income and related fees and costs.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accounting policies",
+                  "loans",
+                  "trade receivables",
+                  "amortized cost basis",
+                  "fair value",
+                  "interest-only strips",
+                  "securitizations",
+                  "interest income",
+                  "deferred fees"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Summary of significant accounting policies shall include specified disclosures.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-3",
+            "subsection_title": "Major Categories Disclosure",
+            "summary": "Major categories of loans or trade receivables not presented separately in balance sheet must be disclosed in notes.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-3",
+                "text": "If major categories of loans or trade receivables are not presented separately in the balance sheet, they shall be disclosed in the notes to the financial statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "loans",
+                  "trade receivables",
+                  "balance sheet",
+                  "notes to financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Major categories not separately presented in balance sheet shall be disclosed in notes.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-4",
+            "subsection_title": "Allowance for Credit Losses and Related Items",
+            "summary": "Allowance for credit losses, unearned income, unamortized premiums and discounts, and net unamortized deferred fees and costs shall be disclosed in financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-4",
+                "text": "Allowance for credit losses and, as applicable, any unearned income, unamortized premiums and discounts, and net unamortized deferred fees and costs shall be disclosed in the financial statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "allowance for credit losses",
+                  "unearned income",
+                  "unamortized premiums",
+                  "unamortized discounts",
+                  "deferred fees"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Allowance for credit losses and related items shall be disclosed in financial statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-11",
+            "subsection_title": "Foreclosed and Repossessed Assets",
+            "summary": "Foreclosed and repossessed assets included in other assets must have separate disclosures; carrying amount of foreclosed residential real estate properties held at reporting date must be disclosed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-11",
+                "text": "Foreclosed and repossessed assets included in other assets on the statement of financial position shall have separate disclosures in the notes. Carrying amount of foreclosed residential real estate properties held at reporting date as a result of obtaining physical possession shall be disclosed.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "foreclosed assets",
+                  "repossessed assets",
+                  "carrying amount",
+                  "residential real estate"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Foreclosed and repossessed assets included in other assets shall have separate disclosures; carrying amount of foreclosed residential real estate properties held at reporting date shall be disclosed.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "310-20-40-6",
+                  "310-20-55-18F"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-36",
+            "subsection_title": "Commitments to Lend Additional Funds to Debtors Experiencing Financial Difficulty",
+            "summary": "Creditors shall disclose amount of commitments to lend additional funds to debtors with modified terms due to financial difficulty.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-36",
+                "text": "Creditors shall disclose amount of commitments to lend additional funds to debtors experiencing financial difficulty for which terms have been modified by principal forgiveness, interest rate reduction, payment delay, or term extension.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "commitments",
+                  "debtors experiencing financial difficulty",
+                  "modifications",
+                  "principal forgiveness",
+                  "interest rate reduction",
+                  "payment delay",
+                  "term extension"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Creditors shall disclose amount of commitments to lend additional funds to debtors with modified terms due to financial difficulty.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-42 to 50-44",
+            "subsection_title": "Disclosures for Modifications to Debtors Experiencing Financial Difficulty",
+            "summary": "Entities shall disclose qualitative and quantitative information about modifications to receivables made to debtors experiencing financial difficulty, including types, financial effect, and performance after modification, by class and portfolio segment.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-42_to_44",
+                "text": "Entities shall disclose qualitative and quantitative information about modifications to receivables made to debtors experiencing financial difficulty, including types, financial effect, and performance after modification, by class and portfolio segment.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "modifications",
+                  "debtors experiencing financial difficulty",
+                  "principal forgiveness",
+                  "interest rate reduction",
+                  "payment delay",
+                  "term extension",
+                  "amortized cost basis",
+                  "allowance for credit losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall disclose qualitative and quantitative information about modifications to receivables made to debtors experiencing financial difficulty.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-44",
+            "subsection_title": "Disclosures for Defaults on Modified Receivables",
+            "summary": "Entities shall disclose information about financing receivables that defaulted during the period and had been modified within previous 12 months when debtor was experiencing financial difficulty.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-50-44",
+                "text": "Entities shall disclose information about financing receivables that defaulted during the period and had been modified within previous 12 months when debtor was experiencing financial difficulty.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "payment default",
+                  "modifications",
+                  "principal forgiveness",
+                  "interest rate reduction",
+                  "payment delay",
+                  "term extension",
+                  "allowance for credit losses"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall disclose information about financing receivables that defaulted during the period and had been modified within previous 12 months when debtor was experiencing financial difficulty.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "55",
+        "section_title": "Implementation Guidance and Illustrations",
+        "section_type": "Implementation Guidance",
+        "summary": "Contains implementation guidance and illustrative examples related to disclosures for debtors experiencing financial difficulty and other topics.",
+        "subsections": [
+          {
+            "subsection_number": "12A",
+            "subsection_title": "Example 3: Disclosures for Debtors Experiencing Financial Difficulty",
+            "summary": "Illustrates disclosures required for modifications to borrowers experiencing financial difficulty, including allowance for credit losses and multiple types of concessions.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-55-12A",
+                "text": "Example illustrates disclosures required for modifications to borrowers experiencing financial difficulty, including allowance for credit losses and multiple types of concessions.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "allowance for credit losses",
+                  "principal forgiveness",
+                  "term extension",
+                  "interest rate reduction",
+                  "modification",
+                  "financial difficulty"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "310-10-50-42",
+                  "310-10-50-43",
+                  "310-10-50-44"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "12B",
+            "subsection_title": "Example 4: Commercial Real Estate Debt with Balloon Payment",
+            "summary": "Illustrates guidance for determining whether a delay in payment is insignificant for a commercial real estate loan with balloon payment; delay not insignificant due to expected shortfall in cash flows.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-55-12B",
+                "text": "Example illustrates guidance for determining whether a delay in payment is insignificant for a commercial real estate loan with balloon payment; delay not insignificant due to expected shortfall in cash flows.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "delay in payment",
+                  "insignificant",
+                  "restructuring",
+                  "disclosure"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "310-10-50-36",
+                  "310-10-50-42",
+                  "310-10-50-44",
+                  "310-10-50-46",
+                  "310-10-50-47"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "12F",
+            "subsection_title": "Example 5: Residential Mortgage Debt-Temporary Payment Deferral",
+            "summary": "Illustrates guidance for determining whether a delay in payment is insignificant for a residential mortgage with temporary payment deferral; delay considered insignificant.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-55-12F",
+                "text": "Example illustrates guidance for determining whether a delay in payment is insignificant for a residential mortgage with temporary payment deferral; delay considered insignificant.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "delay in payment",
+                  "insignificant",
+                  "restructuring",
+                  "disclosure"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "310-10-50-36",
+                  "310-10-50-42",
+                  "310-10-50-44",
+                  "310-10-50-46",
+                  "310-10-50-47"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "12I",
+            "subsection_title": "Example 6: Commercial Line of Credit-Short-Term Extension before Renegotiated Terms",
+            "summary": "Illustrates guidance for determining whether a delay in payment is insignificant for a commercial line of credit with short-term extension; delay considered insignificant.",
+            "paragraphs": [
+              {
+                "paragraph_id": "310-10-55-12I",
+                "text": "Example illustrates guidance for determining whether a delay in payment is insignificant for a commercial line of credit with short-term extension; delay considered insignificant.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "delay in payment",
+                  "insignificant",
+                  "restructuring",
+                  "disclosure"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "310-10-50-42",
+                  "310-10-50-44",
+                  "310-10-50-46",
+                  "310-10-50-47"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "310-10",
+      "relationship_type": "related",
+      "description": "Guidance for identifying and measuring impairment of individually reviewed loans.",
+      "specific_paragraphs": [
+        "310-10-35-8",
+        "310-10-35-16",
+        "310-10-35-19",
+        "310-10-35-20",
+        "310-10-35-37"
+      ]
+    },
+    {
+      "referenced_topic": "450-20",
+      "relationship_type": "related",
+      "description": "Guidance for group evaluation of loans with similar risk characteristics.",
+      "specific_paragraphs": [
+        "450-20-25-2",
+        "450-20-30"
+      ]
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Acquisition, Development, and Construction Arrangements",
+      "definition": "Acquisition, development, or construction arrangements, in which a lender, usually a financial institution, participates in expected residual profit from the sale or refinancing of property."
+    },
+    {
+      "term": "Amortized Cost Basis",
+      "definition": "The amortized cost basis is the amount at which a financing receivable or investment is originated or acquired, adjusted for applicable accrued interest, accretion, or amortization of premium, discount, and net deferred fees or costs, collection of cash, writeoffs, foreign exchange, and fair value hedge accounting adjustments."
+    },
+    {
+      "term": "Class of Financing Receivable",
+      "definition": "A group of financing receivables determined on the basis of both of the following: a. Risk characteristics of the financing receivable b. An entity's method for monitoring and assessing credit risk."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Credit Quality Indicator",
+      "definition": "A statistic about the credit quality of a financial asset."
+    },
+    {
+      "term": "Current Assets",
+      "definition": "Current assets is used to designate cash and other assets or resources commonly identified as those that are reasonably expected to be realized in cash or sold or consumed during the normal operating cycle of the business."
+    },
+    {
+      "term": "Debt Security",
+      "definition": "Any security representing a creditor relationship with an entity. The term debt security also includes all of the following: 1. Preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor 2. A collateralized mortgage obligation (or other instrument) that is issued in equity form but is required to be accounted for as a nonequity instrument regardless of how that instrument is classified (that is, whether equity or debt) in the issuer's statement of financial position 3. U.S. Treasury securities 4. U.S. government agency securities 5. Municipal securities 6. Corporate bonds 7. Convertible debt 8. Commercial paper 9. All securitized debt instruments, such as collateralized mortgage obligations and real estate mortgage investment conduits 10. Interest-only and principal-only strips. The term debt security excludes all of the following: 1. Option contracts 2. Financial futures contracts 3. Forward contracts 4. Lease contracts 5. Receivables that do not meet the definition of security and, so, are not debt securities, for example:"
+    },
+    {
+      "term": "Direct Financing Lease",
+      "definition": "From the perspective of a 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b) and is not an operating lease in accordance with paragraph 842-10-25-3A."
+    },
+    {
+      "term": "Effective Interest Rate",
+      "definition": "The rate of return implicit in the financial asset, that is, the contractual interest rate adjusted for any net deferred fees or costs, premium, or discount existing at the origination or acquisition of the financial asset. For purchased financial assets with credit deterioration, however, to decouple interest income from credit loss recognition, the premium or discount at acquisition excludes the discount embedded in the purchase price that is attributable to the acquirer's assessment of credit losses at the date of acquisition."
+    },
+    {
+      "term": "Expected Residual Profit",
+      "definition": "The amount of profit, whether called interest or another name, such as equity kicker, above a reasonable amount of interest and fees expected to be earned by a lender."
+    },
+    {
+      "term": "Fair Value",
+      "definition": "The price that would be received to sell an asset or paid to transfer a liability in an market participants at the measurement date."
+    },
+    {
+      "term": "Financial Asset",
+      "definition": "Cash, evidence of an ownership interest in an entity, or a contract that conveys to one entity a right to do either of the following: 1. Receive cash or another financial instrument from a second entity 2. Exchange other financial instruments on potentially favorable terms with the second entity."
+    },
+    {
+      "term": "Financing Receivable",
+      "definition": "A financing arrangement that has both of the following characteristics: 1. It represents a contractual right to receive money in either of the following ways: 1. On demand 2. On fixed or determinable dates. 2. It is recognized as an asset in the entity's statement of financial position."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lease Receivable",
+      "definition": "A direct financing lease plus any amount that a lessor expects to derive from the underlying asset following the end of the lessee or any other third party unrelated to the lessor, measured on a discounted basis."
+    },
+    {
+      "term": "Lease Term",
+      "definition": "The noncancellable period for which a underlying asset, together with all of the following: 1. Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option 2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor."
+    },
+    {
+      "term": "Lessee",
+      "definition": "An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessor",
+      "definition": "An entity that enters into a underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Leveraged Lease",
+      "definition": "From the perspective of a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date."
+    },
+    {
+      "term": "Loan",
+      "definition": "A contractual right to receive money on demand or on fixed or determinable dates that is recognized as an asset in the creditor's statement of financial position. Examples include but are not limited to accounts receivable (with terms exceeding one year) and notes receivable."
+    },
+    {
+      "term": "Loan Syndication",
+      "definition": "A transaction in which several lenders share in lending to a single borrower. Each lender loans a specific amount to the borrower and has the right to repayment from the borrower. It is common for groups of lenders to jointly fund those loans when the amount borrowed is greater than any one lender is willing to lend."
+    },
+    {
+      "term": "Market Participants",
+      "definition": "Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics: 1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms 1. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary 2. They are able to enter into a transaction for the asset or liability 3. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so."
+    },
+    {
+      "term": "Orderly Transaction",
+      "definition": "A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale)."
+    },
+    {
+      "term": "Portfolio Segment",
+      "definition": "The level at which an entity develops and documents a systematic methodology to determine its allowance for credit losses."
+    },
+    {
+      "term": "Probable",
+      "definition": "The future event or events are likely to occur."
+    },
+    {
+      "term": "Purchased Financial Assets with Credit Deterioration",
+      "definition": "Acquired individual financial assets (or acquired groups of financial assets with similar risk characteristics) that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by an acquirer's assessment."
+    },
+    {
+      "term": "Recorded Investment",
+      "definition": "The amount of the investment in a loan, which is not net of a valuation allowance, but which does reflect any direct write-down of the investment. However, if a loan is a hedged item in a fair value hedge, the amount of that loan's recorded investment should include the unamortized amount of the cumulative fair value hedge adjustments."
+    },
+    {
+      "term": "Recourse",
+      "definition": "The right of a transferee of receivables to receive payment from the transferor of those receivables for any of the following: 1. Failure of debtors to pay when due 2. The effects of prepayments 3. Adjustments resulting from defects in the eligibility of the transferred receivables."
+    },
+    {
+      "term": "Related Parties",
+      "definition": "Related parties include: 1. Affiliates of the entity 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management 4. Principal owners of the entity and members of their immediate families 5. Management of the entity and members of their immediate families 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests."
+    },
+    {
+      "term": "Sales-Type Lease",
+      "definition": "From the perspective of a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A."
+    },
+    {
+      "term": "Standby Letter of Credit",
+      "definition": "A letter of credit (or similar arrangement however named or designated) that represents an obligation to the beneficiary on the part of the issuer for any of the following: - a. To repay money borrowed by or advanced to or for the account of the account party - b. To make payment on account of any evidence of indebtedness undertaken by the account party - c. To make payment on account of any default by the account party in the performance of an obligation. A standby letter of credit would not include the following: - a. Commercial letters of credit and similar instruments where the issuing bank expects the beneficiary to draw upon the issuer and which do not guarantee payment of a money obligation - b. A guarantee or similar obligation issued by a foreign branch in accordance with and subject to the limitations of Regulation M of the Federal Reserve Board."
+    },
+    {
+      "term": "Troubled Debt Restructuring",
+      "definition": "A restructuring of a debt constitutes a troubled debt restructuring if the creditor for economic or legal reasons related to the debtor's financial difficulties grants a concession to the debtor that it would not otherwise consider."
+    },
+    {
+      "term": "Underlying Asset",
+      "definition": "An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

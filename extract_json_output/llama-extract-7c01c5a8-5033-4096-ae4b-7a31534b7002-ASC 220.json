@@ -1,0 +1,1949 @@
+{
+  "document_metadata": {
+    "asc_topic": "220",
+    "topic_title": "Income Statement - Reporting Comprehensive Income",
+    "version": "Update No. 2024-03",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Income Statement-Reporting Comprehensive Income Topic establishes standards for reporting and presentation of comprehensive income and its components in a full set of general-purpose financial statements. It includes subtopics such as Overall, Unusual or Infrequently Occurring Items, and Business Interruption Insurance. The Overview and Background Section provides material useful to understand typical situations addressed by the standards but does not summarize accounting and reporting requirements.",
+      "scope": "The Scope and Scope Exceptions Section outlines the entities, transactions, instruments, or events to which the guidance applies or does not apply. The guidance applies to all entities providing a full set of financial statements, including investment companies and benefit plans exempt from certain requirements, but excludes entities with no items of other comprehensive income and not-for-profit entities required to follow Subtopic 958-205.",
+      "key_changes": [
+        "Infrequency of Occurrence and Unusual Nature definitions added by Maintenance Update 2017-19.",
+        "220-20-45-1 amended by Maintenance Update 2020-18."
+      ],
+      "objectives": [
+        "Report a measure of all changes in equity from recognized transactions and other economic events of the period other than transactions with owners.",
+        "Assist investors, creditors, and others in assessing an entity's activities and future cash flows when used with related disclosures and other financial statement information.",
+        "Provide information about components of comprehensive income, as focusing solely on total comprehensive income may limit understanding of an entity's activities."
+      ],
+      "core_principles": [
+        "Comprehensive income includes all changes in equity except those from owner transactions.",
+        "Components of comprehensive income should be reported and disclosed to provide useful information.",
+        "Presentation and disclosure requirements apply to general-purpose financial statements in conformity with GAAP."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. Does not provide historical background or due process. May contain material useful to understand typical situations addressed by the standards. Does not summarize accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "General",
+            "summary": "Establishes standards for reporting and presentation of comprehensive income and its components in general-purpose financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-05-1",
+                "text": "The Income Statement-Reporting Comprehensive Income Topic establishes standards for reporting and presentation of comprehensive income and its components in a full set of general-purpose financial statements. The Income Statement-Reporting Comprehensive Income Topic includes the following Subtopics: a. Overall b. Unusual or Infrequently Occurring Items c. Business Interruption Insurance.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "comprehensive income",
+                  "general-purpose financial statements",
+                  "subtopics"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Establishes standards for reporting and presentation of comprehensive income and its components in a full set of general-purpose financial statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "10",
+        "section_title": "Objectives",
+        "section_type": "Overview",
+        "summary": "Provides the high-level objectives that the Subtopic is intended to accomplish or attain. Does not summarize or discuss the main principles of accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "10-1",
+            "subsection_title": "General",
+            "summary": "Describes the purpose and usefulness of reporting comprehensive income.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-10-1",
+                "text": "The purpose of reporting comprehensive income is to report a measure of all changes in equity of an entity that result from recognized transactions and other economic events of the period other than transactions with owners in their capacity as owners.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "comprehensive income",
+                  "changes in equity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "220-10-10-2",
+                "text": "If used with related disclosures and other information in the financial statements, the information provided by reporting comprehensive income should assist investors, creditors, and others in assessing an entity's activities and an entity's future cash flows.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "disclosures",
+                  "investors",
+                  "creditors",
+                  "future cash flows"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "220-10-10-3",
+                "text": "Although total comprehensive income is a useful measure, information about the components that make up comprehensive income also is needed. A single focus on total comprehensive income is likely to result in a limited understanding of an entity's activities. Information about the components of comprehensive income often may be more important than the total amount of comprehensive income.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "components of comprehensive income"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. May contain definitional or other text to frame the scope.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "Overall Guidance",
+            "summary": "Establishes pervasive scope for all Subtopics of the Income Statement-Reporting Comprehensive Income Topic.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-15-1",
+                "text": "The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Income Statement-Reporting Comprehensive Income Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Income Statement-Reporting Comprehensive Income Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope",
+                  "subtopics"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Entities",
+            "summary": "Guidance applies to all entities except certain exceptions.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-15-2",
+                "text": "Except as noted in the following paragraph, the guidance in the Income Statement-Reporting Comprehensive Income Topic applies to all entities, including: a. Entities that provide a full set of financial statements that report financial position, results of operations, and cash flows b. Investment companies, defined benefit pension plans, and other employee benefit plans that are exempt from the requirement to provide a statement of cash flows by paragraph 230-10-15-4.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities",
+                  "financial statements",
+                  "investment companies",
+                  "pension plans",
+                  "employee benefit plans"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Guidance applies to all entities, including those that provide a full set of financial statements and certain investment and benefit plans.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "230-10-15-4"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "220-10-15-3",
+                "text": "The guidance in this Topic does not apply to the following entities: a. An entity that has no items of other comprehensive income in any period presented. In such cases, the entity is not required to report other comprehensive income or comprehensive income. See paragraph 220-10-45-10A for items that are required to be reported as other comprehensive income. b. A not-for-profit entity (NFP) that is required to follow the provisions of Subtopic 958-205.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "scope exception",
+                  "other comprehensive income",
+                  "not-for-profit entity"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Guidance does not apply to entities with no items of other comprehensive income or NFPs required to follow Subtopic 958-205.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-10A",
+                  "958-205"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-3",
+            "subsection_title": "General-Purpose Statements",
+            "summary": "Guidance applies to general-purpose statements that present results of operations in conformity with GAAP.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-15-5",
+                "text": "The guidance in the Income Statement-Reporting Comprehensive Income Topic applies to general-purpose statements that purport to present results of operations in conformity with generally accepted accounting principles (GAAP).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "general-purpose statements",
+                  "GAAP"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Guidance applies to general-purpose statements that present results of operations in conformity with GAAP.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "45",
+        "section_title": "Other Comprehensive Income",
+        "section_type": "Presentation",
+        "summary": "Provides detailed requirements for presentation and disclosure of other comprehensive income (OCI) and its components.",
+        "subsections": [
+          {
+            "subsection_number": "45-10A",
+            "subsection_title": "Items Included in Other Comprehensive Income",
+            "summary": "Lists items included in OCI such as foreign currency translation adjustments, gains and losses on certain hedges, unrealized holding gains and losses on available-for-sale debt securities, pension and postretirement benefit items, and changes in fair value attributable to instrument-specific credit risk.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-10A",
+                "text": "Items of other comprehensive income include the following: 1. Foreign currency translation adjustments 2. Gains and losses on foreign currency transactions designated as economic hedges of net investments in foreign entities 3. Gains and losses on intra-entity foreign currency transactions of a long-term-investment nature 4. Gains and losses on derivative instruments designated as cash flow hedges 5. Differences between changes in fair value of excluded components and initial value of excluded components recognized in earnings under systematic and rational methods 6. Unrealized holding gains and losses on available-for-sale debt securities 7. Unrealized holding gains and losses from debt securities transferred into available-for-sale category 8. (Superseded) 9. (Superseded) 10. Gains or losses associated with pension or other postretirement benefits not recognized immediately as net periodic benefit cost 11. Prior service costs or credits associated with pension or other postretirement benefits 12. Transition assets or obligations associated with pension or other postretirement benefits not recognized immediately as net periodic benefit cost 13. Changes in fair value attributable to instrument-specific credit risk of liabilities for which the fair value option is elected. Additional classifications or items may result from future standards.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "other comprehensive income",
+                  "foreign currency translation",
+                  "hedges",
+                  "available-for-sale debt securities",
+                  "pension benefits",
+                  "postretirement benefits",
+                  "instrument-specific credit risk"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Items of other comprehensive income include the listed items such as foreign currency translation adjustments, gains and losses on certain hedges, unrealized holding gains and losses on available-for-sale debt securities, pension and postretirement benefit items, and changes in fair value attributable to instrument-specific credit risk.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "830-30-45-12",
+                  "830-20-35-3(a)",
+                  "830-20-35-3(b)",
+                  "815-20-35-1(c)",
+                  "815-20-25-83A",
+                  "815-35-35-5A",
+                  "326-30-35-2",
+                  "320-10-35-10(c)",
+                  "715-20-50-1(j)",
+                  "825-10-45-5"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-10B",
+            "subsection_title": "Items Not Included in Other Comprehensive Income",
+            "summary": "Specifies items that do not qualify as items of comprehensive income, such as changes in equity from investments by owners and direct adjustments to equity accounts.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-10B",
+                "text": "None of the following items qualify as an item of comprehensive income: a. Changes in equity during a period resulting from investments by owners and distributions to owners b. Items required to be reported as direct adjustments to paid-in capital, retained earnings, or other nonincome equity accounts such as the following types of transactions:",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "comprehensive income",
+                  "equity",
+                  "investments by owners",
+                  "direct adjustments"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Changes in equity from investments by owners and direct adjustments to equity accounts do not qualify as items of comprehensive income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-11",
+            "subsection_title": "Presentation of Components of Other Comprehensive Income",
+            "summary": "Requires entities to present components of other comprehensive income either net of related tax effects or before related tax effects with one amount shown for the aggregate income tax expense or benefit.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-11",
+                "text": "An entity shall present components of other comprehensive income in the statement in which other comprehensive income is reported either net of related tax effects or before related tax effects with one amount shown for the aggregate income tax expense or benefit related to the total of other comprehensive income items.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "other comprehensive income",
+                  "presentation",
+                  "income tax expense",
+                  "income tax benefit"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall present components of other comprehensive income either net of related tax effects or before related tax effects with one amount shown for the aggregate income tax expense or benefit.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-12",
+            "subsection_title": "Disclosure of Income Tax Expense or Benefit Allocated to Components of Other Comprehensive Income",
+            "summary": "Requires presentation or disclosure of the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-12",
+                "text": "An entity shall present the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments, in the statement in which those components are presented or disclose it in the notes to financial statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "income tax expense",
+                  "income tax benefit",
+                  "other comprehensive income",
+                  "reclassification adjustments",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall present or disclose the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-12A",
+            "subsection_title": "Reclassification of Income Tax Effects of the Tax Cuts and Jobs Act",
+            "summary": "Provides guidance on the reclassification of income tax effects of the Tax Cuts and Jobs Act on items within accumulated other comprehensive income to retained earnings, including disclosure requirements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-12A",
+                "text": "An entity may elect to reclassify the income tax effects of the Tax Cuts and Jobs Act on items within accumulated other comprehensive income to retained earnings. If an entity does not elect to reclassify, it shall provide disclosures as per paragraph 220-10-50-3. If an entity elects to reclassify, the amount of that reclassification shall include: a. The effect of the change in the U.S. federal corporate income tax rate on the gross deferred tax amounts and related valuation allowances at the date of enactment related to items remaining in accumulated other comprehensive income. The effect of the change on gross valuation allowances originally charged to income from continuing operations shall not be included. b. Other income tax effects of the Tax Cuts and Jobs Act on items remaining in accumulated other comprehensive income that an entity elects to reclassify, subject to disclosures in paragraph 220-10-50-2(b).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "Tax Cuts and Jobs Act",
+                  "accumulated other comprehensive income",
+                  "retained earnings",
+                  "income tax effects",
+                  "reclassification",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities may elect to reclassify income tax effects of the Tax Cuts and Jobs Act from accumulated other comprehensive income to retained earnings.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "If an entity does not elect to reclassify, it shall disclose that fact in the period of adoption.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "in the period of adoption",
+                      "if an election was not made to reclassify"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "If an entity elects to reclassify, it shall disclose the election and a description of other income tax effects reclassified.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "in the period of adoption",
+                      "if an election was made to reclassify"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-50-3",
+                  "220-10-50-2(b)"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-14",
+            "subsection_title": "Transfer of Other Comprehensive Income to Equity",
+            "summary": "Requires the total of other comprehensive income for a period to be transferred to a component of equity presented separately from retained earnings and additional paid-in capital.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-14",
+                "text": "The total of other comprehensive income for a period shall be transferred to a component of equity that is presented separately from retained earnings and additional paid-in capital in a statement of financial position at the end of an accounting period. A descriptive title such as accumulated other comprehensive income shall be used for that component of equity.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "other comprehensive income",
+                  "equity",
+                  "accumulated other comprehensive income"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Total other comprehensive income for a period shall be transferred to a separate component of equity, titled for example accumulated other comprehensive income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-14A",
+            "subsection_title": "Presentation of Changes in Accumulated Other Comprehensive Income",
+            "summary": "Requires presentation of changes in accumulated balances for each component of other comprehensive income, including current period reclassifications and other amounts, either on the face of the financial statements or as a separate disclosure in the notes.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-14A",
+                "text": "An entity shall present, either on the face of the financial statements or as a separate disclosure in the notes, the changes in the accumulated balances for each component of other comprehensive income included in that separate component of equity. In addition, an entity shall present separately for each component of other comprehensive income, current period reclassifications out of accumulated other comprehensive income and other amounts of current-period other comprehensive income. Both before-tax and net-of-tax presentations are permitted provided the entity complies with the requirements in paragraph 220-10-45-12.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accumulated other comprehensive income",
+                  "presentation",
+                  "reclassifications",
+                  "before-tax",
+                  "net-of-tax"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall present changes in accumulated balances for each component of other comprehensive income, including current period reclassifications and other current-period amounts, either on the face of the financial statements or in notes.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-12"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-15",
+            "subsection_title": "Reclassification Adjustments",
+            "summary": "Reclassification adjustments are required to avoid double counting of items in comprehensive income that are also presented as part of net income.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-15",
+                "text": "Reclassification adjustments shall be made to avoid double counting of items in comprehensive income that are presented as part of net income for a period that also had been presented as part of other comprehensive income in that period or earlier periods. For example, gains on investment securities that were realized and included in net income of the current period that also had been included in other comprehensive income as unrealized holding gains in the period in which they arose must be deducted through other comprehensive income of the period in which they are included in net income to avoid including them in comprehensive income twice.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "reclassification adjustments",
+                  "comprehensive income",
+                  "net income",
+                  "double counting"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Reclassification adjustments shall be made to avoid double counting of items in comprehensive income that are also presented as part of net income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-16",
+            "subsection_title": "Determination of Reclassification Adjustments",
+            "summary": "Entities must determine reclassification adjustments for each component of other comprehensive income. For foreign currency translation adjustments, reclassification is limited to gains and losses realized upon sale or liquidation of an investment in a foreign entity.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-16",
+                "text": "An entity shall determine reclassification adjustments for each component of other comprehensive income. The requirement for a reclassification adjustment for foreign currency translation adjustments is limited to translation gains and losses realized upon sale or upon complete or substantially complete liquidation of an investment in a foreign entity.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "reclassification adjustments",
+                  "other comprehensive income",
+                  "foreign currency translation"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall determine reclassification adjustments for each component of other comprehensive income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "For foreign currency translation adjustments, reclassification adjustments are limited to gains and losses realized upon sale or liquidation of an investment in a foreign entity.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-17",
+            "subsection_title": "Disclosure of Effects of Reclassifications",
+            "summary": "Entities must separately provide information about the effects on net income of significant amounts reclassified out of each component of accumulated other comprehensive income, either on the face of the statement or in the notes.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-17",
+                "text": "An entity shall separately provide information about the effects on net income of significant amounts reclassified out of each component of accumulated other comprehensive income if those amounts all are required under other Topics to be reclassified to net income in their entirety in the same reporting period. An entity shall provide this information together, in one location, in either of the following ways: a. On the face of the statement where net income is presented b. As a separate disclosure in the notes to financial statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "reclassifications",
+                  "net income",
+                  "accumulated other comprehensive income",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall separately provide information about effects on net income of significant amounts reclassified out of accumulated other comprehensive income, if required under other Topics, either on the face of the statement or in notes.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-17A",
+            "subsection_title": "Presentation of Reclassification Effects on the Face of the Statement",
+            "summary": "If presenting reclassification effects on the face of the statement, entities must present the effect by component and the aggregate tax effect parenthetically. If unable to identify the affected line item, follow disclosure guidance.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-17A",
+                "text": "If an entity chooses to present information about the effects of significant amounts reclassified out of accumulated other comprehensive income on net income, on the face of the statement where net income is presented, the entity shall present parenthetically by component of other comprehensive income the effect of significant reclassification amounts on the respective line items of net income. An entity also shall present parenthetically the aggregate tax effect of all significant reclassifications on the line item for income tax benefit or expense in the statement where net income is presented. However, if an entity chooses to use a separate line item or items in the income statement to present significant pension cost components or other postretirement benefit cost components reclassified out of accumulated other comprehensive income, it shall no longer be required to present those pension cost components or other postretirement benefit cost components parenthetically. If an entity is unable to identify the line item of net income affected by any significant amount reclassified out of accumulated other comprehensive income in a reporting period (including when all reclassifications for the period are not to net income in their entirety), the entity must follow the guidance in paragraph 220-10-50-6.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "reclassification effects",
+                  "net income",
+                  "parenthetical presentation",
+                  "tax effect",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If presenting reclassification effects on the face of the statement, entities shall present the effect by component and aggregate tax effect parenthetically.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "If unable to identify the affected line item, entities must follow disclosure guidance in paragraph 220-10-50-6.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-50-6"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-18",
+            "subsection_title": "Reporting Total Comprehensive Income in Interim Periods",
+            "summary": "Requires reporting a total for comprehensive income in condensed financial statements of interim periods in a single continuous statement or in two consecutive statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-18",
+                "text": "An entity shall report a total for comprehensive income in condensed financial statements of interim periods in a single continuous statement or in two consecutive statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "comprehensive income",
+                  "interim periods",
+                  "condensed financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall report a total for comprehensive income in condensed financial statements of interim periods in a single continuous statement or in two consecutive statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-18A",
+            "subsection_title": "Reporting Requirements for Publicly Traded Companies",
+            "summary": "Publicly traded companies must meet the reporting requirements in this Subtopic at each reporting period and follow Subtopic 270-10 for interim-period financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-18A",
+                "text": "Publicly traded companies must meet the reporting requirements in this Subtopic at each reporting period. Companies shall follow the guidance in Subtopic 270-10 for the level of detail required for condensed financial statements for interim-period financial statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "publicly traded companies",
+                  "reporting requirements",
+                  "interim-period financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Publicly traded companies must meet the reporting requirements in this Subtopic at each reporting period and follow Subtopic 270-10 for interim-period financial statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "270-10"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-18B",
+            "subsection_title": "Reporting Requirements for Nonpublic Entities",
+            "summary": "Nonpublic entities must meet the reporting requirements in this Subtopic at each reporting period, except for certain requirements for interim periods.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-45-18B",
+                "text": "Nonpublic entities must meet the reporting requirements in this Subtopic at each reporting period, except for the requirements in paragraphs 220-10-45-17 through 45-17B. Nonpublic entities are not required to meet the requirements in paragraphs 220-10-45-17 through 45-17B for interim reporting periods but are required to meet them for annual reporting periods.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "nonpublic entities",
+                  "reporting requirements",
+                  "interim reporting periods",
+                  "annual reporting periods"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Nonpublic entities must meet the reporting requirements in this Subtopic at each reporting period, except for the requirements in paragraphs 220-10-45-17 through 45-17B for interim periods.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-17",
+                  "220-10-45-17B"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides guidance regarding disclosure in the notes to financial statements related to other comprehensive income and related tax effects.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "Accounting Policy for Releasing Income Tax Effects",
+            "summary": "Requires disclosure of the accounting policy for releasing income tax effects from accumulated other comprehensive income.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-50-1",
+                "text": "An entity shall disclose a description of the accounting policy for releasing income tax effects from accumulated other comprehensive income.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accounting policy",
+                  "income tax effects",
+                  "accumulated other comprehensive income",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall disclose their accounting policy for releasing income tax effects from accumulated other comprehensive income.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-3",
+            "subsection_title": "Disclosure for Entities Not Electing Reclassification of Tax Effects",
+            "summary": "Disclosure requirements for entities that do not elect to reclassify the income tax effects of the Tax Cuts and Jobs Act.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-50-3",
+                "text": "An entity that does not elect to reclassify the income tax effects of the Tax Cuts and Jobs Act in accordance with paragraph 220-10-45-12A shall disclose in the period of adoption a statement that an election was not made to reclassify the income tax effects of the Tax Cuts and Jobs Act from accumulated other comprehensive income to retained earnings.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "Tax Cuts and Jobs Act",
+                  "accumulated other comprehensive income",
+                  "retained earnings",
+                  "income tax effects",
+                  "election",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities not electing to reclassify income tax effects of the Tax Cuts and Jobs Act shall disclose that fact in the period of adoption.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "in the period of adoption",
+                      "if an election was not made to reclassify"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-12A"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-4",
+            "subsection_title": "Presentation of Income Tax Expense or Benefit Allocated to Each Component of OCI",
+            "summary": "Requires presentation or disclosure of the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-50-4",
+                "text": "An entity shall present the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments, in the statement in which those components are presented or disclose it in the notes to financial statements.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "income tax expense",
+                  "income tax benefit",
+                  "other comprehensive income",
+                  "reclassification adjustments",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall present or disclose the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-12"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5",
+            "subsection_title": "Presentation of Changes in Accumulated Balances for Each Component of OCI",
+            "summary": "Requires presentation of changes in accumulated balances for each component of other comprehensive income, including current period reclassifications and other amounts, either on the face of the financial statements or as a separate disclosure in the notes.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-50-5",
+                "text": "An entity shall present, either on the face of the financial statements or as a separate disclosure in the notes, the changes in the accumulated balances for each component of other comprehensive income included in that separate component of equity, as required in paragraph 220-10-45-14. In addition to the presentation of changes in accumulated balances, an entity shall present separately for each component of other comprehensive income, current period reclassifications out of accumulated other comprehensive income and other amounts of current-period other comprehensive income. Both before-tax and net-of-tax presentations are permitted provided the entity complies with the requirements in paragraph 220-10-45-12.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "accumulated balances",
+                  "other comprehensive income",
+                  "component of equity",
+                  "reclassifications",
+                  "before-tax",
+                  "net-of-tax"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall present changes in accumulated balances for each component of other comprehensive income, including current period reclassifications and other current-period amounts, either on the face of the financial statements or in notes.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-14",
+                  "220-10-45-14A",
+                  "220-10-45-12"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-6",
+            "subsection_title": "Disclosure of Significant Amounts Reclassified Out of Accumulated OCI",
+            "summary": "Disclosure of significant amounts reclassified out of accumulated other comprehensive income by component, including identification of affected line items in net income.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-50-6",
+                "text": "If an entity chooses to disclose information about significant amounts reclassified out of accumulated other comprehensive income in the notes to financial statements or is required to do so by paragraph 220-10-45-17A, it shall disclose the significant amounts by each component of accumulated other comprehensive income and provide a subtotal of each component of comprehensive income. The subtotals for each component shall agree with the requirements in paragraph 220-10-45-14A. Both before-tax and net-of-tax presentations are permitted provided the entity complies with the requirements in paragraph 220-10-45-12. For each significant reclassification amount, the entity shall identify, for those amounts that are required under other Topics to be reclassified to net income in their entirety in the same reporting period, each line item affected by the reclassification on the statement where net income is presented. For any significant reclassification for which other Topics do not require that reclassification to net income in its entirety in the same reporting period, the entity shall cross-reference to the note where additional details about the effect of the reclassifications are disclosed. Paragraph 220-10-55-17E provides an example of a note presentation in a tabular format of the effect of reclassifications out of accumulated other comprehensive income.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "significant amounts",
+                  "reclassified",
+                  "accumulated other comprehensive income",
+                  "component",
+                  "subtotal",
+                  "net income",
+                  "cross-reference",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall disclose significant amounts reclassified out of accumulated other comprehensive income by component and provide subtotals in notes if disclosing or required to disclose.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if an entity chooses to disclose or is required to disclose in the notes"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "For significant reclassifications required to be reclassified to net income in the same period, entities shall identify each line item affected on the net income statement.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if required under other Topics"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "For significant reclassifications not required to be reclassified to net income in the same period, entities shall cross-reference to notes with additional details.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if not required under other Topics"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-17A",
+                  "220-10-45-14A",
+                  "220-10-45-12",
+                  "220-10-55-17E"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "55",
+        "section_title": "Implementation Guidance and Illustrations",
+        "section_type": "Implementation Guidance",
+        "summary": "Provides additional guidance and illustrative examples related to the presentation and disclosure of comprehensive income and its components.",
+        "subsections": [
+          {
+            "subsection_number": "55-7",
+            "subsection_title": "Illustration of Statement of Comprehensive Income",
+            "summary": "Illustrates the statement of comprehensive income with other comprehensive income components shown net of tax effects.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-7",
+                "text": "The following illustrates the statement of comprehensive income for the year ended December 31, 201X, with other comprehensive income components shown net of tax effects.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "comprehensive income",
+                  "net income",
+                  "other comprehensive income",
+                  "net of tax"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-8",
+            "subsection_title": "Alternative Presentation of OCI Components Before Tax",
+            "summary": "Illustrates alternative presentation of components of other comprehensive income before tax with one amount shown for the aggregate income tax expense or benefit.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-8",
+                "text": "Alternatively, components of other comprehensive income could be presented before tax with one amount shown for the aggregate income tax expense or benefit, as shown in the following single continuous statement of comprehensive income.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "other comprehensive income",
+                  "before tax",
+                  "aggregate income tax expense"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-8A",
+            "subsection_title": "Illustration of Disclosure of Tax Effects Allocated to OCI Components",
+            "summary": "Illustrates disclosure of the tax effects allocated to each component of other comprehensive income in the notes to financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-8A",
+                "text": "The following table illustrates disclosure of the tax effects allocated to each component of other comprehensive income in the notes to financial statements for the year ended December 31, 201X.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "tax effects",
+                  "other comprehensive income",
+                  "notes to financial statements"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-9",
+            "subsection_title": "Two-Statement Approach Illustration",
+            "summary": "Illustrates the statements of net income and other comprehensive income with components presented net of tax effects.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-9",
+                "text": "The following illustrates the statements of net income and other comprehensive income for the year ended December 31, 201X, with other comprehensive income components presented net of tax effects.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "net income",
+                  "other comprehensive income",
+                  "net of tax"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-10A",
+            "subsection_title": "Statement of Financial Position Illustration",
+            "summary": "Illustrates the presentation of accumulated other comprehensive income in the statement of financial position.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-10A",
+                "text": "The following table illustrates the presentation of accumulated other comprehensive income in the statement of financial position, as discussed in paragraph 220-10-45-14.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "accumulated other comprehensive income",
+                  "statement of financial position"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-11",
+            "subsection_title": "Statement of Changes in Equity Illustration (Alternative 1)",
+            "summary": "Illustrates the presentation of accumulated other comprehensive income in the statement of changes in equity.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-11",
+                "text": "The following table illustrates the presentation of accumulated other comprehensive income in the statement of changes in equity for the year ended December 31, 201X, as discussed in paragraph 220-10-45-14.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "accumulated other comprehensive income",
+                  "statement of changes in equity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-12",
+            "subsection_title": "Statement of Changes in Equity Illustration (Alternative 2)",
+            "summary": "Illustrates the statement of changes in equity.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-12",
+                "text": "The following table illustrates the statement of changes in equity for the year ended December 31, 201X, as discussed in paragraph 220-10-45-14.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "statement of changes in equity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "55-15",
+            "subsection_title": "Disclosure of Changes in Accumulated OCI Balances Illustration",
+            "summary": "Illustrates the disclosure of changes in the balances of each component of accumulated other comprehensive income.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-55-15",
+                "text": "The following table illustrates the disclosure of changes in the balances of each component of accumulated other comprehensive income, as required by paragraph 220-10-45-14A. The amounts in this illustration correspond to the amounts in the Example in paragraph 220-10-55-17E and demonstrate the relationship between the requirements in paragraph 220-10-45-14A and the requirements in paragraph 220-10-50-6 for this entity.",
+                "paragraph_type": "illustration",
+                "key_terms": [
+                  "accumulated other comprehensive income",
+                  "component",
+                  "disclosure"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "220-10-45-14A",
+                  "220-10-50-6"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "99",
+        "section_title": "SEC Materials",
+        "section_type": "Disclosure",
+        "summary": "Includes selected SEC and SEC Staff content relevant to the Topic.",
+        "subsections": [
+          {
+            "subsection_number": "99-1",
+            "subsection_title": "Regulation S-X Rule 3-03, Instructions to Statement of Comprehensive Income Requirements",
+            "summary": "Instructions for preparation and presentation of statements of comprehensive income in SEC filings.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-S99-1",
+                "text": "The statements required shall be prepared in compliance with the applicable requirements of this regulation. If the registrant is engaged primarily in certain utility or holding activities, it may at its option include statements of comprehensive income and cash flows for the twelve-month period ending on the date of the most recent balance sheet being filed, in lieu of the statements for the interim periods specified. If a period reported includes operations prior to acquisition or differs from prior reports, reconciliation shall be provided unless previously made or not publicly filed. Unaudited interim financial statements shall reflect all adjustments necessary for a fair statement of results, with a statement to that effect included.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "statements of comprehensive income",
+                  "SEC filings",
+                  "reconciliation",
+                  "unaudited interim financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Statements shall be prepared in compliance with applicable requirements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Optional inclusion of statements for twelve-month period for certain utilities or holding activities.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Reconciliation of sales or revenues and net income shall be provided if periods differ from prior reports, unless previously made or not publicly filed.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": [
+                      "if reconciliations have been made in prior filings or financial statements have not been publicly filed"
+                    ]
+                  },
+                  {
+                    "requirement_text": "Unaudited interim financial statements shall reflect all necessary adjustments for fair statement, with a statement included.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "99-2",
+            "subsection_title": "Regulation S-X Rule 5-03, Statements of Comprehensive Income",
+            "summary": "Indicates line items that should appear on the face of statements of comprehensive income filed with the SEC.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-S99-2",
+                "text": "The purpose of this rule is to indicate the various line items which, if applicable, and except as otherwise permitted by the Commission, should appear on the face of the statements of comprehensive income filed for the persons to whom this article pertains. If income is derived from more than one of the subcaptions described under § 210.5-03.1, each class which is not more than 10 percent of the sum of the items may be combined with another class. If these items are combined, related costs and expenses shall be combined in the same manner.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "line items",
+                  "statements of comprehensive income",
+                  "SEC filings"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Line items which should appear on the face of statements of comprehensive income filed with the SEC are indicated.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Classes not more than 10 percent of sum may be combined with another class, with related costs and expenses combined accordingly.",
+                    "mandatory_language": [
+                      "may"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "99-3",
+            "subsection_title": "SAB Topic 1.B.1, Costs Reflected in Historical Income Statements",
+            "summary": "SEC Staff views on reflecting expenses incurred by a parent on behalf of a subsidiary in the subsidiary's historical income statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-S99-3",
+                "text": "The historical income statements of a registrant should reflect all of its costs of doing business. The staff has required subsidiaries to revise financial statements to include certain expenses incurred by the parent on its behalf, such as officer and employee salaries, rent or depreciation, advertising, accounting and legal services, and other selling, general and administrative expenses. When previously reported by independent accountants and used other than for internal purposes, a presentation showing income before tax as previously reported, followed by adjustments for expenses not previously allocated, income taxes, and adjusted net income has been accepted.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "historical income statements",
+                  "expenses incurred by parent",
+                  "subsidiary",
+                  "costs of doing business"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Historical income statements should reflect all costs of doing business, including certain expenses incurred by the parent on behalf of the subsidiary.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "99-4",
+            "subsection_title": "SAB Topic 5.T, Accounting for Expenses or Liabilities Paid by Principal Stockholder(s)",
+            "summary": "SEC Staff views on reflecting expenses paid by principal stockholders as expenses in the company's financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-S99-4",
+                "text": "If a principal stockholder pays expenses or liabilities on behalf of a company, the value of shares transferred should be reflected as an expense with a corresponding credit to contributed (paid-in) capital. Such transactions are accounted for as share-based payment transactions unless clearly for a purpose other than compensation for goods or services.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "expenses paid by principal stockholder",
+                  "expense recognition",
+                  "contributed capital",
+                  "share-based payment"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Expenses paid by principal stockholders should be reflected as expenses with a corresponding credit to contributed capital.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "718-10-15-4"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Glossary",
+        "section_type": "Glossary",
+        "summary": "Contains definitions of key terms used throughout the Topic.",
+        "subsections": [
+          {
+            "subsection_number": "220-10-20",
+            "subsection_title": "Key Terms",
+            "summary": "Definitions of terms such as comprehensive income, other comprehensive income, and related concepts.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-20-1",
+                "text": "Comprehensive income is the change in equity of a business enterprise during a period from transactions and other events and circumstances from nonowner sources. It includes all changes in equity except those resulting from investments by owners and distributions to owners.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "comprehensive income"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "220-10-20-2",
+                "text": "Other comprehensive income consists of revenues, expenses, gains, and losses that are excluded from net income under GAAP.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "other comprehensive income"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Glossary",
+        "section_type": "Glossary",
+        "summary": "Contains all terms identified as glossary terms throughout the Codification. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).",
+        "subsections": [
+          
+        ]
+      },
+      {
+        "section_number": "45",
+        "section_title": "Other Presentation Matters",
+        "section_type": "Presentation",
+        "summary": "Provides guidance on presentation matters not addressed in other sections, including classification and display items.",
+        "subsections": [
+          {
+            "subsection_number": "45-1",
+            "subsection_title": "General",
+            "summary": "General requirements for presentation of comprehensive income and related items.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-10-S45-1",
+                "text": "See paragraph 220-10-S99-1, Regulation S-X Rule 3-03, for the instructions to income statement requirements.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "presentation",
+                  "income statement",
+                  "Regulation S-X Rule 3-03"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "220-10-S99-1"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides guidance on disclosure requirements related to comprehensive income and its components.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "General",
+            "summary": "Objective and scope of disclosure requirements for disaggregated expenses to help investors understand performance and assess future cash flows.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-40-50-1",
+                "text": "The objective of the disclosure requirements in this Section is to provide disaggregated information about a public business entity’s expenses to help investors: a. Better understand the entity’s performance b. Better assess the entity’s prospects for future cash flows c. Compare an entity’s performance over time and with that of other entities. In addition, the disclosure requirements are intended to provide information about the relative proportion and trends of each category of expense identified in paragraph 220-40-50-6 in relation to the corresponding income statement expense caption amount in order to meet the overall objective described above. An entity shall consider the level of detail necessary to satisfy the disclosure objective and specific requirements of this Subtopic. An entity may use estimates or other methods that produce a reasonable approximation of the amounts required to be disclosed by this Subtopic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "disaggregated information",
+                  "public business entity",
+                  "expenses",
+                  "investors",
+                  "performance",
+                  "future cash flows",
+                  "expense categories",
+                  "income statement",
+                  "disclosure objective"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall consider the level of detail necessary to satisfy the disclosure objective and specific requirements of this Subtopic. An entity may use estimates or other methods that produce a reasonable approximation of the amounts required to be disclosed by this Subtopic.",
+                    "mandatory_language": [
+                      "shall",
+                      "may"
+                    ],
+                    "conditions": [
+                      "to satisfy the disclosure objective and specific requirements"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-40-50-6"
+                ],
+                "effective_date": "December 16, 2026"
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-6",
+            "subsection_title": "Expense Disaggregation Disclosures",
+            "summary": "Requires disaggregation, in a tabular format disclosure in the notes, of all relevant expense captions presented on the face of the income statement in continuing operations into specified expense categories such as purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depletion.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-40-50-6",
+                "text": "For interim and annual reporting periods, an entity shall disaggregate, in a tabular format disclosure in the notes to financial statements, all relevant expense captions presented on the face of the income statement in continuing operations into the following expense categories: a. Purchases of inventory b. Employee compensation (disclosing separately any one-time employee termination benefits, if applicable) c. Depreciation d. Intangible asset amortization e. Depreciation, depletion, and amortization of capitalized acquisition, exploration, and development costs recognized as part of oil- and gas-producing activities or other amounts of depletion expense.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disaggregate",
+                  "tabular format",
+                  "expense captions",
+                  "income statement",
+                  "purchases of inventory",
+                  "employee compensation",
+                  "one-time employee termination benefits",
+                  "depreciation",
+                  "intangible asset amortization",
+                  "depletion"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "An entity shall disaggregate, in a tabular format disclosure in the notes to financial statements, all relevant expense captions presented on the face of the income statement in continuing operations into the specified expense categories.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "for interim and annual reporting periods"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "220-40-50-7",
+                  "220-40-50-21(e)",
+                  "360-10-50-1(a)",
+                  "350-30-50-2(a)(2)",
+                  "220-40-50-11"
+                ],
+                "effective_date": "December 16, 2026"
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-35",
+            "subsection_title": "Disclosure of Selling Expenses",
+            "summary": "Requires disclosure of total selling expenses recognized in continuing operations in the notes to financial statements for interim and annual reporting periods.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-40-50-35",
+                "text": "For interim and annual reporting periods, an entity shall disclose, in the notes to financial statements, the total selling expenses recognized in continuing operations.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "selling expenses",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall disclose total selling expenses recognized in continuing operations in the notes for interim and annual reporting periods.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "interim and annual reporting periods"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": "December 16, 2026"
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-36",
+            "subsection_title": "Definition and Disclosure of Selling Expenses",
+            "summary": "Entities shall define what constitutes selling expenses, including only items presented as expenses in the income statement, and disclose the definition in annual reporting periods or interim periods if changed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-40-50-36",
+                "text": "An entity shall make its own determination of what constitutes a selling expense. An entity’s definition of selling expenses shall include only items that are presented as expenses in the income statement. An entity shall disclose how it defines the term selling expenses in annual reporting periods (or in interim reporting periods if the definition is changed).",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "selling expenses",
+                  "definition",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities shall determine what constitutes selling expenses, including only items presented as expenses in the income statement.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Entities shall disclose their definition of selling expenses in annual reporting periods or interim periods if changed.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "annual reporting periods",
+                      "interim reporting periods if the definition is changed"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": "December 16, 2026"
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Glossary",
+        "section_type": "Glossary",
+        "summary": "Contains definitions of key terms used throughout the Topic.",
+        "subsections": [
+          {
+            "subsection_number": "220-40-20",
+            "subsection_title": "Key Terms",
+            "summary": "Definitions of terms such as employee compensation, intangible assets, and others relevant to expense disaggregation.",
+            "paragraphs": [
+              {
+                "paragraph_id": "220-40-20-1",
+                "text": "Employee Compensation includes all forms of cash consideration, share-based payment arrangements, medical care benefits, pension benefits, postretirement benefits, and nonretirement postemployment benefits given by an entity in exchange for service rendered by employees or for termination of employment. It includes compensation cost arising from wages, salaries, bonuses, employee stock ownership plans, defined contribution plans, multiemployer plans, and other compensation costs recognized under Topics 710, 712, 715, and 718.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "employee compensation"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "710",
+                  "712",
+                  "715",
+                  "718"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "220-40-20-2",
+                "text": "Intangible Assets are assets (not including financial assets) that lack physical substance, excluding goodwill.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "intangible assets"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "320",
+      "relationship_type": "related",
+      "description": "Topic 320 is referenced for additional disclosure requirements for available-for-sale debt securities.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "326",
+      "relationship_type": "related",
+      "description": "Topic 326 is referenced for disclosures about available-for-sale debt securities with an allowance for credit losses.",
+      "specific_paragraphs": [
+        "326-30-45-2"
+      ]
+    },
+    {
+      "referenced_topic": "944",
+      "relationship_type": "related",
+      "description": "Transition guidance for life insurers regarding amounts reclassified out of accumulated other comprehensive income.",
+      "specific_paragraphs": [
+        "944-40-65-2"
+      ]
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Available-for-Sale Securities",
+      "definition": "Investments not classified as either trading securities or as held-to-maturity securities."
+    },
+    {
+      "term": "Comprehensive Income",
+      "definition": "The change in equity (net assets) of a business entity during a period from transactions and other events and circumstances from nonowner sources. It includes all changes in equity during a period except those resulting from investments by owners and distributions to owners. Comprehensive income comprises both of the following:\n- a. All components of net income\n- b. All components of other comprehensive income."
+    },
+    {
+      "term": "Conduit Debt Securities",
+      "definition": "Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements."
+    },
+    {
+      "term": "Debt Security",
+      "definition": "Any security representing a creditor relationship with an entity. The term debt security also includes all of the following:\n- a. Preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor\n- b. A collateralized mortgage obligation (or other instrument) that is issued in equity form but is required to be accounted for as a nonequity instrument regardless of how that instrument is classified (that is, whether equity or debt) in the issuer's statement of financial position\n- c. U.S. Treasury securities\n- d. U.S. government agency securities\n- e. Municipal securities\n- f. Corporate bonds\n- g. Convertible debt\n- h. Commercial paper\n- i. All securitized debt instruments, such as collateralized mortgage obligations and real estate mortgage investment conduits\n- j. Interest-only and principal-only strips.\n\nThe term debt security excludes all of the following:\n- a. Option contracts\n- b. Financial futures contracts\n- c. Forward contracts\n- d. Lease contracts\n- e. Receivables that do not meet the definition of security and, so, are not debt securities, for example:"
+    },
+    {
+      "term": "Holding Gain or Loss",
+      "definition": "The net change in fair value of a security. The holding gain or loss does not include dividend or interest income recognized but not yet received, writeoffs, or the allowance for credit losses."
+    },
+    {
+      "term": "Market Risk Benefit",
+      "definition": "PENDING CONTENT\n\nTransition Date: P December 16, 2022; N December 16, 2024 - Transition Guidance : 944-40-65-2\n\nA contract or contract feature in a long-duration contract issued by an insurance entity that both protects the contract holder from other-than-nominal capital market risk and exposes the insurance entity to other-than-nominal capital market risk."
+    },
+    {
+      "term": "Net Income",
+      "definition": "A measure of financial performance resulting from the aggregation of revenues, expenses, gains, and losses that are not items of other comprehensive income. A variety of other terms such as net earnings or earnings may be used to describe net income."
+    },
+    {
+      "term": "Noncontrolling Interest",
+      "definition": "The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest."
+    },
+    {
+      "term": "Nonpublic Entity",
+      "definition": "Any entity that does not meet any of the following conditions:\n1. Its debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally.\n2. It is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).\n3. It files with a regulatory agency in preparation for the sale of any class of debt or equity securities in a public market.\n4. It is required to file or furnish financial statements with the Securities and Exchange Commission.\n5. It is controlled by an entity covered by criteria (a) through (d)."
+    },
+    {
+      "term": "Other Comprehensive Income",
+      "definition": "Revenues, expenses, gains, and losses that under generally accepted accounting principles (GAAP) are included in comprehensive income but excluded from net income."
+    },
+    {
+      "term": "Parent",
+      "definition": "An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)"
+    },
+    {
+      "term": "Publicly Traded Company",
+      "definition": "A publicly traded company includes any company whose securities trade in a public market on either of the following:\n1. A stock exchange (domestic or foreign)\n2. In the over-the-counter market (including securities quoted only locally or regionally), or any company that is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).\n\nAdditionally, when a company is required to file or furnish financial statements with the SEC or makes a filing with a regulatory agency in preparation for sale of its securities in a public market it is considered a publicly traded company for this purpose. Conduit debt securities refers to certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements."
+    },
+    {
+      "term": "Reclassification Adjustments",
+      "definition": "Adjustments made to avoid double counting in comprehensive income items that are displayed as part of net income for a period that also had been displayed as part of other comprehensive income in that period or earlier periods."
+    },
+    {
+      "term": "Subsidiary",
+      "definition": "An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)"
+    },
+    {
+      "term": "Infrequency of Occurrence",
+      "definition": "The underlying event or transaction should be of a type that would not reasonably be expected to recur in the foreseeable future, taking into account the environment in which the entity operates."
+    },
+    {
+      "term": "Unusual Nature",
+      "definition": "The underlying event or transaction should possess a high degree of abnormality and be of a type clearly unrelated to, or only incidentally related to, the ordinary and typical activities of the entity, taking into account the environment in which the entity operates."
+    },
+    {
+      "term": "Business Interruption Insurance",
+      "definition": "Insurance that provides coverage if business operations are suspended due to the loss of use of property and equipment resulting from a covered cause of loss. Business interruption insurance coverage generally provides for reimbursement of certain costs and losses incurred during the reasonable period required to rebuild, repair, or replace the damaged property."
+    },
+    {
+      "term": "Gross Margin",
+      "definition": "The excess of sales over cost of goods sold. Gross margin does not consider all operating expenses."
+    },
+    {
+      "term": "Intangible Assets",
+      "definition": "Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)"
+    },
+    {
+      "term": "Inventory",
+      "definition": "The aggregate of those items of tangible personal property that have any of the following characteristics: Held for sale in the ordinary course of business; In process of production for such sale; To be currently consumed in the production of goods or services to be available for sale. The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory."
+    },
+    {
+      "term": "Joint Venture",
+      "definition": "An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lease Term",
+      "definition": "The noncancellable period for which a lessee has the right to use an underlying asset, together with all of the following: a. Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option b. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option c. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor."
+    },
+    {
+      "term": "Legal Entity",
+      "definition": "Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts."
+    },
+    {
+      "term": "Lessee",
+      "definition": "An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessor",
+      "definition": "An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "License Agreement",
+      "definition": "A typical license agreement for program material (for example, features, specials, series, or cartoons) covers several programs (a package) and grants a television station, group of stations, network, pay television, or cable television system (licensee) the right to broadcast either a specified number or an unlimited number of showings over a maximum period of time (license period) for a specified fee."
+    },
+    {
+      "term": "Loss Contingency",
+      "definition": "An existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur. The term loss is used for convenience to include many charges against income that are commonly referred to as expenses and others that are commonly referred to as losses."
+    },
+    {
+      "term": "Multiemployer Plan",
+      "definition": "A pension or postretirement benefit plan to which two or more unrelated employers contribute, usually pursuant to one or more collective-bargaining agreements. A characteristic of multiemployer plans is that assets contributed by one participating employer may be used to provide benefits to employees of other participating employers since assets contributed by an employer are not segregated in a separate account or restricted to provide benefits only to employees of that employer. A multiemployer plan is usually administered by a board of trustees composed of management and labor representatives and may also be referred to as a joint trust or union plan. Generally, many employers participate in a multiemployer plan, and an employer may participate in more than one plan. The employers participating in multiemployer plans usually have a common industry bond, but for some plans the employers are in different industries and the labor union may be their only common bond. Some multiemployer plans do not involve a union. For example, local chapters of a not-for-profit entity (NFP) may participate in a plan established by the related national organization."
+    },
+    {
+      "term": "Natural Expense Classification",
+      "definition": "A method of grouping expenses according to the kinds of economic benefits received in incurring those expenses. Examples of natural expense classifications include salaries and wages, employee benefits, professional services, supplies, interest expense, rent, utilities, and depreciation. PENDING CONTENT Transition Date: P December 16, 2026; N December 16, 2026 - Transition Guidance: [220-40-65-1](https://apps.intelligize.com/AccountingStandardsAndGuidance?key=eyJ0eXBlIjoiQVNHX0RPQ1VNRU5UX0lOVEVSTkFMIiwiaWQiOiIxLTIyMC00MC02NS0xIiwiZGF0YSI6eyJhbmNob3JpZCI6InAtbm9ybV9kc3RfeGh5X3ljYyJ9fQ==) A method of grouping expenses according to the types of economic benefits received in incurring those expenses. Examples of natural expense classifications include salaries and wages, employee benefits, nonemployee professional services, supplies, interest expense, rent, utilities, and depreciation."
+    },
+    {
+      "term": "Nonretirement Postemployment Benefits",
+      "definition": "All types of benefits, other than those provided through a pension or other postretirement plan (see Subtopics 715-30 and 715-60), provided to former or inactive employees, their beneficiaries, and covered dependents."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: 1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return 2. Operating purposes other than to provide goods or services at a profit 3. Absence of ownership interests like those of business entities. Entities that clearly fall outside this definition include the following: 1. All investor-owned entities 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans."
+    },
+    {
+      "term": "Oil- and Gas-Producing Activities",
+      "definition": "Paragraph 932-10-15-2A defines the term oil- and gas-producing activities."
+    },
+    {
+      "term": "One-Time Employee Termination Benefits",
+      "definition": "Benefits provided to current employees that are involuntarily terminated under the terms of a one-time benefit arrangement."
+    },
+    {
+      "term": "Operating Lease",
+      "definition": "From the perspective of a lessee, any lease other than a finance lease. From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease."
+    },
+    {
+      "term": "Other Postemployment Benefits",
+      "definition": "Benefits, other than special or contractual termination benefits, that are provided by an employer to former or inactive employees after employment but before retirement including benefits provided to beneficiaries and covered dependents."
+    },
+    {
+      "term": "Pension Benefits",
+      "definition": "Periodic (usually monthly) payments made pursuant to the terms of the pension plan to a person who has retired from employment or to that person's beneficiary."
+    },
+    {
+      "term": "Postretirement Benefits",
+      "definition": "All forms of benefits, other than retirement income, provided by an employer to retirees. Those benefits may be defined in terms of specified benefits, such as health care, tuition assistance, or legal services, that are provided to retirees as the need for those benefits arises, such as certain health care benefits, or they may be defined in terms of monetary amounts that become payable on the occurrence of a specified event, such as life insurance benefits."
+    },
+    {
+      "term": "Private Company",
+      "definition": "An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting."
+    },
+    {
+      "term": "Public Business Entity",
+      "definition": "A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity. 1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing). 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC. 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer. 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market. 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion."
+    },
+    {
+      "term": "Transaction Gain or Loss",
+      "definition": "Transaction gains or losses result from a change in exchange rates between the functional currency and the currency in which a foreign currency transaction is denominated. They represent an increase or decrease in both of the following: a. The actual functional currency cash flows realized upon settlement of foreign currency transactions b. The expected functional currency cash flows on unsettled foreign currency transactions."
+    },
+    {
+      "term": "Troubled Debt Restructuring",
+      "definition": "A restructuring of a debt constitutes a troubled debt restructuring if the creditor for economic or legal reasons related to the debtor's financial difficulties grants a concession to the debtor that it would not otherwise consider."
+    },
+    {
+      "term": "Underlying Asset",
+      "definition": "An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset."
+    },
+    {
+      "term": "Underwriting Risk",
+      "definition": "The risk arising from uncertainties about the ultimate amount of net cash flows from premiums, commissions, claims, and claim settlement expenses paid under a contract."
+    },
+    {
+      "term": "Variable Interest Entity",
+      "definition": "A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10."
+    },
+    {
+      "term": "Warranty",
+      "definition": "A guarantee for which the underlying is related to the performance (regarding function, not price) of nonfinancial assets that are owned by the guaranteed party. The obligation may be incurred in connection with the sale of goods or services; if so, it may require further performance by the seller after the sale has taken place."
+    },
+    {
+      "term": "Accretion Expense",
+      "definition": "An amount recognized as an expense classified as an operating item in the statement of income resulting from the increase in the carrying amount of the liability associated with the asset retirement obligation."
+    },
+    {
+      "term": "Acquiree",
+      "definition": "The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity."
+    },
+    {
+      "term": "Acquirer",
+      "definition": "The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer."
+    },
+    {
+      "term": "Acquisition by a Not-for-Profit Entity",
+      "definition": "A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities."
+    },
+    {
+      "term": "Acquisition Costs",
+      "definition": "Costs that are related directly to the successful acquisition of new or renewal insurance contracts."
+    },
+    {
+      "term": "Asset Retirement Obligation",
+      "definition": "An obligation associated with the retirement of a tangible long-lived asset."
+    },
+    {
+      "term": "Business",
+      "definition": "Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business."
+    },
+    {
+      "term": "Business Combination",
+      "definition": "A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity."
+    },
+    {
+      "term": "Commencement Date of the Lease (Commencement Date)",
+      "definition": "The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21 for implementation guidance on the commencement date."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Corporate Joint Venture",
+      "definition": "A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture."
+    },
+    {
+      "term": "Customer",
+      "definition": "A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration."
+    },
+    {
+      "term": "Defined Benefit Plan",
+      "definition": "A defined benefit plan provides participants with a determinable benefit based on a formula provided for in the plan.\n\n1. Defined benefit health and welfare plans - Defined benefit health and welfare plans specify a determinable benefit, which may be in the form of a reimbursement to the covered plan participant or a direct payment to providers or third-party insurers for the cost of specified services. Such plans may also include benefits that are payable as a lump sum, such as death benefits. The level of benefits may be defined or limited based on factors such as age, years of service, and salary. Contributions may be determined by the plan's actuary or be based on premiums, actual claims paid, hours worked, or other factors determined by the plan sponsor. Even when a plan is funded pursuant to agreements that specify a fixed rate of employer contributions (for example, a collectively bargained multiemployer plan), such a plan may nevertheless be a defined benefit health and welfare plan if its substance is to provide a defined benefit.\n2. Defined benefit pension plan - A pension plan that defines an amount of pension benefit to be provided, usually as a function of one or more factors such as age, years of service, or compensation. Any pension plan that is not a defined contribution pension plan is, for purposes of Subtopic 715-30, a defined benefit pension plan.\n3. Defined benefit postretirement plan - A plan that defines postretirement benefits in terms of monetary amounts (for example, $100,000 of life insurance) or benefit coverage to be provided (for example, up to $200 per day for hospitalization, or 80 percent of the cost of specified surgical procedures). Any postretirement benefit plan that is not a defined contribution postretirement plan is, for purposes of Subtopic 715-60, a defined benefit postretirement plan. (Specified monetary amounts and benefit coverage are collectively referred to as benefits.)"
+    },
+    {
+      "term": "Defined Contribution Plan",
+      "definition": "A plan that provides an individual account for each participant and provides benefits that are based on all of the following: amounts contributed to the participant's account by the employer or employee; investment experience; and any forfeitures allocated to the account, less any administrative expenses charged to the plan.\n\n1. Defined contribution health and welfare plans - Defined contribution health and welfare plans maintain an individual account for each plan participant. They have terms that specify the means of determining the contributions to participants' accounts, rather than the amount of benefits the participants are to receive. The benefits a plan participant will receive are limited to the amount contributed to the participant's account, investment experience, expenses, and any forfeitures allocated to the participant's account. These plans also include flexible spending arrangements.\n2. Defined contribution postretirement plan - A plan that provides postretirement benefits in return for services rendered, provides an individual account for each plan participant, and specifies how contributions to the individual's account are to be determined rather than specifies the amount of benefits the individual is to receive. Under a defined contribution postretirement plan, the benefits a plan participant will receive depend solely on the amount contributed to the plan participant's account, the returns earned on investments of those contributions, and the forfeitures of other plan participants' benefits that may be allocated to that plan participant's account."
+    },
+    {
+      "term": "Derivative Instrument",
+      "definition": "Paragraphs 815-10-15-83 through 15-139 define the term derivative instrument."
+    },
+    {
+      "term": "Direct Financing Lease",
+      "definition": "From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b) and is not an operating lease in accordance with paragraph 842-10-25-3A."
+    },
+    {
+      "term": "Employee",
+      "definition": "An individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, a grantee meets the definition of an employee if the grantor consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a grantor that classifies a grantee potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the grantee is a leased employee as described below). A grantee does not meet the definition of an employee solely because the grantor represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify a grantee as an employee for U.S. payroll tax purposes does not, by itself, indicate that the grantee is an employee because the grantee also must be an employee of the grantor under common law.\n\nA leased individual is deemed to be an employee of the lessee if all of the following requirements are met:\n\n1. The leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.\n2. The lessor and lessee agree in writing to all of the following conditions related to the leased individual:\n1. The lessee has the exclusive right to grant stock compensation to the individual for the employee service to the lessee.\n2. The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)\n3. The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).\n4. The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.\n5. The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.\n\nA nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to nonemployee directors for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees."
+    },
+    {
+      "term": "Employee Compensation",
+      "definition": "All forms of cash consideration (including deferred cash compensation), share-based payment arrangements, medical care benefits, pension benefits, postretirement benefits, and nonretirement postemployment benefits (including special or contractual termination benefits) given by an entity in exchange for service rendered by employees or for the termination of employment. This includes compensation cost arising from wages, salaries, profit-sharing, bonuses, one-time employee termination benefits, other postemployment benefits, employee stock ownership plans, employee share purchase plans, defined contribution plans, multiemployer plans, and any other compensation cost recognized in accordance with the guidance in Topic 710 on compensation, Topic 712 on nonretirement postemployment benefits, Topic 715 on retirement benefits, and Topic 718 on stock compensation. This also includes compulsory payments paid to the general government that confer entitlement to receive a (contingent) future social benefit, such as unemployment insurance benefits and supplements; accident, injury, and sickness benefits; old-age, disability, and survivors’ pensions; and family allowances, reimbursements for medical and hospital expenses, or provision of hospital or medical services. For defined benefit plans within the scope of Topic 715, employee compensation includes only the service cost component of net periodic pension cost and the service cost component of net periodic postretirement benefit cost."
+    },
+    {
+      "term": "Employee Stock Ownership Plan",
+      "definition": "An employee benefit plan that is described by the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 as a stock bonus plan, or combination stock bonus and money purchase pension plan, designed to invest primarily in employer stock. Also called an employee share ownership plan."
+    },
+    {
+      "term": "Film Costs",
+      "definition": "Film costs include all direct negative costs incurred in the physical production of a film, as well as allocations of production overhead and capitalized interest in accordance with Topic 835. Examples of direct negative costs include costs of story and scenario; compensation of cast, directors, producers, extras, and miscellaneous staff; costs of set construction and operations, wardrobe, and accessories; costs of sound synchronization; rental facilities on location; and postproduction costs such as music, special effects, and editing."
+    },
+    {
+      "term": "Finance Lease",
+      "definition": "From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2."
+    },
+    {
+      "term": "Hosting Arrangement",
+      "definition": "In connection with accessing and using software products, an arrangement in which the customer of the software does not currently have possession of the software; rather, the customer accesses and uses the software on an as-needed basis."
+    },
+    {
+      "term": "Impairment",
+      "definition": "Impairment is the condition that exists when the carrying amount of a long-lived asset (asset group) exceeds its fair value."
+    },
+    {
+      "term": "Inactive Employees",
+      "definition": "Employees who are not currently rendering service to the employer and who have not been terminated. They include those who have been laid off and those on disability leave, regardless of whether they are expected to return to active status."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

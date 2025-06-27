@@ -1,0 +1,254 @@
+{
+  "document_metadata": {
+    "asc_topic": "260",
+    "topic_title": "Earnings Per Share",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.",
+      "scope": "The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.",
+      "key_changes": [
+        
+      ],
+      "objectives": [
+        "The objective of basic earnings per share (EPS) is to measure the performance of an entity over the reporting period.",
+        "The objective of diluted EPS is consistent with that of basic EPS-to measure the performance of an entity over the reporting period-while giving effect to all dilutive potential common shares that were outstanding during the period."
+      ],
+      "core_principles": [
+        
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. Does not provide historical background or due process. May contain material useful to understand typical situations addressed by the standards.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "General",
+            "summary": "Specifies the computation, presentation, and disclosure requirements for earnings per share (EPS) for entities with publicly held common stock or potential common stock. Computation of EPS is included in Section 260-10-55.",
+            "paragraphs": [
+              {
+                "paragraph_id": "260-10-05-1",
+                "text": "The Earnings Per Share Topic contains only the Overall Subtopic. The Overall Subtopic specifies the computation, presentation, and disclosure requirements for earnings per share (EPS) for entities with publicly held common stock or potential common stock. Computation of EPS is included in Section 260-10-55.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "Earnings Per Share",
+                  "Overall Subtopic",
+                  "computation",
+                  "presentation",
+                  "disclosure",
+                  "publicly held common stock",
+                  "potential common stock"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Specifies the computation, presentation, and disclosure requirements for earnings per share (EPS) for entities with publicly held common stock or potential common stock.",
+                    "mandatory_language": null,
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "260-10-55"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "260-10-05-1A",
+                "text": "An entity may issue a freestanding financial instrument (for example, a warrant) with a down round feature that is classified in equity. This Subtopic provides guidance on earnings per share and recognition and measurement of the effect of a down round feature when it is triggered.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "freestanding financial instrument",
+                  "down round feature",
+                  "equity",
+                  "earnings per share",
+                  "recognition",
+                  "measurement"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "05-2",
+            "subsection_title": "Master Limited Partnerships",
+            "summary": "Clarifies the application of the General Subsection of the Other Presentation Matters Subtopic to master limited partnerships.",
+            "paragraphs": [
+              {
+                "paragraph_id": "260-10-05-2",
+                "text": "The Master Limited Partnerships Subsections clarify the application of the General Subsection of the Other Presentation Matters Subtopic to master limited partnerships.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Master Limited Partnerships",
+                  "Other Presentation Matters"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "260-10-05-3",
+                "text": "Publicly traded master limited partnerships often issue multiple classes of securities that may participate in partnership distributions according to a formula specified in the partnership agreement. A typical master limited partnership consists of publicly traded common units held by limited partners, a general partner interest, and incentive distribution rights. Depending on the structure of the master limited partnership, the incentive distribution rights may be a separate class of nonvoting limited partner interest that the general partner initially holds but generally may transfer or sell apart from its overall interest. Alternatively, the incentive distribution rights may be embedded in the general partner interest such that they cannot be detached and transferred apart from the general partner's overall interest.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "master limited partnership",
+                  "publicly traded",
+                  "common units",
+                  "limited partners",
+                  "general partner interest",
+                  "incentive distribution rights"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "260-10-05-4",
+                "text": "Generally, the partnership agreement obligates the general partner to distribute 100 percent of the partnership's available cash (as defined in the partnership agreement) at the end of each reporting period to the general partner and limited partners via a distribution waterfall (that is, a schedule that prescribes distributions to the general partner and limited partners at each threshold) within a contractually determined period of time following the end of a reporting period. When certain thresholds are met, the distribution waterfall further allocates available cash to the holder of the separate class of nonvoting limited partner interest (the incentive distribution right holder) or, when the incentive distribution right is embedded in the general partner interest, to the general partner. The net income (or loss) of the partnership is allocated to the capital accounts of the general partner and limited partners based on their respective sharing of income or losses specified in the partnership agreement, but only after taking into account any priority income allocations resulting from incentive distributions.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "distribution waterfall",
+                  "available cash",
+                  "incentive distribution right holder",
+                  "net income",
+                  "capital accounts"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "260-10-05-5",
+                "text": "Paragraphs 260-10-45-59A through 45-70 address the use of the two-class method to calculate earnings per unit for capital structures that are not convertible into a class of common stock.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "two-class method",
+                  "earnings per unit",
+                  "capital structures"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "260-10-45-59A through 45-70"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": null,
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Antidilution",
+      "definition": "An increase in earnings per share amounts or a decrease in loss per share amounts."
+    },
+    {
+      "term": "Basic Earnings Per Share",
+      "definition": "The amount of earnings for the period available to each share of common stock outstanding during the reporting period."
+    },
+    {
+      "term": "Call Option",
+      "definition": "A contract that allows the holder to buy a specified quantity of stock from the writer of the contract at a fixed price for a given period. See Purchased Call Option."
+    },
+    {
+      "term": "Common Stock",
+      "definition": "A stock that is subordinate to all other stock of the issuer. Also called common shares."
+    },
+    {
+      "term": "Consolidated Financial Statements",
+      "definition": "The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity."
+    },
+    {
+      "term": "Consolidated Group",
+      "definition": "A parent and all its subsidiaries."
+    },
+    {
+      "term": "Contingent Issuance",
+      "definition": "A possible issuance of shares of common stock that is dependent on the satisfaction of certain conditions."
+    },
+    {
+      "term": "Contingent Stock Agreement",
+      "definition": "An agreement to issue common stock (usually in connection with a business combination) that is dependent on the satisfaction of certain conditions. See Contingently Issuable Shares."
+    },
+    {
+      "term": "Contingently Convertible Instruments",
+      "definition": "Contingently convertible instruments are instruments that have embedded conversion features that are contingently convertible or exercisable based on either of the following:\n\na. A market price trigger\nb. Multiple contingencies if one of the contingencies is a market price trigger and the instrument can be converted or share settled based on meeting the specified market condition.\n\nA market price trigger is a market condition that is based at least in part on the issuer's own share price. Examples of contingently convertible instruments include contingently convertible debt, contingently convertible preferred stock, and the instrument described by paragraph 260-10-45-43, all with embedded market price triggers."
+    },
+    {
+      "term": "Contingently Issuable Shares",
+      "definition": "Shares issuable for little or no cash consideration upon the satisfaction of certain conditions pursuant to a contingent stock agreement. Also called contingently issuable stock. See Contingent Stock Agreement."
+    },
+    {
+      "term": "Conversion Rate",
+      "definition": "The ratio of the number of common shares issuable upon conversion to a unit of a convertible security. For example, $100 face value of debt convertible into 5 shares of common stock would have a conversion ratio of 5:1. Also called conversion ratio."
+    },
+    {
+      "term": "Convertible Security",
+      "definition": "A security that is convertible into another security based on a conversion rate. For example, convertible preferred stock that is convertible into common stock on a two-for-one basis (two shares of common for each share of preferred)."
+    },
+    {
+      "term": "Diluted Earnings Per Share",
+      "definition": "The amount of earnings for the period available to each share of common stock outstanding during the reporting period and to each share that would have been outstanding assuming the issuance of common shares for all dilutive potential common shares outstanding during the reporting period."
+    },
+    {
+      "term": "Dilution",
+      "definition": "A reduction in EPS resulting from the assumption that convertible securities were converted, that options or warrants were exercised, or that other shares were issued upon the satisfaction of certain conditions."
+    },
+    {
+      "term": "Down Round Feature",
+      "definition": "A feature in a financial instrument that reduces the strike price of an issued financial instrument if the issuer sells shares of its stock for an amount less than the currently stated strike price of the issued financial instrument or issues an equity-linked financial instrument with a strike price below the currently stated strike price of the issued financial instrument. A down round feature may reduce the strike price of a financial instrument to the current issuance price, or the reduction may be limited by a floor or on the basis of a formula that results in a price that is at a discount to the original exercise price but above the new issuance price of the shares, or may reduce the strike price to below the current issuance price. A standard antidilution provision is not considered a down round feature."
+    },
+    {
+      "term": "Dropdown",
+      "definition": "A transfer of certain net assets from a sponsor or general partner to a master limited partnership in exchange for consideration."
+    },
+    {
+      "term": "Earnings Per Share",
+      "definition": "The amount of earnings attributable to each share of common stock. For convenience, the term is used to refer to either earnings or loss per share."
+    },
+    {
+      "term": "Employee Stock Ownership Plan",
+      "definition": "An employee stock ownership plan is an employee benefit plan that is described by the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 as a stock bonus plan, or combination stock bonus and money purchase pension plan, designed to invest primarily in employer stock. Also called an employee share ownership plan."
+    },
+    {
+      "term": "Equity Restructuring",
+      "definition": "A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend."
+    },
+    {
+      "term": "Exercise Price",
+      "definition": "The amount that must be paid for a share of common stock upon exercise of an option or warrant."
+    },
+    {
+      "term": "Financial Instrument",
+      "definition": "Cash, evidence of an ownership interest in an entity, or a contract that both:\n1. Imposes on one entity a contractual obligation either:\n1. To deliver cash or another financial instrument to a second entity\n2. To exchange other financial instruments on potentially unfavorable terms with the second entity.\n2. Conveys to that second entity a contractual right either:\n1. To receive cash or another financial instrument from the first entity\n2. To exchange other financial instruments on potentially favorable terms with the first entity.\n\nThe use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

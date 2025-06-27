@@ -1,0 +1,1096 @@
+{
+  "document_metadata": {
+    "asc_topic": "405",
+    "topic_title": "Liabilities",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "Other",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Liabilities Topic includes subtopics on Overall, Extinguishments of Liabilities, Insurance-Related Assessments, Obligations Resulting from Joint and Several Liability Arrangements, and Supplier Finance Programs. Each subtopic provides specific guidance relevant to its area.",
+      "scope": "The guidance applies broadly to all entities and covers various types of liabilities including financial and nonfinancial liabilities, insurance-related assessments, joint and several liability arrangements, and supplier finance programs.",
+      "key_changes": [
+        "Clarification on extinguishments of liabilities excluding debt conversions and troubled debt restructurings.",
+        "Establishment of consistent accounting and disclosures for guaranty-fund and other insurance-related assessments.",
+        "Guidance on initial and subsequent measurement of liabilities and related assets for insurance-related assessments.",
+        "Disclosure requirements for supplier finance programs to enhance transparency."
+      ],
+      "objectives": [
+        "Establish consistent accounting and disclosures for guaranty-fund and other insurance-related assessments to improve comparability of reported information.",
+        "Enhance transparency of supplier finance programs through detailed disclosures.",
+        "Provide clear criteria for derecognition of liabilities upon extinguishment.",
+        "Ensure appropriate measurement and recognition of obligations resulting from joint and several liability arrangements."
+      ],
+      "core_principles": [
+        "A liability shall be derecognized only when extinguished, which includes payment, legal release, or other conditions.",
+        "Insurance-related assessments liabilities are recognized when probable, the obligating event has occurred, and the amount can be reasonably estimated.",
+        "Estimates of loss-based assessments must be consistent with incurred losses and based on enacted laws or regulations.",
+        "Supplier finance programs require disclosures of qualitative and quantitative information to enable understanding of their nature and impact."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "10",
+        "section_title": "Overall",
+        "section_type": "Overview",
+        "summary": "Provides an overview of the Liabilities Topic and its subtopics, including the scope and general guidance on liabilities.",
+        "subsections": [
+          {
+            "subsection_number": "05",
+            "subsection_title": "Overview and Background",
+            "summary": "Overview and background material for the guidance contained in the Subtopic, including identification of related Topics and subtopics.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-10-05-1",
+                "text": "The Liabilities Topic includes subtopics on Overall, Extinguishments of Liabilities, Insurance-Related Assessments, Obligations Resulting from Joint and Several Liability Arrangements, and Supplier Finance Programs.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Liabilities",
+                  "Subtopics"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "405-10-05-2",
+                "text": "This Subtopic identifies locations in the Codification that provide guidance for liabilities, including Topics 410, 420, 430, 440, 450, 460, 470, and 480 which discuss recognition of liabilities.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "recognition of liabilities"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "410",
+                  "420",
+                  "430",
+                  "440",
+                  "450",
+                  "460",
+                  "470",
+                  "480"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Extinguishments of Liabilities",
+        "section_type": "Overview",
+        "summary": "Guidance on extinguishments of liabilities, excluding debt conversions and troubled debt restructurings.",
+        "subsections": [
+          {
+            "subsection_number": "05",
+            "subsection_title": "Overview and Background",
+            "summary": "Addresses extinguishments of liabilities and excludes debt conversions and troubled debt restructurings.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-20-05-1",
+                "text": "This Subtopic addresses extinguishments of liabilities but does not address debt conversions or troubled debt restructurings, which are covered in Subtopics 470-20 and 470-60.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "extinguishments of liabilities",
+                  "debt conversions",
+                  "troubled debt restructurings"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "470-20",
+                  "470-60"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15",
+            "subsection_title": "Scope and Scope Exceptions",
+            "summary": "The guidance applies to all entities and extinguishments of all liabilities, including financial and nonfinancial liabilities, except where derecognition is addressed in other Topics.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-20-15-1",
+                "text": "The guidance in this Subtopic applies to all entities.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "all entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "405-20-15-2",
+                "text": "The guidance applies to extinguishments of all liabilities, including financial and nonfinancial liabilities, unless derecognition is addressed in another Topic.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "extinguishments of all liabilities",
+                  "financial liabilities",
+                  "nonfinancial liabilities",
+                  "derivative instruments"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to extinguishments of all liabilities, including both financial and nonfinancial liabilities, unless derecognition of a financial or nonfinancial liability is addressed in another Topic.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "unless derecognition of a financial or nonfinancial liability is addressed in another Topic"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "unless derecognition of a financial or nonfinancial liability is addressed in another Topic"
+                ],
+                "cross_references": [
+                  "924-405",
+                  "606"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "40",
+            "subsection_title": "Derecognition",
+            "summary": "Criteria for derecognition of liabilities upon extinguishment.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-20-40-1",
+                "text": "A debtor shall derecognize a liability if and only if it has been extinguished. Extinguishment occurs when the debtor pays the creditor or is legally released from the obligation.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "derecognize a liability",
+                  "extinguished",
+                  "debtor",
+                  "creditor"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "A debtor shall derecognize a liability if and only if it has been extinguished.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if and only if it has been extinguished"
+                    ],
+                    "exceptions": [
+                      "Unless addressed by other guidance (e.g., paragraphs 405-20-40-3 through 40-4 or paragraphs 606-10-55-46 through 55-49)"
+                    ]
+                  }
+                ],
+                "conditions": [
+                  "if and only if it has been extinguished"
+                ],
+                "cross_references": [
+                  "405-20-40-3",
+                  "405-20-40-4",
+                  "606-10-55-46",
+                  "606-10-55-49"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "405-20-40-2",
+                "text": "If a creditor releases a debtor on condition that a third party assumes the obligation and the original debtor becomes secondarily liable, the original debtor recognizes a guarantee obligation at fair value.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "guarantor",
+                  "guarantee obligation",
+                  "fair value"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "As a guarantor, it shall recognize a guarantee obligation in the same manner as a guarantor never primarily liable, with due regard for the likelihood of third party performance.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The guarantee obligation shall be initially measured at fair value, reducing gain or increasing loss on extinguishment.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "460"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "405-20-40-3",
+                "text": "Prepaid stored-value products have specific derecognition guidance and exclusions.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "prepaid stored-value products",
+                  "breakage",
+                  "unclaimed property laws",
+                  "customer loyalty programs"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "405-20-40-4",
+                  "606"
+                ],
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "405-20-40-4",
+                "text": "Entities shall derecognize breakage amounts related to prepaid stored-value products based on expected breakage and update estimates each period, accounting for changes as changes in accounting estimates.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "breakage amount",
+                  "derecognize",
+                  "prepaid stored-value product",
+                  "change in accounting estimate"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If entitled to breakage amount, derecognize in proportion to expected exercise pattern, provided reversal is not probable.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "If an entity expects to be entitled to a breakage amount for a liability resulting from the sale of a prepaid stored-value product"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "If not entitled to breakage amount, derecognize when likelihood of exercise is remote.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "If an entity does not expect to be entitled to a breakage amount for prepaid stored-value products"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Update estimated breakage amount each period to reflect current circumstances.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "At the end of each period"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Account for changes in estimated breakage as changes in accounting estimates per paragraphs 250-10-45-17 through 45-20.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "If an entity expects to be entitled to a breakage amount for a liability resulting from the sale of a prepaid stored-value product",
+                  "If an entity does not expect to be entitled to a breakage amount for prepaid stored-value products",
+                  "At the end of each period"
+                ],
+                "cross_references": [
+                  "405-20-40-3",
+                  "250-10-45-17",
+                  "250-10-45-20"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "section_title": "Recognition",
+        "section_type": "Recognition",
+        "summary": "Recognition criteria for insurance-related assessments liabilities.",
+        "subsections": [
+          {
+            "subsection_number": "25-1",
+            "subsection_title": "Recognition Criteria",
+            "summary": "Entities subject to assessments shall recognize liabilities when probability of assessment, obligating event, and ability to reasonably estimate are met.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-25-1",
+                "text": "Entities subject to assessments shall recognize liabilities for insurance-related assessments when all of the following conditions are met: probability of assessment, obligating event, and ability to reasonably estimate.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "probability of assessment",
+                  "obligating event",
+                  "reasonably estimate"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities subject to assessments shall recognize liabilities for insurance-related assessments when all of the following conditions are met: (a) Probability of assessment, (b) Obligating event, (c) Ability to reasonably estimate.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "Probability of assessment: An assessment has been imposed or information available before issuance indicates it is probable that an assessment will be imposed.",
+                      "Obligating event: The event obligating an entity to pay has occurred on or before the date of the financial statements.",
+                      "Ability to reasonably estimate: The amount of the assessment can be reasonably estimated."
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "Probability of assessment",
+                  "Obligating event",
+                  "Ability to reasonably estimate"
+                ],
+                "cross_references": [
+                  "855-10-25"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-2",
+            "subsection_title": "Probability of Assessment",
+            "summary": "Premium-based guaranty-fund assessments presumed probable upon formal determination of insolvency.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-25-2",
+                "text": "Premium-based guaranty-fund assessments, except those prefunded, are presumed probable when a formal determination of insolvency occurs.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "premium-based guaranty-fund assessments",
+                  "formal determination of insolvency"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "formal determination of insolvency"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-3",
+            "subsection_title": "Presumption of Probability",
+            "summary": "Prefunded and premium-based administrative assessments presumed probable when premiums are written; loss-based assessments presumed probable when losses are incurred.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-25-3",
+                "text": "Prefunded guaranty-fund assessments and premium-based administrative-type assessments are presumed probable when premiums are written. Loss-based administrative-type and second-injury fund assessments are presumed probable when losses are incurred.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "prefunded guaranty-fund assessments",
+                  "premium-based administrative-type assessments",
+                  "loss-based administrative-type assessments",
+                  "second-injury fund assessments"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "premiums are written",
+                  "losses are incurred"
+                ],
+                "cross_references": [
+                  "405-30-05-3"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-4",
+            "subsection_title": "Obligating Event",
+            "summary": "Defines the obligating event for premium-based and loss-based assessments.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-25-4",
+                "text": "The obligating event for premium-based assessments is generally writing or becoming obligated to write premiums; for loss-based assessments, it is incurring the losses.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "premium-based assessments",
+                  "loss-based assessments",
+                  "obligating event"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "writing the premiums",
+                  "becoming obligated to write or renew premiums",
+                  "formal determination of insolvency",
+                  "incurring the losses"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "25-5",
+            "subsection_title": "Reasonable Estimation",
+            "summary": "The amount of the assessment must be reasonably estimable to recognize a liability.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-25-5",
+                "text": "One condition for recognition is that the amount can be reasonably estimated. If no amount within a range is better, the minimum amount should be accrued.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "reasonably estimated",
+                  "range of amounts",
+                  "minimum amount"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "amount can be reasonably estimated"
+                ],
+                "cross_references": [
+                  "450-20-25-2(b)",
+                  "450-20-25-5",
+                  "450-20-30-1"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "30",
+        "section_title": "Initial Measurement",
+        "section_type": "Initial Measurement",
+        "summary": "Guidance on initial measurement of insurance-related assessments and joint and several liability obligations.",
+        "subsections": [
+          {
+            "subsection_number": "30-6",
+            "subsection_title": "Measurement of Loss-Based Assessments",
+            "summary": "Estimates of loss-based assessments shall be consistent with incurred losses and based on enacted laws and expected rates.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-6",
+                "text": "Estimates of loss-based assessments shall be consistent with estimates of the underlying incurred losses and shall be developed based on enacted laws or regulations and expected assessment rates.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "loss-based assessments",
+                  "incurred losses",
+                  "enacted laws",
+                  "regulations",
+                  "assessment rates"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Estimates of loss-based assessments shall be consistent with estimates of the underlying incurred losses and shall be developed based on enacted laws or regulations and expected assessment rates.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-7",
+            "subsection_title": "Uncertainties in Estimates",
+            "summary": "Uncertainties exist in estimating guaranty-fund assessments due to various factors including insolvency costs and reinsurance recoveries.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-7",
+                "text": "Estimates of some insurance-related assessment liabilities may be difficult to derive due to uncertainties about insolvency costs, reinsurance recoveries, and other factors.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "insurance-related assessment liabilities",
+                  "guaranty-fund assessments",
+                  "uncertainties",
+                  "insolvency",
+                  "reinsurance recoveries"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-8",
+            "subsection_title": "Measurement within Range",
+            "summary": "If a best estimate exists within a range, use it; otherwise, use the minimum amount.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-8",
+                "text": "If a best estimate within the range exists, the liability recorded shall be based on it; if not, the minimum amount in the range shall be used.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "assessment liability",
+                  "best estimate",
+                  "minimum amount"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If there is a best estimate within the range, the liability recorded shall be based on the best estimate within the range. If there is no such best estimate, the liability that should be recorded shall be based on the amount representing the minimum amount in the range.",
+                    "mandatory_language": [
+                      "shall",
+                      "should"
+                    ],
+                    "conditions": [
+                      "If there is a best estimate within the range",
+                      "If there is no such best estimate"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "uncertainties surrounding some insurance-related assessments"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-9",
+            "subsection_title": "Discounting",
+            "summary": "Discounting of liabilities to reflect time value of money is allowed but not required when amounts and timing are fixed or reliably determinable.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-9",
+                "text": "Discounting of liabilities to reflect the time value of money is allowed but not required when the aggregate amount and timing of cash payments are fixed or reliably determinable.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "discounting",
+                  "time value of money",
+                  "liabilities"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "aggregate amount of the obligation and the amount and timing of the cash payments are fixed or reliably determinable"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-10",
+            "subsection_title": "Present Value Measurement",
+            "summary": "Liabilities meeting discounting criteria may be recorded at present value using an appropriate interest rate.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-10",
+                "text": "For assessments meeting discounting criteria, liabilities may be recorded at present value by discounting estimated future cash flows at an appropriate interest rate.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "present value",
+                  "discounting",
+                  "estimated future cash flows",
+                  "interest rate"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "assessments that meet those criteria"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-11",
+            "subsection_title": "Measurement of Related Assets",
+            "summary": "Assets related to premium tax offsets or policy surcharges shall be measured based on current laws and projections of future premium collections from in-force policies.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-11",
+                "text": "The asset recognized related to premium tax offsets or policy surcharges shall be measured based on current laws and projections of future premium collections or policy surcharges from in-force policies.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "asset",
+                  "premium tax offsets",
+                  "policy surcharges",
+                  "in-force policies",
+                  "persistency rates"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The asset recognized under paragraph 405-30-25-8 shall be measured based on current laws and projections of future premium collections or policy surcharges from in-force policies.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "405-30-25-8"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-12",
+            "subsection_title": "Consideration of Time Value of Money for Recoveries",
+            "summary": "Time value of money need not be considered for recoveries if liability is not discounted; asset recovery period may justify discounting.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-12",
+                "text": "Time value of money need not be considered in recovery measurement if liability is not discounted; asset recovery period may justify discounting if longer than liability payout period.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "time value of money",
+                  "discounted",
+                  "recovery period"
+                ],
+                "requirements": null,
+                "conditions": [
+                  "recovery period for an asset is substantially longer than the payout period for the liability"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "30-13",
+            "subsection_title": "Limitations on Recognition of Assets",
+            "summary": "Recognition of assets related to prospective-premium-based assessments is limited to premiums written or obligated to write and amounts recoverable over in-force policies.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-30-13",
+                "text": "Recognition of assets related to prospective-premium-based assessments is limited to premiums written or obligated to write and amounts recoverable over in-force policies.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "prospective-premium-based assessments",
+                  "premium tax offset",
+                  "policy surcharge asset"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The expected premium tax offset or policy surcharge asset related to the accrual of prospective-premium-based assessments shall be based on and limited to the amount recoverable as a result of premiums the insurer has written or is obligated to write.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "35",
+        "section_title": "Subsequent Measurement",
+        "section_type": "Subsequent Measurement",
+        "summary": "Subsequent measurement guidance for assets related to premium tax offsets and policy surcharges.",
+        "subsections": [
+          {
+            "subsection_number": "35-1",
+            "subsection_title": "Asset for Premium Tax Offsets and Policy Surcharges",
+            "summary": "Assets for premium tax offsets and policy surcharges shall be subject to a valuation allowance for amounts no longer probable of realization.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-35-1",
+                "text": "The asset recorded for premium tax offsets and policy surcharges shall be subject to a valuation allowance to reflect any portion no longer probable of realization.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "valuation allowance",
+                  "premium tax offsets",
+                  "policy surcharges",
+                  "in-force policies"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The asset recorded under paragraph 405-30-25-8 for premium tax offsets and policy surcharges shall be subject to a valuation allowance to reflect any portion of the asset that is no longer probable of realization.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "405-30-25-8"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Disclosure requirements for insurance-related assessments and supplier finance programs.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "General",
+            "summary": "Disclosures related to loss contingencies and supplier finance programs.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-50-1",
+                "text": "Disclosures related to loss contingencies apply to assessments. If amounts are discounted, disclose undiscounted amounts and discount rate; if not, disclose amounts, related assets, and periods of payment and realization.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disclosure",
+                  "loss contingencies",
+                  "discounted amounts",
+                  "undiscounted amounts",
+                  "liability",
+                  "premium tax offsets",
+                  "policy surcharges",
+                  "discount rate"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If amounts have been discounted, disclose undiscounted amounts of liability and related assets and discount rate used. If not discounted, disclose amounts, related assets, periods of payment, and periods of realization.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if amounts have been discounted",
+                      "if amounts have not been discounted"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "if amounts have been discounted",
+                  "if amounts have not been discounted"
+                ],
+                "cross_references": [
+                  "275-10-50",
+                  "450-20-55"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "55",
+        "section_title": "Implementation Guidance and Illustrations",
+        "section_type": "Implementation Guidance",
+        "summary": "Implementation guidance and illustrative examples for insurance-related assessments.",
+        "subsections": [
+          {
+            "subsection_number": "55-1",
+            "subsection_title": "Example 1: Prospective-Premium-Based Assessment",
+            "summary": "Illustrates recognition and measurement of a prospective-premium-based assessment with premium tax offsets.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-55-1",
+                "text": "ABC Property & Liability Insurance Company expects to be assessed in the future by the guaranty fund, limited to 2% of prior year premium writings, recoverable through premium tax offsets over 5 years.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "prospective-premium-based assessment",
+                  "guaranty fund",
+                  "premium writings",
+                  "premium tax offsets"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": [
+              {
+                "example_id": "Example 1",
+                "title": "Prospective-Premium-Based Assessment",
+                "scenario": "ABC Property & Liability Insurance Company expects to be assessed in the future by the guaranty fund in a state where it writes premiums. Assessments limited to 2% of prior year premium writings, recoverable through premium tax offsets over 5 years.",
+                "analysis": "As of 12/31/19X0, ABC should recognize a liability equal to 1% of 19X0 premiums subject to assessment. No asset related to the premium tax offset should be recognized. Disclosure of the loss contingency of up to an additional 1% of the subject premiums should be considered.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "405-30-25-1",
+                  "405-30-30-11",
+                  "405-30-35-1"
+                ],
+                "financial_statement_impact": null
+              }
+            ]
+          },
+          {
+            "subsection_number": "55-6",
+            "subsection_title": "Example 2: Retrospective-Premium-Based Assessment",
+            "summary": "Illustrates recognition and measurement of a retrospective-premium-based assessment with premium tax offsets.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-55-6",
+                "text": "DEF Life and Health Insurance Company expects to be assessed based on average market share for three years before insolvency, limited to 2% of average annual subject premiums, recoverable through premium tax offsets over 5 years.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "retrospective-premium-based assessment",
+                  "guaranty fund",
+                  "average market share",
+                  "premium tax offsets"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": [
+              {
+                "example_id": "Example 2",
+                "title": "Retrospective-Premium-Based Assessment",
+                "scenario": "DEF Life and Health Insurance Company expects to be assessed in the future by the guaranty fund. Assessments based on average market share for three years before insolvency, limited to 2% of average annual subject premiums.",
+                "analysis": "As of 12/31/19X0, DEF should recognize a liability for 3 years of assessments at 1% of the average annual premiums. An asset related to premium tax offsets would be recorded if sufficient premium taxes based on business in force at 12/31/19X0 exist.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "405-30-25-1",
+                  "405-30-30-11",
+                  "405-30-35-1"
+                ],
+                "financial_statement_impact": null
+              }
+            ]
+          },
+          {
+            "subsection_number": "55-3",
+            "subsection_title": "Example 3: Loss-Based Assessment",
+            "summary": "Illustrates recognition of a loss-based assessment liability for workers' compensation.",
+            "paragraphs": [
+              {
+                "paragraph_id": "405-30-55-3",
+                "text": "GHI Industrial Company is self-insured for workers' compensation and participates in the second injury fund, subject to annual assessments on indemnity claims paid.",
+                "paragraph_type": "example",
+                "key_terms": [
+                  "loss-based assessment",
+                  "workers' compensation",
+                  "second injury fund"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": [
+              {
+                "example_id": "Example 3",
+                "title": "Loss-Based Assessment",
+                "scenario": "GHI Industrial Company is self-insured for workers' compensation and participates in the second injury fund. Subject to annual assessments (max 1% per year) on indemnity claims paid each year.",
+                "analysis": "As of 12/31/19X0, GHI should have an assessment liability recognized for 0.75% of its liability for the payment of future indemnity claims, unless information supports a reduced rate or elimination of assessments.",
+                "journal_entries": null,
+                "related_paragraphs": [
+                  "405-30-25-1",
+                  "405-30-30-6"
+                ],
+                "financial_statement_impact": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "410",
+      "relationship_type": "related",
+      "description": "Asset Retirement and Environmental Obligations, see Topic 410",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "420",
+      "relationship_type": "related",
+      "description": "Exit or Disposal Cost Obligations, see Topic 420",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "430",
+      "relationship_type": "related",
+      "description": "Deferred Revenue and Contract Liabilities, see Topic 430",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "440",
+      "relationship_type": "related",
+      "description": "Commitments, see Topic 440",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "450",
+      "relationship_type": "related",
+      "description": "Contingencies, see Topic 450",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "460",
+      "relationship_type": "related",
+      "description": "Guarantees, see Topic 460",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "470",
+      "relationship_type": "related",
+      "description": "Debt, see Topic 470",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "480",
+      "relationship_type": "related",
+      "description": "Distinguishing Liabilities from Equity, see Topic 480",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "470-20",
+      "relationship_type": "related",
+      "description": "Accounting guidance for debt conversions addressed in Subtopic 470-20",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "470-60",
+      "relationship_type": "related",
+      "description": "Accounting guidance for troubled debt restructurings addressed in Subtopic 470-60",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "924-405",
+      "relationship_type": "related",
+      "description": "Derecognition guidance for gaming chips in Subtopic 924-405 on casinos",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "606",
+      "relationship_type": "related",
+      "description": "Breakage guidance in Topic 606 on revenue from contracts with customers",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "470-50-50-1",
+      "relationship_type": "related",
+      "description": "Disclosure requirement for debt considered to be extinguished by in-substance defeasance",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "860-30-50-1A",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for assets set aside solely for the purpose of satisfying scheduled payments of a specific obligation",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "250-10-45-17",
+      "relationship_type": "related",
+      "description": "Change in accounting estimate guidance",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "250-10-45-20",
+      "relationship_type": "related",
+      "description": "Change in accounting estimate guidance",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Incurred Losses",
+      "definition": "Losses paid or unpaid for which the entity has become liable during a period."
+    },
+    {
+      "term": "In-Force Policies",
+      "definition": "Policies effective before a specified date that have not yet expired or been cancelled."
+    },
+    {
+      "term": "Involuntary Pools",
+      "definition": "A residual market mechanism for insureds who cannot obtain insurance in the voluntary market."
+    },
+    {
+      "term": "Life, Annuity, and Health Insurance Entities",
+      "definition": "An entity that may issue annuity, endowment, and accident and health insurance contracts as well as life insurance contracts. Life and health insurance entities may be either stock or mutual entities."
+    },
+    {
+      "term": "Obligated to Write",
+      "definition": "A circumstance in which an entity has no discretion to cancel a policy because of legal obligation under state statute, contract terms, or regulatory practice and is required to offer or issue insurance policies for a period in the future."
+    },
+    {
+      "term": "Premium Tax Offsets",
+      "definition": "Offsets against premium taxes levied on insurance entities by states."
+    },
+    {
+      "term": "Premiums Written",
+      "definition": "The premiums on all policies an entity has issued in a period."
+    },
+    {
+      "term": "Property and Casualty Insurance Entity",
+      "definition": "An entity that issues insurance contracts providing protection against either of the following: a. Damage to or loss of property caused by various perils, such as fire and theft b. Legal liability resulting from injuries to other persons or damage to their property. Property and liability insurance entities may be either stock or mutual entities."
+    },
+    {
+      "term": "Reinsurance",
+      "definition": "A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder."
+    },
+    {
+      "term": "Conduit Debt Securities",
+      "definition": "Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements."
+    },
+    {
+      "term": "Nonpublic Entity",
+      "definition": "Any entity that does not meet any of the following conditions: a. Its debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally. b. It is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets). c. It files with a regulatory agency in preparation for the sale of any class of debt or equity securities in a public market. d. It is required to file or furnish financial statements with the Securities and Exchange Commission. e. It is controlled by an entity covered by criteria (a) through (d)."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

@@ -1,0 +1,239 @@
+{
+  "document_metadata": {
+    "asc_topic": "255",
+    "topic_title": "Changing Prices",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Changing Prices Topic provides guidance on reporting the effects of changing prices, or inflation, on financial statements of business entities. The reporting addresses both general inflation and price changes of certain assets.",
+      "scope": "The guidance in the Changing Prices Topic applies to business entities that prepare their financial statements in U.S. dollars and in accordance with U.S. generally accepted accounting principles (GAAP), and to foreign entities that prepare financial statements in the currency of the country in which the operations reported on are conducted and that operate in countries with hyperinflationary economies. Disclosure of information on the effects of changing prices as outlined in this Topic is encouraged but not required.",
+      "key_changes": [
+        
+      ],
+      "objectives": [
+        "Provide guidance on reporting the effects of changing prices or inflation on financial statements.",
+        "Encourage disclosure of supplementary information on the effects of changing prices."
+      ],
+      "core_principles": [
+        "The guidance addresses both general inflation and price changes of certain assets.",
+        "Measurement guidance related to disclosures is included in paragraphs 255-10-50-19 through 50-55.",
+        "Presentation guidance for disclosures is included in Section 255-10-50."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": null,
+            "summary": "The Changing Prices Topic provides guidance on reporting the effects of changing prices, or inflation, on financial statements of business entities. The reporting addresses both general inflation and price changes of certain assets.",
+            "paragraphs": [
+              {
+                "paragraph_id": "255-10-05-1",
+                "text": "The Changing Prices Topic provides guidance on reporting the effects of changing prices, or inflation, on financial statements of business entities. The reporting addresses both general inflation and price changes of certain assets.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "changing prices",
+                  "inflation",
+                  "financial statements"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "255-10-50-34",
+      "relationship_type": "related",
+      "description": "Nominal dollar measurements may be used for all elements of net assets other than inventory and property, plant, and equipment.",
+      "specific_paragraphs": [
+        "255-10-50-34"
+      ]
+    },
+    {
+      "referenced_topic": "255-10-50-39",
+      "relationship_type": "related",
+      "description": "Nominal dollar measurements may be used for all elements of income from continuing operations other than cost of sales and depreciation.",
+      "specific_paragraphs": [
+        "255-10-50-39"
+      ]
+    },
+    {
+      "referenced_topic": "912-255-50-1",
+      "relationship_type": "related",
+      "description": "Guidance on supplementary information provided by contractors on the effects of changing prices when calculating the purchasing power gain or loss on net monetary items.",
+      "specific_paragraphs": null
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Consumer Price Index for All Urban Consumers",
+      "definition": "An index of price level changes affecting consumers generally, often used to measure changes in the general purchasing power of the monetary unit itself."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Current Cost-Constant Purchasing Power Accounting",
+      "definition": "A method of accounting based on measures of current cost or lower recoverable amount in units of currency, each of which has the same general purchasing power. For operations in which the dollar is the functional currency, the general purchasing power of the dollar is used and the Consumer Price Index for All Urban Consumers is the required measure of purchasing power. For operations in which the functional currency is other than the dollar, the general purchasing power of either the dollar or the functional currency is used (see paragraphs 255-10-50-45 through 50-47)."
+    },
+    {
+      "term": "Estimated Residual Value",
+      "definition": "The estimated fair value of the leased property at the end of the lease term."
+    },
+    {
+      "term": "Fair Value",
+      "definition": "The price that would be received to sell an asset or paid to transfer a liability in an market participants at the measurement date."
+    },
+    {
+      "term": "Historical Cost",
+      "definition": "The generally accepted method of accounting used in the primary financial statements that is based on measures of historical prices without restatement into units, each of which has the same general purchasing power."
+    },
+    {
+      "term": "Historical Cost-Constant Purchasing Power Accounting",
+      "definition": "A method of accounting based on measures of historical prices in units of a currency, each of which has the same general purchasing power."
+    },
+    {
+      "term": "Income from Continuing Operations",
+      "definition": "Income after applicable income taxes but excluding the results of discontinued operations, the cumulative effect of accounting changes, translation adjustments, purchasing power gains and losses on monetary items, and increases and decreases in the current cost or lower recoverable amount of nonmonetary assets and liabilities."
+    },
+    {
+      "term": "Income-Producing Real Estate",
+      "definition": "Properties that meet all of the following criteria: a. Cash flows can be directly associated with a long-term leasing agreement with unaffiliated parties. b. The property is being operated. (It is not in a construction phase.) c. Future cash flows from the property are reasonably estimable. d. Ancillary services are not a significant part of the lease agreement. Hotels, which have occupancy rates and related cash flows that may fluctuate to a relatively large extent, do not meet the criteria for income-producing real estate."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lease Payments",
+      "definition": "See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessor."
+    },
+    {
+      "term": "Lease Receivable",
+      "definition": "A direct financing lease plus any amount that a lessor expects to derive from the underlying asset following the end of the lessee or any other third party unrelated to the lessor, measured on a discounted basis."
+    },
+    {
+      "term": "Lease Term",
+      "definition": "The noncancellable period for which a underlying asset, together with all of the following: a. Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option b. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option c. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor."
+    },
+    {
+      "term": "Lessee",
+      "definition": "An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessor",
+      "definition": "An entity that enters into a underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Leveraged Lease",
+      "definition": "From the perspective of a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date."
+    },
+    {
+      "term": "Market Participants",
+      "definition": "Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics: a. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms b. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary c. They are able to enter into a transaction for the asset or liability d. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so."
+    },
+    {
+      "term": "Mineral Resource Assets",
+      "definition": "Assets that are directly associated with and derive value from all minerals that are extracted from the earth. Such minerals include oil and gas, ores containing ferrous and nonferrous metals, coal, shale, geothermal steam, sulphur, salt, stone, phosphate, sand, and gravel. Mineral resource assets include mineral interests in properties, completed and uncompleted wells, and related equipment and facilities and other facilities required for purposes of extraction. This definition does not cover support equipment because that equipment is included in the property, plant, and equipment for which current cost measurements are required."
+    },
+    {
+      "term": "Monetary Assets",
+      "definition": "Money or a claim to receive a sum of money the amount of which is fixed or determinable without reference to future prices of specific goods or services."
+    },
+    {
+      "term": "Monetary Liability",
+      "definition": "An obligation to pay a sum of money the amount of which is fixed or determinable without reference to future prices of specific goods and services."
+    },
+    {
+      "term": "Motion Picture Films",
+      "definition": "All types of film, including feature films, television specials, television series, or similar products (including animated films and television programming) that are sold, licensed, or exhibited, whether produced on film, video tape, digital, or other video recording format."
+    },
+    {
+      "term": "Net Investment in the Lease",
+      "definition": "For a unguaranteed residual asset. For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit."
+    },
+    {
+      "term": "Orderly Transaction",
+      "definition": "A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale)."
+    },
+    {
+      "term": "Parity Adjustment",
+      "definition": "The effect of the difference between local and U.S. inflation for the year on net assets (that is, shareholders' equity) measured in nominal dollars. If only the differential rates of U.S. and local inflation are reflected in the exchange rates (parity), the parity adjustment and the translation adjustment net to zero. Therefore, the sum of the parity adjustment and the translation adjustment represents the effect of exchange rate changes in excess of (or less than) that needed to maintain purchasing power parity between the functional currency and the dollar."
+    },
+    {
+      "term": "Probable Reserves",
+      "definition": "Probable reserves are reserves for which quantity and grade and/or quality are computed from information similar to that used for proven reserves, but the sites for inspection, sampling, and measurement are farther apart or are otherwise less adequately spaced. The degree of assurance, although lower than that for proven (measured) reserves, is high enough to assume continuity between points of observation."
+    },
+    {
+      "term": "Proven Reserves",
+      "definition": "Proven reserves are reserves for which both of the following conditions are met: 1. Quantity is computed from dimensions revealed in outcrops, trenches, workings, or drill holes; grade and/or quality are computed from the results of detailed sampling. 2. The sites for inspection, sampling, and measurement are spaced so closely and the geologic character is so well defined that size, shape, depth, and mineral content of reserves are well established."
+    },
+    {
+      "term": "Purchasing Power Gain or Loss",
+      "definition": "The net gain or loss determined by restating in units of constant purchasing power the opening and closing balances of, and transactions in, monetary assets and liabilities."
+    },
+    {
+      "term": "Recoverable Amount",
+      "definition": "Current worth of the net amount of cash expected to be recoverable from the use or sale of an asset."
+    },
+    {
+      "term": "Related Parties",
+      "definition": "Related parties include: 1. Affiliates of the entity 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management 4. Principal owners of the entity and members of their immediate families 5. Management of the entity and members of their immediate families 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests."
+    },
+    {
+      "term": "Restate-Translate",
+      "definition": "An approach to converting current cost-nominal functional currency data of a foreign operation into units of constant purchasing power expressed in dollars. Using this approach, the current cost-nominal functional currency data are restated into units of constant purchasing power using a general price index for the foreign currency. After restatement into units of constant functional currency purchasing power, the current cost data are translated into dollars. This approach often necessitates a parity adjustment."
+    },
+    {
+      "term": "Sales-Type Lease",
+      "definition": "From the perspective of a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A."
+    },
+    {
+      "term": "Translate-Restate",
+      "definition": "An approach to converting current cost-nominal functional currency data of a foreign operation into units of constant purchasing power expressed in dollars. Using this approach, the current cost-nominal functional currency data are first translated into dollars and then restated into units of constant purchasing power using the Consumer Price Index for All Urban Consumers."
+    },
+    {
+      "term": "Underlying Asset",
+      "definition": "An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset."
+    },
+    {
+      "term": "Unguaranteed Residual Asset",
+      "definition": "The amount that a underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis."
+    },
+    {
+      "term": "Unguaranteed Residual Value",
+      "definition": "The estimated residual value of the leased property exclusive of any portion guaranteed by the lessee or by a third party unrelated to the lessor. A guarantee by a third party related to the lessee shall be considered a lessee guarantee. If the guarantor is related to the lessor, the residual value shall be considered as unguaranteed."
+    },
+    {
+      "term": "Value in Use",
+      "definition": "The amount determined by discounting the future cash flows (including the ultimate proceeds of disposal) expected to be derived from the use of an asset at an appropriate rate that allows for the risk of the activities concerned."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

@@ -1,0 +1,483 @@
+{
+  "document_metadata": {
+    "asc_topic": "210-20",
+    "topic_title": "Offsetting",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "FASB",
+    "superseded_guidance": [
+      "Accounting Standards Update No. 2013-11"
+    ],
+    "related_topics": [
+      "842-50",
+      "715-30",
+      "715-60",
+      "740-10",
+      "815-10-45-1 through 45-7",
+      "940-320",
+      "910-405",
+      "942-210-45-3A"
+    ],
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Balance Sheet Topic includes two Subtopics: Overall and Offsetting. The Overall Subtopic provides general guidance on classification of current assets and liabilities and working capital determination, while the Offsetting Subtopic provides criteria for offsetting amounts related to certain contracts and repurchase agreements. The balance sheet, also called statement of financial position, presents assets and liabilities classified logically to permit determination of working capital. Offsetting of assets and liabilities is generally improper except where a right of setoff exists, which involves only two parties and limited exceptions.",
+      "scope": "The guidance in the Overall Subtopic applies when preparing a classified balance sheet for financial accounting and reporting purposes and applies to all entities. The Offsetting Subtopic guidance applies to all entities but does not apply to derecognition or nonrecognition of assets and liabilities. Exceptions to the right of setoff principle are limited to specific practices permitted by certain Subtopics.",
+      "key_changes": [
+        "210-10-45-1 Amended by Accounting Standards Update No. 2016-01 on 01/05/2016",
+        "210-10-45-2 Amended by Accounting Standards Update No. 2012-04 on 10/01/2012",
+        "210-10-45-10 Amended by Accounting Standards Update No. 2012-04 on 10/01/2012",
+        "210-10-45-13 Amended by Accounting Standards Update No. 2016-13 on 06/16/2016",
+        "210-10-45-13 Added by Accounting Standards Update No. 2012-04 on 10/01/2012",
+        "210-10-S99-1 Amended by Accounting Standards Update No. 2019-07 on 07/26/2019",
+        "210-10-S99-1 Amended by Accounting Standards Update No. 2010-21 on 08/02/2010"
+      ],
+      "objectives": [
+        "Provide guidance on classification of current assets and liabilities and determination of working capital.",
+        "Provide criteria for offsetting amounts related to certain contracts and repurchase agreements.",
+        "Ensure proper presentation of assets and liabilities in the balance sheet or statement of financial position."
+      ],
+      "core_principles": [
+        "Balance sheet and statement of financial position are interchangeable terms.",
+        "Offsetting of assets and liabilities is improper except where a right of setoff exists involving only two parties.",
+        "Exceptions to offsetting are limited to specific practices permitted by other Subtopics."
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. Does not summarize the accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "210-10-05",
+            "subsection_title": "Overall Subtopic Overview",
+            "summary": "Describes the balance sheet, classification of current assets and liabilities, and working capital determination.",
+            "paragraphs": [
+              {
+                "paragraph_id": "210-10-05-1",
+                "text": "The Balance Sheet Topic includes the following two Subtopics: a. Overall b. Offsetting.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "Balance Sheet",
+                  "Overall",
+                  "Offsetting"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "210-10-05-2",
+                "text": "The balance sheet is commonly referred to as statement of financial position. For purposes of the Codification, both titles are interchangeable.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "balance sheet",
+                  "statement of financial position"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "210-10-05-4",
+                "text": "The Overall Subtopic provides general guidance on the classification of current assets and current liabilities and discusses the determination of working capital. The balance sheets of most entities show separate classifications of current assets and current liabilities (commonly referred to as classified balance sheets) permitting ready determination of working capital.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "current assets",
+                  "current liabilities",
+                  "working capital",
+                  "classified balance sheets"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "210-10-05-5",
+                "text": "Financial position, as it is reflected by the records and accounts from which the statement is prepared, is revealed in a presentation of the assets and liabilities of the entity. In the statements of manufacturing, trading, and service entities, these assets and liabilities are generally classified and segregated; if they are classified logically, summations or totals of the current or circulating or working assets (referred to as current assets) and of obligations currently payable (designated as current liabilities) will permit the ready determination of working capital.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "financial position",
+                  "current assets",
+                  "current liabilities",
+                  "working capital"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "210-10-05-6",
+                "text": "The ordinary operations of an entity involve a circulation of capital within the current asset group. Cash is expended for materials, finished parts, operating supplies, labor, and other factory services, and such expenditures are accumulated as inventory cost. Inventory costs, upon sale of the products to which such costs attach, are converted into trade receivables and ultimately into cash again.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "current asset group",
+                  "inventory cost",
+                  "trade receivables"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides disclosure requirements for various liabilities and equity items in the balance sheet or notes.",
+        "subsections": null
+      },
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the Offsetting Subtopic, including criteria for offsetting and presentation guidance.",
+        "subsections": [
+          {
+            "subsection_number": "210-20-05",
+            "subsection_title": "Offsetting Subtopic Overview",
+            "summary": "Criteria for offsetting amounts related to certain contracts and guidance on presentation. Offsetting is improper except if a right of setoff exists.",
+            "paragraphs": [
+              {
+                "paragraph_id": "210-20-05-1",
+                "text": "This Subtopic provides criteria for offsetting amounts related to certain contracts and provides guidance on presentation. It is a general principle of accounting that the offsetting of assets and liabilities in the balance sheet is improper except if a right of setoff exists.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "offsetting",
+                  "right of setoff"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "210-20-05-2",
+                "text": "The general principle that the offsetting of assets and liabilities is improper except where a right of setoff exists is usually thought of in the context of unconditional receivables from and payables to another party. That general principle also applies to conditional amounts recognized for contracts under which the amounts to be received or paid or items to be exchanged in the future depend on future interest rates, future exchange rates, future commodity prices, or other factors.",
+                "paragraph_type": "principle",
+                "key_terms": [
+                  "offsetting",
+                  "right of setoff",
+                  "unconditional receivables",
+                  "conditional amounts"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "210-20-05-3",
+            "subsection_title": "Repurchase and Reverse Repurchase Agreements",
+            "summary": "Repurchase agreements and reverse repurchase agreements accounted for as collateralized borrowings represent collateralized borrowing and lending transactions. This Subtopic addresses offsetting for such transactions.",
+            "paragraphs": [
+              {
+                "paragraph_id": "210-20-05-3",
+                "text": "As defined, repurchase agreements accounted for as collateralized borrowings and reverse repurchase agreements accounted for as collateralized borrowings represent collateralized borrowing and lending transactions. These transactions may involve a master netting agreement between the parties. This Subtopic addresses offsetting for such borrowing and lending transactions.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "repurchase agreements",
+                  "reverse repurchase agreements",
+                  "collateralized borrowings",
+                  "master netting agreement"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions) to which the guidance applies and exceptions.",
+        "subsections": [
+          {
+            "subsection_number": "210-20-15-1",
+            "subsection_title": "Entities",
+            "summary": "The guidance in this Subtopic applies to all entities.",
+            "paragraphs": [
+              {
+                "paragraph_id": "210-20-15-1",
+                "text": "The guidance in this Subtopic applies to all entities.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in this Subtopic applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "210-20-15-2",
+            "subsection_title": "Transactions",
+            "summary": "The guidance does not apply to derecognition or nonrecognition of assets and liabilities.",
+            "paragraphs": [
+              {
+                "paragraph_id": "210-20-15-2",
+                "text": "The guidance in this Subtopic does not apply to the following types of transactions and contract arrangements: a. The derecognition or nonrecognition of assets and liabilities. Derecognition by sale of an asset or extinguishment of a liability results in removal of a recognized asset or liability and generally results in the recognition of gain or loss. Although conceptually different, offsetting that results in a net amount of zero and derecognition with no gain or loss are indistinguishable in their effects on the statement of financial position. Likewise, not recognizing assets and liabilities of the same amount in financial statements achieves similar reported results.",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "derecognition",
+                  "nonrecognition"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "210-20-15-3",
+            "subsection_title": "Other Considerations",
+            "summary": "Exceptions to the general principle of right of setoff are limited to practices specifically permitted by certain Subtopics.",
+            "paragraphs": [
+              {
+                "paragraph_id": "210-20-15-3",
+                "text": "The general principle of a right of setoff involves only two parties, and exceptions to that general principle shall be limited to practices specifically permitted by the Subtopics listed in this paragraph. Various accounting Subtopics specify accounting treatments in circumstances that result in offsetting or in a presentation in a statement of financial position that is similar to the effect of offsetting. The guidance in this Subtopic does not modify the accounting treatment in the particular circumstances prescribed by any of the following Subtopics: a. Subtopic 842-50 (leveraged leases) b. Subtopic 715-30 (accounting for pension plan assets and liabilities) c. Subtopic 715-60 (accounting for plan assets and liabilities) d. Subtopic 740-10 (net tax asset or liability amounts reported) dd. Paragraphs 815-10-45-1 through 45-7 (derivative instruments with the right to reclaim cash collateral or the obligation to return cash collateral) e. Subtopics 940-320 (trade date accounting for trading portfolio positions) and 910-405 (advances received on construction contracts) f. Paragraph 942-210-45-3A (reciprocal balances with other banks).",
+                "paragraph_type": "exception",
+                "key_terms": [
+                  "right of setoff",
+                  "exceptions"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "842-50",
+                  "715-30",
+                  "715-60",
+                  "740-10",
+                  "815-10-45-1 through 45-7",
+                  "940-320",
+                  "910-405",
+                  "942-210-45-3A"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "310",
+      "relationship_type": "related",
+      "description": "Guidance on the presentation of unearned discounts (other than cash or quantity discounts and the like), finance charges, and interest.",
+      "specific_paragraphs": [
+        "310-10-45-8"
+      ]
+    },
+    {
+      "referenced_topic": "605",
+      "relationship_type": "related",
+      "description": "Guidance on the presentation of provisions for losses on contracts.",
+      "specific_paragraphs": [
+        "605-35-45-2"
+      ]
+    },
+    {
+      "referenced_topic": "852",
+      "relationship_type": "related",
+      "description": "Guidance on the presentation of liabilities subject to compromise and those not subject to compromise during reorganization proceedings.",
+      "specific_paragraphs": [
+        "852-10-45-4"
+      ]
+    },
+    {
+      "referenced_topic": "926",
+      "relationship_type": "related",
+      "description": "Guidance on the presentation of film costs in a classified balance sheet.",
+      "specific_paragraphs": [
+        "926-20-45-1"
+      ]
+    },
+    {
+      "referenced_topic": "715",
+      "relationship_type": "related",
+      "description": "Classification of asset representing the overfunded status of a single-employer defined benefit pension or postretirement plan.",
+      "specific_paragraphs": [
+        "715-20-45"
+      ]
+    },
+    {
+      "referenced_topic": "470",
+      "relationship_type": "related",
+      "description": "Guidance on various debt transactions that may result in current liability classification.",
+      "specific_paragraphs": [
+        "470-10-45"
+      ]
+    },
+    {
+      "referenced_topic": "715-30",
+      "relationship_type": "related",
+      "description": "For guidance on accounting for pension plan assets and liabilities, see Subtopic 715-30.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "715-60",
+      "relationship_type": "related",
+      "description": "For guidance on accounting for plan assets and liabilities, see Subtopic 715-60.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "740-10",
+      "relationship_type": "related",
+      "description": "For guidance on amounts reported for net tax assets or liabilities, see Subtopic 740-10.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "815-10-45",
+      "relationship_type": "related",
+      "description": "For guidance on derivative instruments with the right to reclaim cash collateral or the obligation to return cash collateral, see paragraphs 815-10-45-1 through 45-7.",
+      "specific_paragraphs": [
+        "815-10-45-1",
+        "815-10-45-7"
+      ]
+    },
+    {
+      "referenced_topic": "842-50-35",
+      "relationship_type": "related",
+      "description": "For guidance on leveraged leases, see Section 842-50-35.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "910-405",
+      "relationship_type": "related",
+      "description": "For guidance on advances received on construction contracts, see Subtopic 910-405.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "940-320",
+      "relationship_type": "related",
+      "description": "For guidance on trade date accounting for trading portfolio positions, see Subtopic 940-320.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "942-210-45-3A",
+      "relationship_type": "related",
+      "description": "For guidance on reciprocal balances with other banks, see paragraph 942-210-45-3A.",
+      "specific_paragraphs": [
+        "942-210-45-3A"
+      ]
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Cash Equivalents",
+      "definition": "Cash equivalents are short-term, highly liquid investments that have both of the following characteristics: 1. Readily convertible to known amounts of cash 2. So near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Generally, only investments with original maturities of three months or less qualify under that definition. Original maturity means original maturity to the entity holding the investment. For example, both a three-month U.S. Treasury bill and a three-year U.S. Treasury note purchased three months from maturity qualify as cash equivalents. However, a Treasury note purchased three years ago does not become a cash equivalent when its remaining maturity is three months. Examples of items commonly considered to be cash equivalents are Treasury bills, commercial paper, money market funds, and federal funds sold (for an entity with banking operations)."
+    },
+    {
+      "term": "Current Assets",
+      "definition": "Current assets is used to designate cash and other assets or resources commonly identified as those that are reasonably expected to be realized in cash or sold or consumed during the normal operating cycle of the business. See paragraphs 210-10-45-1 through 45-4."
+    },
+    {
+      "term": "Current Liabilities",
+      "definition": "Current liabilities is used principally to designate obligations whose liquidation is reasonably expected to require the use of existing resources properly classifiable as current assets, or the creation of other current liabilities. See paragraphs 210-10-45-5 through 45-12."
+    },
+    {
+      "term": "Operating Cycle",
+      "definition": "The average time intervening between the acquisition of materials or services and the final cash realization."
+    },
+    {
+      "term": "Short-Term Obligations",
+      "definition": "Short-term obligations are those that are scheduled to mature within one year after the date of an entity's balance sheet or, for those entities that use the operating cycle concept of working capital described in paragraphs 210-10-45-3 and 210-10-45-7, within an entity's operating cycle that is longer than one year."
+    },
+    {
+      "term": "Working Capital",
+      "definition": "Working capital (also called net working capital) is represented by the excess of current assets over current liabilities and identifies the relatively liquid portion of total entity capital that constitutes a margin or buffer for meeting obligations within the ordinary operating cycle of the entity."
+    },
+    {
+      "term": "Cash",
+      "definition": "Consistent with common usage, cash includes not only currency on hand but demand deposits with banks or other financial institutions. Cash also includes other kinds of accounts that have the general characteristics of demand deposits in that the customer may deposit additional funds at any time and also effectively may withdraw funds at any time without prior notice or penalty. All charges and credits to those accounts are cash receipts or payments to both the entity owning the account and the bank holding it. For example, a bank's granting of a loan by crediting the proceeds to a customer's demand deposit account is a cash payment by the bank and a cash receipt of the customer when the entry is made."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Daylight Overdraft",
+      "definition": "Daylight overdraft or other intraday credit refers to the accommodation in the banking arrangements that allows transactions to be completed even if there is insufficient cash on deposit during the day provided there is sufficient cash to cover the net cash requirement at the end of the day. That accommodation may be through a credit facility, including a credit facility for which a fee is charged, or from a deposit of collateral."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessee",
+      "definition": "An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessor",
+      "definition": "An entity that enters into a underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Leveraged Lease",
+      "definition": "From the perspective of a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date."
+    },
+    {
+      "term": "Repurchase Agreement Accounted for as a Collateralized Borrowing",
+      "definition": "A repurchase agreement (repo) refers to a transaction in which a seller-borrower of securities sells those securities to a buyer-lender with an agreement to repurchase them at a stated price plus interest at a specified date or in specified circumstances. A repurchase agreement accounted for as a collateralized borrowing is a repo that does not qualify for sale accounting under Topic 860. The payable under a repurchase agreement accounted for as a collateralized borrowing refers to the amount of the seller-borrower's obligation recognized for the future repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a reverse repo."
+    },
+    {
+      "term": "Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing",
+      "definition": "A reverse repurchase agreement accounted for as a collateralized borrowing (also known as a reverse repo) refers to a transaction that is accounted for as a collateralized lending in which a buyer-lender buys securities with an agreement to resell them to the seller-borrower at a stated price plus interest at a specified date or in specified circumstances. The receivable under a reverse repurchase agreement accounted for as a collateralized borrowing refers to the amount due from the seller-borrower for the repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a repo."
+    },
+    {
+      "term": "Right of Setoff",
+      "definition": "A right of setoff is a debtor's legal right, by contract or otherwise, to discharge all or a portion of the debt owed to another party by applying against the debt an amount that the other party owes to the debtor."
+    },
+    {
+      "term": "Securities Custodian",
+      "definition": "The securities custodian for a securities transfer system may be the bank or financial institution that executes securities transfers over the securities transfer system, and book entry securities exist only in electronic form on the records of the transfer system operator for each entity that has a security account with the transfer system operator."
+    },
+    {
+      "term": "Underlying Asset",
+      "definition": "An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}

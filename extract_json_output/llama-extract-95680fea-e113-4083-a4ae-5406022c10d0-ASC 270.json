@@ -1,0 +1,1420 @@
+{
+  "document_metadata": {
+    "asc_topic": "270",
+    "topic_title": "Interim Reporting",
+    "version": "",
+    "effective_date": "",
+    "last_updated": "",
+    "source_authority": "Other",
+    "superseded_guidance": null,
+    "related_topics": null,
+    "transition_guidance": null
+  },
+  "codification_structure": {
+    "overview": {
+      "general": "The Interim Reporting Topic clarifies the application of accounting principles and reporting practices to interim financial information, including interim financial statements and summarized interim financial data of publicly traded companies issued for external reporting purposes. Interim financial information may include current data during a fiscal year on financial position, results of operations, comprehensive income, and cash flows. This information may be issued on a monthly or quarterly basis or at other intervals and may take the form of either complete financial statements or summarized financial data. Interim financial information often is provided for each interim period or on a cumulative year-to-date basis, or both, and for the corresponding periods of the preceding year. The determination of the results of operations on a meaningful basis for intervals of less than a full year presents inherent difficulties, such as seasonal fluctuations in revenues and heavy fixed costs.",
+      "scope": "The guidance in the Interim Reporting Topic applies to all entities whenever they issue interim financial information. It provides guidance on the applicability of generally accepted accounting principles (GAAP) to interim financial information and indicates types of disclosures necessary to report on a meaningful basis for a period of less than a full year. This Topic is not intended to deal with unresolved matters of accounting related to annual reporting.",
+      "key_changes": [
+        
+      ],
+      "objectives": [
+        "Provide guidance on accounting and disclosure issues peculiar to interim reporting.",
+        "Set forth minimum disclosure requirements for interim financial reports of publicly traded companies."
+      ],
+      "core_principles": [
+        
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "05",
+        "section_title": "Overview and Background",
+        "section_type": "Overview",
+        "summary": "Provides overview and background material for the guidance contained in the Subtopic. It does not provide historical background or due process. It may contain material useful to understand typical situations addressed by the standards but does not summarize accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "05-1",
+            "subsection_title": "General",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-05-1",
+                "text": "The Interim Reporting Topic clarifies the application of accounting principles and reporting practices to interim financial information, including interim financial statements and summarized interim financial data of publicly traded companies issued for external reporting purposes. Interim financial information may include current data during a fiscal year on financial position, results of operations, comprehensive income, and cash flows. This information may be issued on a monthly or quarterly basis or at other intervals and may take the form of either complete financial statements or summarized financial data. Interim financial information often is provided for each interim period or on a cumulative year-to-date basis, or both, and for the corresponding periods of the preceding year.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "interim financial information",
+                  "publicly traded companies",
+                  "external reporting",
+                  "financial position",
+                  "results of operations",
+                  "comprehensive income",
+                  "cash flows"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              },
+              {
+                "paragraph_id": "270-10-05-2",
+                "text": "The determination of the results of operations on a meaningful basis for intervals of less than a full year presents inherent difficulties. The revenues of some entities fluctuate widely among interim periods because of seasonal factors, while in other entities heavy fixed costs incurred.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "results of operations",
+                  "seasonal factors",
+                  "fixed costs"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "10",
+        "section_title": "Objectives",
+        "section_type": "Overview",
+        "summary": "Provides the high-level objectives that the Subtopic is intended to accomplish or attain. It does not summarize or discuss the main principles of accounting and reporting requirements.",
+        "subsections": [
+          {
+            "subsection_number": "10-1",
+            "subsection_title": "General",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-10-1",
+                "text": "The principal objectives of the Interim Reporting Topic are to provide guidance on accounting and disclosure issues peculiar to interim reporting and to set forth minimum disclosure requirements for interim financial reports of publicly traded companies.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "objectives",
+                  "interim reporting",
+                  "disclosure requirements",
+                  "publicly traded companies"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "section_title": "Scope and Scope Exceptions",
+        "section_type": "Overview",
+        "summary": "Outlines the items (entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. May contain definitional or other text to frame the scope.",
+        "subsections": [
+          {
+            "subsection_number": "15-1",
+            "subsection_title": "General Overall Guidance",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-15-1",
+                "text": "The Scope Section of the Overall Subtopic establishes the pervasive scope for the Interim Reporting Topic.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "scope",
+                  "Interim Reporting Topic"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-2",
+            "subsection_title": "Entities",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-15-2",
+                "text": "The guidance in the Interim Reporting Topic applies to all entities.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "all entities"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The guidance in the Interim Reporting Topic applies to all entities.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "15-3",
+            "subsection_title": "Other Considerations",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-15-3",
+                "text": "The guidance in the Interim Reporting Topic applies whenever entities issue interim financial information. It provides guidance on the applicability of generally accepted accounting principles (GAAP) to interim financial information and indicates types of disclosures necessary to report on a meaningful basis for a period of less than a full year. This Topic is not intended to deal with unresolved matters of accounting related to annual reporting.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "interim financial information",
+                  "GAAP",
+                  "disclosures",
+                  "annual reporting"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "45",
+        "section_title": "Other Presentation Matters",
+        "section_type": "Presentation",
+        "summary": "Addresses presentation matters including seasonal revenue, costs, or expenses; unusual or infrequent items and disposals of components; accounting changes in interim periods; and related disclosures.",
+        "subsections": [
+          {
+            "subsection_number": "45-11",
+            "subsection_title": "Seasonal Revenue, Costs, or Expenses",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-11",
+                "text": "Revenues of certain entities are subject to material seasonal variations. To avoid the possibility that interim results with material seasonal variations may be taken as fairly indicative of the estimated results for a full fiscal year, such entities shall disclose the seasonal nature of their activities, and consider supplementing their interim reports with information for 12-month periods ended at the interim date for the current and preceding years.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "seasonal variations",
+                  "interim results",
+                  "disclosure",
+                  "12-month periods"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities with material seasonal variations in revenues shall disclose the seasonal nature of their activities and consider supplementing interim reports with information for 12-month periods ended at the interim date for the current and preceding years.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "Revenues are subject to material seasonal variations"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "material seasonal variations"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-11A",
+            "subsection_title": "Unusual or Infrequent Items and Disposals of Components",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-11A",
+                "text": "Effects of disposals of a component of an entity and unusual or infrequently occurring transactions and events that are material with respect to the operating results of the interim period shall be reported separately. Gains or losses from disposal of a component of an entity and unusual or infrequently occurring items shall not be prorated over the balance of the fiscal year.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "disposals of a component",
+                  "unusual or infrequently occurring transactions",
+                  "material",
+                  "reported separately"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Effects of disposals of a component of an entity and unusual or infrequently occurring transactions and events that are material with respect to the operating results of the interim period shall be reported separately.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "material with respect to the operating results of the interim period"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Gains or losses from disposal of a component of an entity and unusual or infrequently occurring items shall not be prorated over the balance of the fiscal year.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "material with respect to the operating results of the interim period"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-12",
+            "subsection_title": "Accounting Changes in Interim Periods",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-12",
+                "text": "Each report of interim financial information shall indicate any change in accounting principles or practices from those applied in any of the following: a. The comparable interim period of the prior annual period b. The preceding interim periods in the current annual period c. The prior annual report.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "change in accounting principles",
+                  "change in practices",
+                  "interim financial information"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Each report of interim financial information shall indicate any change in accounting principles or practices from those applied in the comparable interim period of the prior annual period, the preceding interim periods in the current annual period, or the prior annual report.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-13",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-13",
+                "text": "Changes in an interim or annual accounting practice or policy made in an interim period shall be reported in the period in which the change is made, in accordance with the provisions of Topic 250.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "change in accounting practice",
+                  "change in policy",
+                  "interim period",
+                  "Topic 250"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Changes in an interim or annual accounting practice or policy made in an interim period shall be reported in the period in which the change is made, in accordance with the provisions of Topic 250.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "Topic 250"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-14",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-14",
+                "text": "The effect of a change in accounting estimate, including a change in the estimated effective annual tax rate, shall be accounted for in the period in which the change in estimate is made. No restatement of previously reported interim information shall be made for changes in estimates, but the effect on earnings of a change in estimate made in a current interim period shall be reported in the current and subsequent interim periods, if material in relation to any period presented and shall continue to be reported in the interim financial information of the subsequent year for as many periods as necessary to avoid misleading comparisons. Such disclosure shall conform with paragraph 250-10-50-4.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "change in accounting estimate",
+                  "change in estimated effective annual tax rate",
+                  "restatement",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The effect of a change in accounting estimate, including a change in the estimated effective annual tax rate, shall be accounted for in the period in which the change in estimate is made.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "No restatement of previously reported interim information shall be made for changes in estimates.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The effect on earnings of a change in estimate made in a current interim period shall be reported in the current and subsequent interim periods, if material in relation to any period presented and shall continue to be reported in the interim financial information of the subsequent year for as many periods as necessary to avoid misleading comparisons.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "if material in relation to any period presented"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Such disclosure shall conform with paragraph 250-10-50-4.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "250-10-50-4"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-15",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-15",
+                "text": "Whenever possible, entities should adopt any accounting changes during the first interim period of a fiscal year. Changes in accounting principles and practices adopted after the first interim period in a fiscal year tend to obscure operating results and complicate disclosure of interim financial information.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "accounting changes",
+                  "first interim period",
+                  "disclosure"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Entities should adopt any accounting changes during the first interim period of a fiscal year whenever possible.",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-16",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-16",
+                "text": "As indicated in paragraph 250-10-45-27, in determining materiality for the purpose of reporting the correction of an error, amounts shall be related to the estimated income for the full fiscal year and also to the effect on the trend of earnings. Changes that are material with respect to an interim period but not material with respect to the estimated income for the full fiscal year or to the trend of earnings shall be separately disclosed in the interim period.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "materiality",
+                  "correction of an error",
+                  "estimated income",
+                  "trend of earnings"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Amounts shall be related to the estimated income for the full fiscal year and also to the effect on the trend of earnings in determining materiality for the purpose of reporting the correction of an error.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Changes that are material with respect to an interim period but not material with respect to the estimated income for the full fiscal year or to the trend of earnings shall be separately disclosed in the interim period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "material with respect to an interim period but not material with respect to the estimated income for the full fiscal year or to the trend of earnings"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "250-10-45-27"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-17",
+            "subsection_title": "Adjustments Related to Prior Interim Periods of the Current Fiscal Year",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-17",
+                "text": "As indicated in paragraph 250-10-45-25, an adjustment related to prior interim periods of the current fiscal year is an adjustment or settlement of litigation or similar claims, of income taxes (except for the effects of retroactive tax legislation), of renegotiation proceedings, or of utility revenue under rate-making processes provided that the adjustment or settlement meets all of the following criteria: 1. The effect of the adjustment or settlement is material in relation to income from continuing operations of the current fiscal year or in relation to the trend of income from continuing operations or is material by other appropriate criteria. 2. All or part of the adjustment or settlement can be specifically identified with and is directly related to business activities of specific prior interim periods of the current fiscal year. 3. The amount of the adjustment or settlement could not be reasonably estimated prior to the current interim period but becomes reasonably estimable in the current interim period.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "adjustment related to prior interim periods",
+                  "settlement",
+                  "litigation",
+                  "income taxes",
+                  "material"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "250-10-45-25"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-18",
+            "subsection_title": null,
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-18",
+                "text": "As indicated in paragraph 250-10-45-26, if an item of profit or loss occurs in other than the first interim period of the entity's fiscal year and all or a part of the item of profit or loss is an adjustment related to prior interim periods of the current fiscal year, as defined in the preceding paragraph, the item shall be reported as follows: 1. The portion of the item that is directly related to business activities of the entity during the current interim period, if any, shall be included in the determination of net income for that period. 2. Prior interim periods of the current fiscal year shall be restated to include the portion of the item that is directly related to business activities of the entity during each prior interim period in the determination of net income for that period. 3. The portion of the item that is directly related to business activities of the entity during prior fiscal years, if any, shall be included in the determination of net income of the first interim period of the current fiscal year.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "profit or loss",
+                  "adjustment related to prior interim periods",
+                  "restated"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "The portion of the item that is directly related to business activities of the entity during the current interim period, if any, shall be included in the determination of net income for that period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "Prior interim periods of the current fiscal year shall be restated to include the portion of the item that is directly related to business activities of the entity during each prior interim period in the determination of net income for that period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "The portion of the item that is directly related to business activities of the entity during prior fiscal years, if any, shall be included in the determination of net income of the first interim period of the current fiscal year.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": [
+                  "250-10-45-26"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "45-19",
+            "subsection_title": "Guidance Related to Presentation of Other Topics at Interim Dates",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-45-19",
+                "text": "The following may not represent all references to interim reporting: 1. For accounting changes, see paragraphs 250-10-45-14 through 45-16. 2. For comprehensive income, see paragraph 220-10-45-18.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "interim reporting",
+                  "accounting changes",
+                  "comprehensive income"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "250-10-45-14",
+                  "250-10-45-15",
+                  "250-10-45-16",
+                  "220-10-45-18"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "50",
+        "section_title": "Disclosure",
+        "section_type": "Disclosure",
+        "summary": "Provides disclosure requirements and guidance for interim financial information of publicly traded companies and other entities, including summarized financial data, accounting changes, costs and expenses, and specific matters such as seasonal results, business combinations, and acquisitions by not-for-profit entities.",
+        "subsections": [
+          {
+            "subsection_number": "50-1",
+            "subsection_title": "General Disclosure of Summarized Interim Financial Data by Publicly Traded Companies",
+            "summary": null,
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-1",
+                "text": "Many publicly traded companies report summarized financial information at periodic interim dates in considerably less detail than that provided in annual financial statements. While this information provides more timely information than would result if complete financial statements were issued at the end of each interim period, the timeliness of presentation may be partially offset by a reduction in detail in the information provided. As a result, certain guides as to minimum disclosure are desirable. (It should be recognized that the minimum disclosures of summarized interim financial data required of publicly traded companies do not constitute a fair presentation of financial position and results of operations in conformity with generally accepted accounting principles [GAAP].) If publicly traded companies report summarized financial information at interim dates (including reports on fourth quarters), the following data should be reported, as a minimum: a. Sales or gross revenues, provision for income taxes, net income, and comprehensive income b. Basic and diluted earnings per share data for each period presented, determined in accordance with the provisions of Topic 260 c. Seasonal revenue, costs, or expenses (see paragraph 270-10-45-11)",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "summarized financial information",
+                  "interim dates",
+                  "minimum disclosure",
+                  "publicly traded companies"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If publicly traded companies report summarized financial information at interim dates, the following data should be reported, as a minimum: a. Sales or gross revenues, provision for income taxes, net income, and comprehensive income b. Basic and diluted earnings per share data for each period presented, determined in accordance with the provisions of Topic 260 c. Seasonal revenue, costs, or expenses (see paragraph 270-10-45-11)",
+                    "mandatory_language": [
+                      "should"
+                    ],
+                    "conditions": [
+                      "publicly traded companies report summarized financial information at interim dates"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "publicly traded companies report summarized financial information at interim dates"
+                ],
+                "cross_references": [
+                  "Topic 260",
+                  "270-10-45-11"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-1A",
+            "subsection_title": null,
+            "summary": "Requires public business entities, certain not-for-profits, and employee benefit plans to disclose information about revenue from contracts with customers consistent with Topic 606.",
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-1A",
+                "text": "Consistent with paragraph 270-10-50-1, a public business entity, a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the Securities and Exchange Commission, shall disclose all of the following information about revenue from contracts with customers consistent with the guidance in Topic 606: 1. A disaggregation of revenue for the period, see paragraphs 606-10-50-5 through 50-6 and paragraphs 606-10-55-89 through 55-91.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "public business entity",
+                  "not-for-profit entity",
+                  "employee benefit plan",
+                  "revenue",
+                  "contracts with customers",
+                  "Topic 606",
+                  "disaggregation of revenue"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Shall disclose all of the following information about revenue from contracts with customers consistent with the guidance in Topic 606: A disaggregation of revenue for the period.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "public business entity",
+                      "not-for-profit entity with traded securities",
+                      "employee benefit plan filing with SEC"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "public business entity",
+                  "not-for-profit entity with traded securities",
+                  "employee benefit plan filing with SEC"
+                ],
+                "cross_references": [
+                  "270-10-50-1",
+                  "606-10-50-5",
+                  "606-10-50-6",
+                  "606-10-55-89",
+                  "606-10-55-91"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-1B",
+            "subsection_title": null,
+            "summary": "Costs and expenses incurred in an interim period that cannot be readily identified with other periods shall be charged to the interim period in which incurred. Disclosure is required unless comparable items are included in both current and prior periods.",
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-1B",
+                "text": "Costs and expenses incurred in an interim period that cannot be readily identified with the activities or benefits of other interim periods shall be charged to the interim period in which incurred. Disclosure in the notes to financial statements shall be made as to the nature and amount of such costs unless items of a comparable nature are included in both the current interim period and in the corresponding interim period of the preceding year. (See paragraph 270-10-45-8(b).)",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "costs and expenses",
+                  "interim period",
+                  "disclosure",
+                  "financial statements"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Costs and expenses incurred in an interim period that cannot be readily identified with the activities or benefits of other interim periods shall be charged to the interim period in which incurred. Disclosure in the notes to financial statements shall be made as to the nature and amount of such costs unless items of a comparable nature are included in both the current interim period and in the corresponding interim period of the preceding year.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "costs and expenses cannot be readily identified with other periods"
+                    ],
+                    "exceptions": [
+                      "unless items of a comparable nature are included in both the current interim period and in the corresponding interim period of the preceding year"
+                    ]
+                  }
+                ],
+                "conditions": [
+                  "costs and expenses cannot be readily identified with other periods"
+                ],
+                "cross_references": [
+                  "270-10-45-8(b)"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-2",
+            "subsection_title": null,
+            "summary": "If interim financial data and disclosures are not separately reported for the fourth quarter, certain disclosures are required in the annual report.",
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-2",
+                "text": "If interim financial data and disclosures are not separately reported for the fourth quarter, users of the interim financial information often make inferences about that quarter by subtracting data based on the third quarter interim report from the annual results. In the absence of a separate fourth quarter report or disclosure of the results (as outlined in the preceding paragraph) for that quarter in the annual report, disposals of components of an entity and unusual or infrequently occurring items recognized in the fourth quarter, as well as the aggregate effect of year-end adjustments that are material to the results of that quarter (see paragraphs 270-10-05-2 and 270-10-45-10) shall be disclosed in the annual report in a note to the annual financial statements. If a publicly traded company that regularly reports interim information makes an accounting change during the fourth quarter of its fiscal year and does not report the data specified by the preceding paragraph in a separate fourth quarter report or in its annual report, the disclosures about the effect of the accounting change on interim periods that are required by paragraphs 270-10-45-12 through 45-14 or by paragraph 250-10-45-15, as appropriate, shall be made in a note to the annual financial statements for the fiscal year in which the change is made.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "interim financial data",
+                  "fourth quarter",
+                  "annual report",
+                  "disclosures",
+                  "disposals of components",
+                  "unusual or infrequently occurring items",
+                  "year-end adjustments",
+                  "accounting change"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Disposals of components of an entity and unusual or infrequently occurring items recognized in the fourth quarter, as well as the aggregate effect of year-end adjustments that are material to the results of that quarter, shall be disclosed in the annual report in a note to the annual financial statements.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "interim financial data and disclosures are not separately reported for the fourth quarter"
+                    ],
+                    "exceptions": null
+                  },
+                  {
+                    "requirement_text": "If a publicly traded company that regularly reports interim information makes an accounting change during the fourth quarter of its fiscal year and does not report the data specified by the preceding paragraph in a separate fourth quarter report or in its annual report, the disclosures about the effect of the accounting change on interim periods that are required by paragraphs 270-10-45-12 through 45-14 or by paragraph 250-10-45-15, as appropriate, shall be made in a note to the annual financial statements for the fiscal year in which the change is made.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "publicly traded company",
+                      "accounting change during the fourth quarter",
+                      "does not report the data specified by the preceding paragraph"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "interim financial data and disclosures are not separately reported for the fourth quarter"
+                ],
+                "cross_references": [
+                  "270-10-05-2",
+                  "270-10-45-10",
+                  "270-10-45-12",
+                  "270-10-45-14",
+                  "250-10-45-15"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-3",
+            "subsection_title": null,
+            "summary": "Disclosure of the impact of the financial results for interim periods of certain matters is desirable for as many subsequent periods as necessary to keep the reader fully informed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-3",
+                "text": "Disclosure of the impact of the financial results for interim periods of the matters discussed in paragraphs 270-10-45-12 through 45-16 and 270-10-50-5 through 50-6 is desirable for as many subsequent periods as necessary to keep the reader fully informed. There is a presumption that users of summarized interim financial data will have read the latest published annual report, including the financial disclosures required by generally accepted accounting principles (GAAP) and management's commentary concerning the annual financial results, and that the summarized interim data will be viewed in that context. In this connection, management is encouraged to provide commentary relating to the effects of significant events upon the interim financial results.",
+                "paragraph_type": "guidance",
+                "key_terms": [
+                  "disclosure",
+                  "interim periods",
+                  "financial results",
+                  "subsequent periods",
+                  "annual report",
+                  "management commentary"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": [
+                  "270-10-45-12",
+                  "270-10-45-16",
+                  "270-10-50-5",
+                  "270-10-50-6"
+                ],
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-4",
+            "subsection_title": null,
+            "summary": "Publicly traded companies are encouraged to publish balance sheet and cash flow data at interim dates. If not presented, significant changes since the last reporting period with respect to certain items shall be disclosed.",
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-4",
+                "text": "Publicly traded companies are encouraged to publish balance sheet and cash flow data at interim dates since these data often assist users of the interim financial information in their understanding and interpretation of the income data reported. If condensed interim balance sheet information or cash flow data are not presented at interim reporting dates, significant changes since the last reporting period with respect to liquid assets, net working capital, long-term liabilities, or stockholders' equity shall be disclosed.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "publicly traded companies",
+                  "balance sheet",
+                  "cash flow data",
+                  "interim dates",
+                  "significant changes",
+                  "liquid assets",
+                  "net working capital",
+                  "long-term liabilities",
+                  "stockholders' equity"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "If condensed interim balance sheet information or cash flow data are not presented at interim reporting dates, significant changes since the last reporting period with respect to liquid assets, net working capital, long-term liabilities, or stockholders' equity shall be disclosed.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": [
+                      "condensed interim balance sheet information or cash flow data are not presented at interim reporting dates"
+                    ],
+                    "exceptions": null
+                  }
+                ],
+                "conditions": [
+                  "condensed interim balance sheet information or cash flow data are not presented at interim reporting dates"
+                ],
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "50-5",
+            "subsection_title": null,
+            "summary": "Matters such as unusual seasonal results, business combinations, and acquisitions by not-for-profit entities shall be disclosed to provide information needed for a proper understanding of interim financial reports.",
+            "paragraphs": [
+              {
+                "paragraph_id": "270-10-50-5",
+                "text": "Matters such as unusual seasonal results, business combinations, and acquisitions by not-for-profit entities shall be disclosed to provide information needed for a proper understanding of interim financial reports.",
+                "paragraph_type": "requirement",
+                "key_terms": [
+                  "unusual seasonal results",
+                  "business combinations",
+                  "acquisitions",
+                  "not-for-profit entities",
+                  "disclosure",
+                  "interim financial reports"
+                ],
+                "requirements": [
+                  {
+                    "requirement_text": "Matters such as unusual seasonal results, business combinations, and acquisitions by not-for-profit entities shall be disclosed to provide information needed for a proper understanding of interim financial reports.",
+                    "mandatory_language": [
+                      "shall"
+                    ],
+                    "conditions": null,
+                    "exceptions": null
+                  }
+                ],
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "section_title": "Glossary",
+        "section_type": "Glossary",
+        "summary": "Contains definitions of terms used throughout the Codification relevant to interim reporting and related topics.",
+        "subsections": [
+          {
+            "subsection_number": "",
+            "subsection_title": "Acquiree",
+            "summary": "The business or businesses that the acquirer obtains control of in a business combination. Includes nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.",
+            "paragraphs": [
+              {
+                "paragraph_id": "",
+                "text": "The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "acquiree"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "",
+            "subsection_title": "Acquirer",
+            "summary": "The entity that obtains control of the acquiree. In a business combination involving a variable interest entity (VIE), the primary beneficiary is always the acquirer.",
+            "paragraphs": [
+              {
+                "paragraph_id": "",
+                "text": "The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "acquirer"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "",
+            "subsection_title": "Acquisition by a Not-for-Profit Entity",
+            "summary": "A transaction or event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements.",
+            "paragraphs": [
+              {
+                "paragraph_id": "",
+                "text": "A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "acquisition by a not-for-profit entity"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          },
+          {
+            "subsection_number": "",
+            "subsection_title": "Business Combination",
+            "summary": "A transaction or event in which an acquirer obtains control of one or more businesses. Includes true mergers or mergers of equals.",
+            "paragraphs": [
+              {
+                "paragraph_id": "",
+                "text": "A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations.",
+                "paragraph_type": "definition",
+                "key_terms": [
+                  "business combination"
+                ],
+                "requirements": null,
+                "conditions": null,
+                "cross_references": null,
+                "effective_date": null
+              }
+            ],
+            "examples": null
+          }
+        ]
+      }
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_topic": "250",
+      "relationship_type": "related",
+      "description": "References to accounting changes, corrections of errors, and related disclosure requirements. Disclosures about the effect of accounting changes on interim periods may be required by paragraph 250-10-45-15. For disclosures related to prior interim periods of the current fiscal year, see paragraph 250-10-50-11.",
+      "specific_paragraphs": [
+        "250-10-45-14",
+        "250-10-45-15",
+        "250-10-45-16",
+        "250-10-45-25",
+        "250-10-45-26",
+        "250-10-45-27",
+        "250-10-50-4",
+        "250-10-50-11"
+      ]
+    },
+    {
+      "referenced_topic": "220",
+      "relationship_type": "related",
+      "description": "Reference to comprehensive income presentation at interim dates. Disclosure requirements for changes in accumulated other comprehensive income.",
+      "specific_paragraphs": [
+        "220-10-45-18",
+        "220-10-45-14A",
+        "220-10-45-17",
+        "220-10-45-17A",
+        "220-10-45-17B"
+      ]
+    },
+    {
+      "referenced_topic": "260",
+      "relationship_type": "related",
+      "description": "Reference to earnings per share data for interim reporting.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "815-10-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for derivative instruments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "815-20-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for derivative instruments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "815-25-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for derivative instruments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "815-30-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for derivative instruments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "815-35-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for derivative instruments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "825-10-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for financial instruments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "320-10-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for investments in debt and equity securities.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "321-10-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for investments in equity securities.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "942-320-50",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for investments in debt and equity securities for financial institutions.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "326",
+      "relationship_type": "related",
+      "description": "Measurement of credit losses and impairments.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "326-20",
+      "relationship_type": "related",
+      "description": "Credit quality and allowance for credit losses for financial instruments measured at amortized cost.",
+      "specific_paragraphs": null
+    },
+    {
+      "referenced_topic": "310-10-50-42",
+      "relationship_type": "related",
+      "description": "Modifications of financing receivables.",
+      "specific_paragraphs": [
+        "310-10-50-42",
+        "310-10-50-43",
+        "310-10-50-44"
+      ]
+    },
+    {
+      "referenced_topic": "210-20-50-1",
+      "relationship_type": "related",
+      "description": "Gross and net information disclosure requirements.",
+      "specific_paragraphs": [
+        "210-20-50-1",
+        "210-20-50-2",
+        "210-20-50-3",
+        "210-20-50-4",
+        "210-20-50-5",
+        "210-20-50-6"
+      ]
+    },
+    {
+      "referenced_topic": "220-10-45-14A",
+      "relationship_type": "related",
+      "description": "Disclosure requirements for changes in accumulated other comprehensive income.",
+      "specific_paragraphs": [
+        "220-10-45-14A",
+        "220-10-45-17",
+        "220-10-45-17A",
+        "220-10-45-17B"
+      ]
+    },
+    {
+      "referenced_topic": "310-10-50-11",
+      "relationship_type": "related",
+      "description": "Carrying amount of foreclosed residential real estate property.",
+      "specific_paragraphs": [
+        "310-10-50-11"
+      ]
+    },
+    {
+      "referenced_topic": "310-10-50-35",
+      "relationship_type": "related",
+      "description": "Amount of loans in the process of foreclosure.",
+      "specific_paragraphs": [
+        "310-10-50-35"
+      ]
+    },
+    {
+      "referenced_topic": "606",
+      "relationship_type": "related",
+      "description": "Disclosure of revenue from contracts with customers consistent with the guidance in Topic 606 is required.",
+      "specific_paragraphs": [
+        "606-10-50-5",
+        "606-10-50-6",
+        "606-10-55-89",
+        "606-10-55-91",
+        "606-10-50-8(a)",
+        "606-10-50-8(b)",
+        "606-10-50-12A",
+        "606-10-50-13",
+        "606-10-50-15"
+      ]
+    },
+    {
+      "referenced_topic": "715-20-50-6 through 50-7",
+      "relationship_type": "related",
+      "description": "For pensions and other postretirement benefits, see paragraphs 715-20-50-6 through 50-7.",
+      "specific_paragraphs": [
+        "715-20-50-6",
+        "715-20-50-7"
+      ]
+    },
+    {
+      "referenced_topic": "280-10-50-39 and 280-10-55-16",
+      "relationship_type": "related",
+      "description": "For reportable segments, see paragraphs 280-10-50-39 and 280-10-55-16.",
+      "specific_paragraphs": [
+        "280-10-50-39",
+        "280-10-55-16"
+      ]
+    },
+    {
+      "referenced_topic": "932-235-50",
+      "relationship_type": "related",
+      "description": "For suspended well costs and interim reporting, see Section 932-235-50.",
+      "specific_paragraphs": [
+        "932-235-50"
+      ]
+    },
+    {
+      "referenced_topic": "275-10-15-3",
+      "relationship_type": "related",
+      "description": "For applicability of disclosure requirements related to risks and uncertainties, see paragraph 275-10-15-3.",
+      "specific_paragraphs": [
+        "275-10-15-3"
+      ]
+    },
+    {
+      "referenced_topic": "205-20-50-1 through 50-7",
+      "relationship_type": "related",
+      "description": "For discontinued operations, see paragraphs 205-20-50-1 through 50-7.",
+      "specific_paragraphs": [
+        "205-20-50-1",
+        "205-20-50-2",
+        "205-20-50-3",
+        "205-20-50-4",
+        "205-20-50-5",
+        "205-20-50-6",
+        "205-20-50-7"
+      ]
+    },
+    {
+      "referenced_topic": "360-10-50-3A",
+      "relationship_type": "related",
+      "description": "For disposals of individually significant components of an entity, see paragraph 360-10-50-3A.",
+      "specific_paragraphs": [
+        "360-10-50-3A"
+      ]
+    },
+    {
+      "referenced_topic": "405-50-50-4",
+      "relationship_type": "related",
+      "description": "For disclosure requirements on the amount of obligations outstanding under a supplier finance program, see paragraph 405-50-50-4.",
+      "specific_paragraphs": [
+        "405-50-50-4"
+      ]
+    },
+    {
+      "referenced_topic": "944-40-50-3 and 944-40-50-4E",
+      "relationship_type": "related",
+      "description": "For insurance entities that account for short-duration contracts, see paragraphs 944-40-50-3 and 944-40-50-4E.",
+      "specific_paragraphs": [
+        "944-40-50-3",
+        "944-40-50-4E"
+      ]
+    },
+    {
+      "referenced_topic": "944-30-50-2A through 50-2B, 944-40-50-6 through 50-7C, and 944-80-50-1 through 50-2",
+      "relationship_type": "related",
+      "description": "For insurance entities that account for long-duration contracts, see paragraphs 944-30-50-2A through 50-2B, 944-40-50-6 through 50-7C, and 944-80-50-1 through 50-2.",
+      "specific_paragraphs": [
+        "944-30-50-2A",
+        "944-30-50-2B",
+        "944-40-50-6",
+        "944-40-50-7",
+        "944-40-50-7A",
+        "944-40-50-7B",
+        "944-40-50-7C",
+        "944-80-50-1",
+        "944-80-50-2"
+      ]
+    },
+    {
+      "referenced_topic": "323-740-50-1 through 50-2",
+      "relationship_type": "related",
+      "description": "For disclosure requirements on investments that generate income tax credits and other income tax benefits from a tax credit program, see paragraphs 323-740-50-1 through 50-2.",
+      "specific_paragraphs": [
+        "323-740-50-1",
+        "323-740-50-2"
+      ]
+    },
+    {
+      "referenced_topic": "805-10-50, 805-20-50, 805-30-50, 805-740-50, and 958-805-50",
+      "relationship_type": "related",
+      "description": "For business combinations and combinations accounted for by not-for-profit entities, see Sections 805-10-50, 805-20-50, 805-30-50, 805-740-50, and 958-805-50.",
+      "specific_paragraphs": [
+        "805-10-50",
+        "805-20-50",
+        "805-30-50",
+        "805-740-50",
+        "958-805-50"
+      ]
+    },
+    {
+      "referenced_topic": "715-60-50-3 and 715-60-50-6",
+      "relationship_type": "related",
+      "description": "For compensation-related costs, see paragraphs 715-60-50-3 and 715-60-50-6.",
+      "specific_paragraphs": [
+        "715-60-50-3",
+        "715-60-50-6"
+      ]
+    },
+    {
+      "referenced_topic": "932-270-50-1",
+      "relationship_type": "related",
+      "description": "For disclosures required for entities with oil- and gas-producing activities, see paragraph 932-270-50-1.",
+      "specific_paragraphs": [
+        "932-270-50-1"
+      ]
+    },
+    {
+      "referenced_topic": "820-10-50",
+      "relationship_type": "related",
+      "description": "For fair value requirements, see Section 820-10-50.",
+      "specific_paragraphs": [
+        "820-10-50"
+      ]
+    },
+    {
+      "referenced_topic": "460-10-50",
+      "relationship_type": "related",
+      "description": "For guarantors, see Section 460-10-50.",
+      "specific_paragraphs": [
+        "460-10-50"
+      ]
+    },
+    {
+      "referenced_topic": "350-60-50-1 and 350-60-50-6 through 50-7",
+      "relationship_type": "related",
+      "description": "For disclosure requirements for crypto assets, see paragraphs 350-60-50-1 and 350-60-50-6 through 50-7.",
+      "specific_paragraphs": [
+        "350-60-50-1",
+        "350-60-50-6",
+        "350-60-50-7"
+      ]
+    },
+    {
+      "referenced_topic": "220-40",
+      "relationship_type": "related",
+      "description": "For income statement expense disaggregation, see Subtopic 220-40.",
+      "specific_paragraphs": [
+        "220-40"
+      ]
+    }
+  ],
+  "industry_specific": null,
+  "compliance_checkpoints": null,
+  "glossary_terms": [
+    {
+      "term": "Acquiree",
+      "definition": "The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity."
+    },
+    {
+      "term": "Acquirer",
+      "definition": "The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer."
+    },
+    {
+      "term": "Acquisition by a Not-for-Profit Entity",
+      "definition": "A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements."
+    },
+    {
+      "term": "Business",
+      "definition": "Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business."
+    },
+    {
+      "term": "Business Combination",
+      "definition": "A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations."
+    },
+    {
+      "term": "Change in Accounting Estimate",
+      "definition": "A change that has the effect of adjusting the carrying amount of an existing asset or liability or altering the subsequent accounting for existing or future assets or liabilities. Changes in accounting estimates result from new information."
+    },
+    {
+      "term": "Change in Accounting Principle",
+      "definition": "A change from one generally accepted accounting principle to another generally accepted accounting principle when there are two or more generally accepted accounting principles that apply or when the accounting principle formerly used is no longer generally accepted. A change in the method of applying an accounting principle also is considered a change in accounting principle."
+    },
+    {
+      "term": "Change in the Reporting Entity",
+      "definition": "A change that results in financial statements that, in effect, are those of a different reporting entity. Limited mainly to presenting consolidated or combined financial statements in place of individual entities, changing specific subsidiaries, or changing entities included in combined financial statements."
+    },
+    {
+      "term": "Contract",
+      "definition": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "term": "Contract Asset",
+      "definition": "An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time."
+    },
+    {
+      "term": "Contract Liability",
+      "definition": "An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer."
+    },
+    {
+      "term": "Customer",
+      "definition": "A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration."
+    },
+    {
+      "term": "Financial Asset",
+      "definition": "Cash, evidence of an ownership interest in an entity, or a contract that conveys to one entity a right to do either of the following: a. Receive cash or another financial instrument from a second entity; b. Exchange other financial instruments on potentially favorable terms with the second entity."
+    },
+    {
+      "term": "Financing Receivable",
+      "definition": "A financing arrangement that has both of the following characteristics: a. It represents a contractual right to receive money in either of the following ways: 1. On demand 2. On fixed or determinable dates. b. It is recognized as an asset in the entity's statement of financial position."
+    },
+    {
+      "term": "Lease",
+      "definition": "A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Legal Entity",
+      "definition": "Any legal structure used to conduct activities or to hold assets."
+    },
+    {
+      "term": "Lessee",
+      "definition": "An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Lessor",
+      "definition": "An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration."
+    },
+    {
+      "term": "Net Realizable Value",
+      "definition": "Estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation."
+    },
+    {
+      "term": "Not-for-Profit Entity",
+      "definition": "An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity: a. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return b. Operating purposes other than to provide goods or services at a profit c. Absence of ownership interests like those of business entities."
+    },
+    {
+      "term": "Performance Obligation",
+      "definition": "A promise in a contract with a customer to transfer to the customer either: a. A good or service (or a bundle of goods or services) that is distinct b. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer."
+    },
+    {
+      "term": "Public Business Entity",
+      "definition": "A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity. a. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing). b. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC. c. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer. d. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market. e. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion."
+    },
+    {
+      "term": "Publicly Traded Company",
+      "definition": "A publicly traded company includes any company whose securities trade in a public market on either of the following: a. A stock exchange (domestic or foreign) b. In the over-the-counter market (including securities quoted only locally or regionally), or any company that is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets)."
+    },
+    {
+      "term": "Restatement",
+      "definition": "The process of revising previously issued financial statements to reflect the correction of an error in those financial statements."
+    },
+    {
+      "term": "Revenue",
+      "definition": "Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations."
+    },
+    {
+      "term": "Security",
+      "definition": "A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics: a. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer. b. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment. c. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations."
+    },
+    {
+      "term": "Transaction Price",
+      "definition": "The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties."
+    },
+    {
+      "term": "Underlying Asset",
+      "definition": "An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset."
+    },
+    {
+      "term": "Variable Interest Entity",
+      "definition": "A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10."
+    }
+  ],
+  "implementation_guidance": null,
+  "frequently_asked_questions": null,
+  "semantic_tags": null,
+  "complexity_score": null
+}
