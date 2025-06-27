@@ -1,0 +1,4 @@
+llama-cloud-services
+dotenv
+pydantic
+llama-index
